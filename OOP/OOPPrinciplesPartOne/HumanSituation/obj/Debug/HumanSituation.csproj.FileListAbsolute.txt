@@ -1,0 +1,6 @@
+C:\Users\Stanimir\Desktop\OOPPrinciplesPartOne\OOPPrinciplesPartOne\HumanSituation\bin\Debug\HumanSituation.exe.config
+C:\Users\Stanimir\Desktop\OOPPrinciplesPartOne\OOPPrinciplesPartOne\HumanSituation\bin\Debug\HumanSituation.exe
+C:\Users\Stanimir\Desktop\OOPPrinciplesPartOne\OOPPrinciplesPartOne\HumanSituation\bin\Debug\HumanSituation.pdb
+C:\Users\Stanimir\Desktop\OOPPrinciplesPartOne\OOPPrinciplesPartOne\HumanSituation\obj\Debug\HumanSituation.exe
+C:\Users\Stanimir\Desktop\OOPPrinciplesPartOne\OOPPrinciplesPartOne\HumanSituation\obj\Debug\HumanSituation.pdb
+C:\Users\Stanimir\Desktop\OOPPrinciplesPartOne\OOPPrinciplesPartOne\HumanSituation\obj\Debug\HumanSituation.csprojResolveAssemblyReference.cache

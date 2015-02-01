@@ -1,0 +1,6 @@
+C:\Users\Stanimir\Desktop\OOPPrinciplesPartOne\OOPPrinciplesPartOne\OOPPrinciplesPartOne\bin\Debug\OOPPrinciplesPartOne.exe.config
+C:\Users\Stanimir\Desktop\OOPPrinciplesPartOne\OOPPrinciplesPartOne\OOPPrinciplesPartOne\obj\Debug\OOPPrinciplesPartOne.csprojResolveAssemblyReference.cache
+C:\Users\Stanimir\Desktop\OOPPrinciplesPartOne\OOPPrinciplesPartOne\OOPPrinciplesPartOne\bin\Debug\OOPPrinciplesPartOne.exe
+C:\Users\Stanimir\Desktop\OOPPrinciplesPartOne\OOPPrinciplesPartOne\OOPPrinciplesPartOne\bin\Debug\OOPPrinciplesPartOne.pdb
+C:\Users\Stanimir\Desktop\OOPPrinciplesPartOne\OOPPrinciplesPartOne\OOPPrinciplesPartOne\obj\Debug\OOPPrinciplesPartOne.exe
+C:\Users\Stanimir\Desktop\OOPPrinciplesPartOne\OOPPrinciplesPartOne\OOPPrinciplesPartOne\obj\Debug\OOPPrinciplesPartOne.pdb

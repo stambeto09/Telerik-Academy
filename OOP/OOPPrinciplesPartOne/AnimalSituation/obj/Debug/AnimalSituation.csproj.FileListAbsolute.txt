@@ -1,0 +1,6 @@
+C:\Users\Stanimir\Desktop\OOPPrinciplesPartOne\OOPPrinciplesPartOne\AnimalSituation\bin\Debug\AnimalSituation.exe.config
+C:\Users\Stanimir\Desktop\OOPPrinciplesPartOne\OOPPrinciplesPartOne\AnimalSituation\bin\Debug\AnimalSituation.exe
+C:\Users\Stanimir\Desktop\OOPPrinciplesPartOne\OOPPrinciplesPartOne\AnimalSituation\bin\Debug\AnimalSituation.pdb
+C:\Users\Stanimir\Desktop\OOPPrinciplesPartOne\OOPPrinciplesPartOne\AnimalSituation\obj\Debug\AnimalSituation.csprojResolveAssemblyReference.cache
+C:\Users\Stanimir\Desktop\OOPPrinciplesPartOne\OOPPrinciplesPartOne\AnimalSituation\obj\Debug\AnimalSituation.exe
+C:\Users\Stanimir\Desktop\OOPPrinciplesPartOne\OOPPrinciplesPartOne\AnimalSituation\obj\Debug\AnimalSituation.pdb

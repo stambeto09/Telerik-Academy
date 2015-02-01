@@ -1,0 +1,6 @@
+C:\Users\Stanimir\Desktop\OOPPrinciplesPartTwo\OOPPrinciplesPartTwo\OOPPrinciplesPartTwo\bin\Debug\OOPPrinciplesPartTwo.exe.config
+C:\Users\Stanimir\Desktop\OOPPrinciplesPartTwo\OOPPrinciplesPartTwo\OOPPrinciplesPartTwo\bin\Debug\OOPPrinciplesPartTwo.exe
+C:\Users\Stanimir\Desktop\OOPPrinciplesPartTwo\OOPPrinciplesPartTwo\OOPPrinciplesPartTwo\bin\Debug\OOPPrinciplesPartTwo.pdb
+C:\Users\Stanimir\Desktop\OOPPrinciplesPartTwo\OOPPrinciplesPartTwo\OOPPrinciplesPartTwo\obj\Debug\ShapesSituation.csprojResolveAssemblyReference.cache
+C:\Users\Stanimir\Desktop\OOPPrinciplesPartTwo\OOPPrinciplesPartTwo\OOPPrinciplesPartTwo\obj\Debug\OOPPrinciplesPartTwo.exe
+C:\Users\Stanimir\Desktop\OOPPrinciplesPartTwo\OOPPrinciplesPartTwo\OOPPrinciplesPartTwo\obj\Debug\OOPPrinciplesPartTwo.pdb

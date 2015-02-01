@@ -1,0 +1,6 @@
+C:\Users\Stanimir\Desktop\CommonTypeSystem\CommonTypeSystem\CommonTypeSystem\bin\Debug\CommonTypeSystem.exe.config
+C:\Users\Stanimir\Desktop\CommonTypeSystem\CommonTypeSystem\CommonTypeSystem\obj\Debug\CommonTypeSystem.csprojResolveAssemblyReference.cache
+C:\Users\Stanimir\Desktop\CommonTypeSystem\CommonTypeSystem\CommonTypeSystem\bin\Debug\CommonTypeSystem.exe
+C:\Users\Stanimir\Desktop\CommonTypeSystem\CommonTypeSystem\CommonTypeSystem\bin\Debug\CommonTypeSystem.pdb
+C:\Users\Stanimir\Desktop\CommonTypeSystem\CommonTypeSystem\CommonTypeSystem\obj\Debug\CommonTypeSystem.exe
+C:\Users\Stanimir\Desktop\CommonTypeSystem\CommonTypeSystem\CommonTypeSystem\obj\Debug\CommonTypeSystem.pdb

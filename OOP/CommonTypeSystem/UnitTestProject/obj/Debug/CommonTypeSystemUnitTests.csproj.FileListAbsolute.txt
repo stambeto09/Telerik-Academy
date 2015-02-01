@@ -1,0 +1,7 @@
+C:\Users\Stanimir\Desktop\CommonTypeSystem\CommonTypeSystem\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\Stanimir\Desktop\CommonTypeSystem\CommonTypeSystem\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\Stanimir\Desktop\CommonTypeSystem\CommonTypeSystem\UnitTestProject\obj\Debug\CommonTypeSystemUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Stanimir\Desktop\CommonTypeSystem\CommonTypeSystem\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\Stanimir\Desktop\CommonTypeSystem\CommonTypeSystem\UnitTestProject\obj\Debug\UnitTestProject.pdb
+C:\Users\Stanimir\Desktop\CommonTypeSystem\CommonTypeSystem\UnitTestProject\bin\Debug\CommonTypeSystem.exe
+C:\Users\Stanimir\Desktop\CommonTypeSystem\CommonTypeSystem\UnitTestProject\bin\Debug\CommonTypeSystem.pdb

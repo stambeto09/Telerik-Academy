@@ -1,0 +1,7 @@
+C:\Users\Stanimir\Desktop\DefininingClassesObjectsPartTwo\DefininingClassesObjectsPartTwo\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Stanimir\Desktop\DefininingClassesObjectsPartTwo\DefininingClassesObjectsPartTwo\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\Stanimir\Desktop\DefininingClassesObjectsPartTwo\DefininingClassesObjectsPartTwo\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\Stanimir\Desktop\DefininingClassesObjectsPartTwo\DefininingClassesObjectsPartTwo\UnitTests\bin\Debug\DefiningClassesObjectsPartTwo.exe
+C:\Users\Stanimir\Desktop\DefininingClassesObjectsPartTwo\DefininingClassesObjectsPartTwo\UnitTests\bin\Debug\DefiningClassesObjectsPartTwo.pdb
+C:\Users\Stanimir\Desktop\DefininingClassesObjectsPartTwo\DefininingClassesObjectsPartTwo\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\Stanimir\Desktop\DefininingClassesObjectsPartTwo\DefininingClassesObjectsPartTwo\UnitTests\obj\Debug\UnitTests.pdb

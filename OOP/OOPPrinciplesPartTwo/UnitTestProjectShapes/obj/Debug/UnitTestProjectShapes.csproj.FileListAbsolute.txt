@@ -1,0 +1,7 @@
+C:\Users\Stanimir\Desktop\OOPPrinciplesPartTwo\OOPPrinciplesPartTwo\UnitTestProjectShapes\bin\Debug\UnitTestProjectShapes.dll
+C:\Users\Stanimir\Desktop\OOPPrinciplesPartTwo\OOPPrinciplesPartTwo\UnitTestProjectShapes\bin\Debug\UnitTestProjectShapes.pdb
+C:\Users\Stanimir\Desktop\OOPPrinciplesPartTwo\OOPPrinciplesPartTwo\UnitTestProjectShapes\bin\Debug\OOPPrinciplesPartTwo.exe
+C:\Users\Stanimir\Desktop\OOPPrinciplesPartTwo\OOPPrinciplesPartTwo\UnitTestProjectShapes\bin\Debug\OOPPrinciplesPartTwo.pdb
+C:\Users\Stanimir\Desktop\OOPPrinciplesPartTwo\OOPPrinciplesPartTwo\UnitTestProjectShapes\obj\Debug\UnitTestProjectShapes.csprojResolveAssemblyReference.cache
+C:\Users\Stanimir\Desktop\OOPPrinciplesPartTwo\OOPPrinciplesPartTwo\UnitTestProjectShapes\obj\Debug\UnitTestProjectShapes.dll
+C:\Users\Stanimir\Desktop\OOPPrinciplesPartTwo\OOPPrinciplesPartTwo\UnitTestProjectShapes\obj\Debug\UnitTestProjectShapes.pdb

@@ -1,0 +1,14 @@
+C:\Users\akastambata\Desktop\DefiningClassesPartOne\UnitTestingMobilePhone\obj\Debug\UnitTestingMobilePhone.csprojResolveAssemblyReference.cache
+C:\Users\akastambata\Desktop\DefiningClassesPartOne\UnitTestingMobilePhone\bin\Debug\UnitTestingMobilePhone.dll
+C:\Users\akastambata\Desktop\DefiningClassesPartOne\UnitTestingMobilePhone\bin\Debug\UnitTestingMobilePhone.pdb
+C:\Users\akastambata\Desktop\DefiningClassesPartOne\UnitTestingMobilePhone\bin\Debug\MobilePhone.exe
+C:\Users\akastambata\Desktop\DefiningClassesPartOne\UnitTestingMobilePhone\bin\Debug\MobilePhone.pdb
+C:\Users\akastambata\Desktop\DefiningClassesPartOne\UnitTestingMobilePhone\obj\Debug\UnitTestingMobilePhone.dll
+C:\Users\akastambata\Desktop\DefiningClassesPartOne\UnitTestingMobilePhone\obj\Debug\UnitTestingMobilePhone.pdb
+W:\Telerik\DefiningClassesPartOne\UnitTestingMobilePhone\bin\Debug\UnitTestingMobilePhone.dll
+W:\Telerik\DefiningClassesPartOne\UnitTestingMobilePhone\bin\Debug\UnitTestingMobilePhone.pdb
+W:\Telerik\DefiningClassesPartOne\UnitTestingMobilePhone\bin\Debug\MobilePhone.exe
+W:\Telerik\DefiningClassesPartOne\UnitTestingMobilePhone\bin\Debug\MobilePhone.pdb
+W:\Telerik\DefiningClassesPartOne\UnitTestingMobilePhone\obj\Debug\UnitTestingMobilePhone.csprojResolveAssemblyReference.cache
+W:\Telerik\DefiningClassesPartOne\UnitTestingMobilePhone\obj\Debug\UnitTestingMobilePhone.dll
+W:\Telerik\DefiningClassesPartOne\UnitTestingMobilePhone\obj\Debug\UnitTestingMobilePhone.pdb

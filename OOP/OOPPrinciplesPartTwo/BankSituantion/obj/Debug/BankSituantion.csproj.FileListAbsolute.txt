@@ -1,0 +1,6 @@
+C:\Users\Stanimir\Desktop\OOPPrinciplesPartTwo\OOPPrinciplesPartTwo\BankSituantion\bin\Debug\BankSituantion.exe.config
+C:\Users\Stanimir\Desktop\OOPPrinciplesPartTwo\OOPPrinciplesPartTwo\BankSituantion\bin\Debug\BankSituantion.exe
+C:\Users\Stanimir\Desktop\OOPPrinciplesPartTwo\OOPPrinciplesPartTwo\BankSituantion\bin\Debug\BankSituantion.pdb
+C:\Users\Stanimir\Desktop\OOPPrinciplesPartTwo\OOPPrinciplesPartTwo\BankSituantion\obj\Debug\BankSituantion.exe
+C:\Users\Stanimir\Desktop\OOPPrinciplesPartTwo\OOPPrinciplesPartTwo\BankSituantion\obj\Debug\BankSituantion.pdb
+C:\Users\Stanimir\Desktop\OOPPrinciplesPartTwo\OOPPrinciplesPartTwo\BankSituantion\obj\Debug\BankSituantion.csprojResolveAssemblyReference.cache
