@@ -1,0 +1,12 @@
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\IntegerValueBitNumberChecker\bin\Debug\IntegerValueBitNumberChecker.exe.config
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\IntegerValueBitNumberChecker\obj\Debug\IntegerValueBitNumberChecker.csprojResolveAssemblyReference.cache
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\IntegerValueBitNumberChecker\bin\Debug\IntegerValueBitNumberChecker.exe
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\IntegerValueBitNumberChecker\bin\Debug\IntegerValueBitNumberChecker.pdb
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\IntegerValueBitNumberChecker\obj\Debug\IntegerValueBitNumberChecker.exe
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\IntegerValueBitNumberChecker\obj\Debug\IntegerValueBitNumberChecker.pdb
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\IntegerValueBitNumberChecker\bin\Debug\IntegerValueBitNumberChecker.exe.config
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\IntegerValueBitNumberChecker\bin\Debug\IntegerValueBitNumberChecker.exe
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\IntegerValueBitNumberChecker\bin\Debug\IntegerValueBitNumberChecker.pdb
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\IntegerValueBitNumberChecker\obj\Debug\IntegerValueBitNumberChecker.csprojResolveAssemblyReference.cache
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\IntegerValueBitNumberChecker\obj\Debug\IntegerValueBitNumberChecker.exe
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\IntegerValueBitNumberChecker\obj\Debug\IntegerValueBitNumberChecker.pdb

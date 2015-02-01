@@ -1,0 +1,12 @@
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\RectangleAreaCalculating\bin\Debug\RectangleAreaCalculating.exe.config
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\RectangleAreaCalculating\bin\Debug\RectangleAreaCalculating.exe
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\RectangleAreaCalculating\bin\Debug\RectangleAreaCalculating.pdb
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\RectangleAreaCalculating\obj\Debug\RectangleAreaCalculating.csprojResolveAssemblyReference.cache
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\RectangleAreaCalculating\obj\Debug\RectangleAreaCalculating.exe
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\RectangleAreaCalculating\obj\Debug\RectangleAreaCalculating.pdb
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\RectangleAreaCalculating\bin\Debug\RectangleAreaCalculating.exe.config
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\RectangleAreaCalculating\bin\Debug\RectangleAreaCalculating.exe
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\RectangleAreaCalculating\bin\Debug\RectangleAreaCalculating.pdb
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\RectangleAreaCalculating\obj\Debug\RectangleAreaCalculating.csprojResolveAssemblyReference.cache
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\RectangleAreaCalculating\obj\Debug\RectangleAreaCalculating.exe
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\RectangleAreaCalculating\obj\Debug\RectangleAreaCalculating.pdb

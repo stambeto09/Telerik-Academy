@@ -1,0 +1,12 @@
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\DividerToFiveAndSeven\bin\Debug\DividerToFiveAndSeven.exe.config
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\DividerToFiveAndSeven\bin\Debug\DividerToFiveAndSeven.exe
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\DividerToFiveAndSeven\bin\Debug\DividerToFiveAndSeven.pdb
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\DividerToFiveAndSeven\obj\Debug\DividerToFiveAndSeven.csprojResolveAssemblyReference.cache
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\DividerToFiveAndSeven\obj\Debug\DividerToFiveAndSeven.exe
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\DividerToFiveAndSeven\obj\Debug\DividerToFiveAndSeven.pdb
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\DividerToFiveAndSeven\bin\Debug\DividerToFiveAndSeven.exe.config
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\DividerToFiveAndSeven\bin\Debug\DividerToFiveAndSeven.exe
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\DividerToFiveAndSeven\bin\Debug\DividerToFiveAndSeven.pdb
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\DividerToFiveAndSeven\obj\Debug\DividerToFiveAndSeven.csprojResolveAssemblyReference.cache
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\DividerToFiveAndSeven\obj\Debug\DividerToFiveAndSeven.exe
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\DividerToFiveAndSeven\obj\Debug\DividerToFiveAndSeven.pdb

@@ -1,0 +1,15 @@
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\ParityChecking\bin\Debug\ParityChecking.exe.config
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\ParityChecking\bin\Debug\ParityChecking.exe
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\ParityChecking\bin\Debug\ParityChecking.pdb
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\ParityChecking\obj\Debug\ParityChecking.csprojResolveAssemblyReference.cache
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\ParityChecking\obj\Debug\ParityChecking.exe
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\ParityChecking\obj\Debug\ParityChecking.pdb
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\ParityChecking\bin\Debug\ParityChecking.exe.config
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\ParityChecking\obj\Debug\ParityChecking.exe
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\ParityChecking\obj\Debug\ParityChecking.pdb
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\ParityChecking\bin\Debug\ParityChecking.exe
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\ParityChecking\bin\Debug\ParityChecking.pdb
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\ParityChecking\obj\Debug\ParityChecking.csprojResolveAssemblyReference.cache
+C:\Users\Stanimir\Dropbox\Telerik\C#1\OperatorsHomework\OperatorsHomework\ParityChecking\bin\Debug\ParityChecking.exe.config
+C:\Users\Stanimir\Dropbox\Telerik\C#1\OperatorsHomework\OperatorsHomework\ParityChecking\obj\Debug\ParityChecking.exe
+C:\Users\Stanimir\Dropbox\Telerik\C#1\OperatorsHomework\OperatorsHomework\ParityChecking\obj\Debug\ParityChecking.pdb

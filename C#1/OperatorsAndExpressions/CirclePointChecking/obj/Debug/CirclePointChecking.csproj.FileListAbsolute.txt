@@ -1,0 +1,12 @@
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\CirclePointChecking\bin\Debug\CirclePointChecking.exe.config
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\CirclePointChecking\bin\Debug\CirclePointChecking.exe
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\CirclePointChecking\bin\Debug\CirclePointChecking.pdb
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\CirclePointChecking\obj\Debug\CirclePointChecking.csprojResolveAssemblyReference.cache
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\CirclePointChecking\obj\Debug\CirclePointChecking.exe
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\CirclePointChecking\obj\Debug\CirclePointChecking.pdb
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\CirclePointChecking\bin\Debug\CirclePointChecking.exe.config
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\CirclePointChecking\bin\Debug\CirclePointChecking.exe
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\CirclePointChecking\bin\Debug\CirclePointChecking.pdb
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\CirclePointChecking\obj\Debug\CirclePointChecking.csprojResolveAssemblyReference.cache
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\CirclePointChecking\obj\Debug\CirclePointChecking.exe
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\CirclePointChecking\obj\Debug\CirclePointChecking.pdb

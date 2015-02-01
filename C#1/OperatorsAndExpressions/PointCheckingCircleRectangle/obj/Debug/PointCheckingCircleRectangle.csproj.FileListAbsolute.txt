@@ -1,0 +1,12 @@
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\PointCheckingCircleRectangle\bin\Debug\PointCheckingCircleRectangle.exe.config
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\PointCheckingCircleRectangle\bin\Debug\PointCheckingCircleRectangle.exe
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\PointCheckingCircleRectangle\bin\Debug\PointCheckingCircleRectangle.pdb
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\PointCheckingCircleRectangle\obj\Debug\PointCheckingCircleRectangle.csprojResolveAssemblyReference.cache
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\PointCheckingCircleRectangle\obj\Debug\PointCheckingCircleRectangle.exe
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\PointCheckingCircleRectangle\obj\Debug\PointCheckingCircleRectangle.pdb
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\PointCheckingCircleRectangle\bin\Debug\PointCheckingCircleRectangle.exe.config
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\PointCheckingCircleRectangle\bin\Debug\PointCheckingCircleRectangle.exe
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\PointCheckingCircleRectangle\bin\Debug\PointCheckingCircleRectangle.pdb
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\PointCheckingCircleRectangle\obj\Debug\PointCheckingCircleRectangle.csprojResolveAssemblyReference.cache
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\PointCheckingCircleRectangle\obj\Debug\PointCheckingCircleRectangle.exe
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\PointCheckingCircleRectangle\obj\Debug\PointCheckingCircleRectangle.pdb

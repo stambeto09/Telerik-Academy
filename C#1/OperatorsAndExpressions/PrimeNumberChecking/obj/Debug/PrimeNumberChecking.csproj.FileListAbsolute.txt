@@ -1,0 +1,12 @@
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\PrimeNumberChecking\bin\Debug\PrimeNumberChecking.exe.config
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\PrimeNumberChecking\bin\Debug\PrimeNumberChecking.exe
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\PrimeNumberChecking\bin\Debug\PrimeNumberChecking.pdb
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\PrimeNumberChecking\obj\Debug\PrimeNumberChecking.csprojResolveAssemblyReference.cache
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\PrimeNumberChecking\obj\Debug\PrimeNumberChecking.exe
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\PrimeNumberChecking\obj\Debug\PrimeNumberChecking.pdb
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\PrimeNumberChecking\bin\Debug\PrimeNumberChecking.exe.config
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\PrimeNumberChecking\bin\Debug\PrimeNumberChecking.exe
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\PrimeNumberChecking\bin\Debug\PrimeNumberChecking.pdb
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\PrimeNumberChecking\obj\Debug\PrimeNumberChecking.csprojResolveAssemblyReference.cache
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\PrimeNumberChecking\obj\Debug\PrimeNumberChecking.exe
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\PrimeNumberChecking\obj\Debug\PrimeNumberChecking.pdb

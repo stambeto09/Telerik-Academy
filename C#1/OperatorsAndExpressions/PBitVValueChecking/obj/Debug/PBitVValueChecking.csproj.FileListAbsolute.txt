@@ -1,0 +1,10 @@
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\PBitVValueChecking\bin\Debug\PBitVValueChecking.exe.config
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\PBitVValueChecking\bin\Debug\PBitVValueChecking.exe
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\PBitVValueChecking\bin\Debug\PBitVValueChecking.pdb
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\PBitVValueChecking\obj\Debug\PBitVValueChecking.exe
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\PBitVValueChecking\obj\Debug\PBitVValueChecking.pdb
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\PBitVValueChecking\bin\Debug\PBitVValueChecking.exe.config
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\PBitVValueChecking\bin\Debug\PBitVValueChecking.exe
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\PBitVValueChecking\bin\Debug\PBitVValueChecking.pdb
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\PBitVValueChecking\obj\Debug\PBitVValueChecking.exe
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\PBitVValueChecking\obj\Debug\PBitVValueChecking.pdb

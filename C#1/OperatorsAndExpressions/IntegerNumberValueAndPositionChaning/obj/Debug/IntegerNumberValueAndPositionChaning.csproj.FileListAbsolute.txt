@@ -1,0 +1,12 @@
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\IntegerNumberValueAndPositionChaning\bin\Debug\IntegerNumberValueAndPositionChaning.exe.config
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\IntegerNumberValueAndPositionChaning\bin\Debug\IntegerNumberValueAndPositionChaning.exe
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\IntegerNumberValueAndPositionChaning\bin\Debug\IntegerNumberValueAndPositionChaning.pdb
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\IntegerNumberValueAndPositionChaning\obj\Debug\IntegerNumberValueAndPositionChaning.csprojResolveAssemblyReference.cache
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\IntegerNumberValueAndPositionChaning\obj\Debug\IntegerNumberValueAndPositionChaning.exe
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\IntegerNumberValueAndPositionChaning\obj\Debug\IntegerNumberValueAndPositionChaning.pdb
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\IntegerNumberValueAndPositionChaning\bin\Debug\IntegerNumberValueAndPositionChaning.exe.config
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\IntegerNumberValueAndPositionChaning\bin\Debug\IntegerNumberValueAndPositionChaning.exe
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\IntegerNumberValueAndPositionChaning\bin\Debug\IntegerNumberValueAndPositionChaning.pdb
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\IntegerNumberValueAndPositionChaning\obj\Debug\IntegerNumberValueAndPositionChaning.csprojResolveAssemblyReference.cache
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\IntegerNumberValueAndPositionChaning\obj\Debug\IntegerNumberValueAndPositionChaning.exe
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\IntegerNumberValueAndPositionChaning\obj\Debug\IntegerNumberValueAndPositionChaning.pdb

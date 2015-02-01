@@ -1,0 +1,12 @@
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\TrapezoidArea\bin\Debug\TrapezoidArea.exe.config
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\TrapezoidArea\bin\Debug\TrapezoidArea.exe
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\TrapezoidArea\bin\Debug\TrapezoidArea.pdb
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\TrapezoidArea\obj\Debug\TrapezoidArea.csprojResolveAssemblyReference.cache
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\TrapezoidArea\obj\Debug\TrapezoidArea.exe
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\TrapezoidArea\obj\Debug\TrapezoidArea.pdb
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\TrapezoidArea\bin\Debug\TrapezoidArea.exe.config
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\TrapezoidArea\bin\Debug\TrapezoidArea.exe
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\TrapezoidArea\bin\Debug\TrapezoidArea.pdb
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\TrapezoidArea\obj\Debug\TrapezoidArea.csprojResolveAssemblyReference.cache
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\TrapezoidArea\obj\Debug\TrapezoidArea.exe
+W:\Telerik\C#1\OperatorsHomework\OperatorsHomework\TrapezoidArea\obj\Debug\TrapezoidArea.pdb

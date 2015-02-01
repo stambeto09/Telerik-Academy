@@ -1,0 +1,2 @@
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\OperatorsHomework\bin\Debug\OperatorsHomework.exe.config
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\OperatorsHomework\obj\Debug\OperatorsHomework.csprojResolveAssemblyReference.cache

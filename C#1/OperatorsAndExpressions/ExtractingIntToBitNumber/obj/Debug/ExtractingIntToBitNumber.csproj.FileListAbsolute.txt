@@ -1,0 +1,6 @@
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\ExtractingIntToBitNumber\bin\Debug\ExtractingIntToBitNumber.exe.config
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\ExtractingIntToBitNumber\bin\Debug\ExtractingIntToBitNumber.exe
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\ExtractingIntToBitNumber\bin\Debug\ExtractingIntToBitNumber.pdb
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\ExtractingIntToBitNumber\obj\Debug\ExtractingIntToBitNumber.csprojResolveAssemblyReference.cache
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\ExtractingIntToBitNumber\obj\Debug\ExtractingIntToBitNumber.exe
+F:\Telerik and TY\Telerik\C#1\OperatorsHomework\OperatorsHomework\ExtractingIntToBitNumber\obj\Debug\ExtractingIntToBitNumber.pdb
