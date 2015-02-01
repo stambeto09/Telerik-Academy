@@ -1,0 +1,25 @@
+﻿table, td
+    { border-collapse:collapse; 
+      border:1px solid;
+    }
+.txtarea 
+    { resize:none;
+    }
+.center 
+    { text-align:center; background-color:aquamarine;
+    }
+#state 
+    { width:80px;
+    }
+.width35 
+    { width:35px;
+    }
+.width100 
+    { width:100px;
+    }
+.col100
+    { width:100px;
+    }
+.col300
+    { width:300px;
+    }

@@ -1,0 +1,5 @@
+D:\workspace\Laptop Catalogue\Laptop Catalogue\bin\Laptop Catalogue.dll
+D:\workspace\Laptop Catalogue\Laptop Catalogue\bin\Laptop Catalogue.pdb
+D:\workspace\Laptop Catalogue\Laptop Catalogue\obj\Debug\Laptop Catalogue.csprojResolveAssemblyReference.cache
+D:\workspace\Laptop Catalogue\Laptop Catalogue\obj\Debug\Laptop Catalogue.dll
+D:\workspace\Laptop Catalogue\Laptop Catalogue\obj\Debug\Laptop Catalogue.pdb

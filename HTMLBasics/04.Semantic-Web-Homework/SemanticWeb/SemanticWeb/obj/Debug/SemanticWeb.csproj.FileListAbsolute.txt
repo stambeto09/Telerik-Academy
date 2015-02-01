@@ -1,0 +1,6 @@
+C:\Users\StanimirYakimov\Desktop\semantic-web-homework\SemanticWeb\SemanticWeb\bin\SemanticWeb.dll.config
+C:\Users\StanimirYakimov\Desktop\semantic-web-homework\SemanticWeb\SemanticWeb\bin\SemanticWeb.dll
+C:\Users\StanimirYakimov\Desktop\semantic-web-homework\SemanticWeb\SemanticWeb\bin\SemanticWeb.pdb
+C:\Users\StanimirYakimov\Desktop\semantic-web-homework\SemanticWeb\SemanticWeb\obj\Debug\SemanticWeb.csprojResolveAssemblyReference.cache
+C:\Users\StanimirYakimov\Desktop\semantic-web-homework\SemanticWeb\SemanticWeb\obj\Debug\SemanticWeb.dll
+C:\Users\StanimirYakimov\Desktop\semantic-web-homework\SemanticWeb\SemanticWeb\obj\Debug\SemanticWeb.pdb

@@ -1,0 +1,24 @@
+﻿table 
+    { border-collapse:collapse;
+    }
+th, tfoot
+    { padding:10px; border:1px solid; text-align:left; background-color:lightgray; 
+    } 
+td  
+    { padding:10px; border:1px solid;
+    }
+tfoot td
+    { border:none;
+    }
+.right
+    { text-align:right;
+    }
+.active
+{ 	border: 1px solid red;
+}
+.width35
+{ width:35px;
+}
+
+
+

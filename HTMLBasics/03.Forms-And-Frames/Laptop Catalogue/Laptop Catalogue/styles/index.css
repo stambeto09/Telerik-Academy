@@ -1,0 +1,26 @@
+﻿body
+{   width:900px;
+    margin:auto;
+    font-family:Corbel;
+}
+ul
+{   text-align:center;
+    font-size: 25px;
+    list-style-type: none;
+    margin:0;
+    padding:0;
+                
+}
+ul li
+{   display:inline;
+}
+table table table
+{   text-align:center;
+}
+.range
+{   font-size:20px;
+}
+.field
+{   width:50px;
+    height:50px;
+}

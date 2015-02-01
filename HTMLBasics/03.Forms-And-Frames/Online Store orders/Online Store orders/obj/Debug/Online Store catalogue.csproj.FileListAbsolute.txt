@@ -1,0 +1,25 @@
+D:\workspace\Online Store orders\Online Store orders\bin\Online Store orders.dll
+D:\workspace\Online Store orders\Online Store orders\bin\Online Store orders.pdb
+D:\workspace\Online Store orders\Online Store orders\obj\Debug\Online Store catalogue.csprojResolveAssemblyReference.cache
+D:\workspace\Online Store orders\Online Store orders\obj\Debug\Online Store orders.dll
+D:\workspace\Online Store orders\Online Store orders\obj\Debug\Online Store orders.pdb
+D:\workspace\Online Store orders (FINAL) (RDY)\Online Store orders\bin\Online Store orders.dll
+D:\workspace\Online Store orders (FINAL) (RDY)\Online Store orders\bin\Online Store orders.pdb
+D:\workspace\Online Store orders (FINAL) (RDY)\Online Store orders\obj\Debug\Online Store catalogue.csprojResolveAssemblyReference.cache
+D:\workspace\Online Store orders (FINAL) (RDY)\Online Store orders\obj\Debug\Online Store orders.dll
+D:\workspace\Online Store orders (FINAL) (RDY)\Online Store orders\obj\Debug\Online Store orders.pdb
+D:\workspace\Forms and frames HW 3\Online Store orders (FINAL) (RDY)\Online Store orders\bin\Online Store orders.dll
+D:\workspace\Forms and frames HW 3\Online Store orders (FINAL) (RDY)\Online Store orders\bin\Online Store orders.pdb
+D:\workspace\Forms and frames HW 3\Online Store orders (FINAL) (RDY)\Online Store orders\obj\Debug\Online Store catalogue.csprojResolveAssemblyReference.cache
+D:\workspace\Forms and frames HW 3\Online Store orders (FINAL) (RDY)\Online Store orders\obj\Debug\Online Store orders.dll
+D:\workspace\Forms and frames HW 3\Online Store orders (FINAL) (RDY)\Online Store orders\obj\Debug\Online Store orders.pdb
+D:\workspace\Forms and frames HW 3\Online Store orders (RDY)\Online Store orders\bin\Online Store orders.dll
+D:\workspace\Forms and frames HW 3\Online Store orders (RDY)\Online Store orders\bin\Online Store orders.pdb
+D:\workspace\Forms and frames HW 3\Online Store orders (RDY)\Online Store orders\obj\Debug\Online Store catalogue.csprojResolveAssemblyReference.cache
+D:\workspace\Forms and frames HW 3\Online Store orders (RDY)\Online Store orders\obj\Debug\Online Store orders.dll
+D:\workspace\Forms and frames HW 3\Online Store orders (RDY)\Online Store orders\obj\Debug\Online Store orders.pdb
+D:\workspace\Forms and frames HW 3\Online Store orders\Online Store orders\bin\Online Store orders.dll
+D:\workspace\Forms and frames HW 3\Online Store orders\Online Store orders\bin\Online Store orders.pdb
+D:\workspace\Forms and frames HW 3\Online Store orders\Online Store orders\obj\Debug\Online Store catalogue.csprojResolveAssemblyReference.cache
+D:\workspace\Forms and frames HW 3\Online Store orders\Online Store orders\obj\Debug\Online Store orders.dll
+D:\workspace\Forms and frames HW 3\Online Store orders\Online Store orders\obj\Debug\Online Store orders.pdb

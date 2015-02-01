@@ -1,0 +1,150 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Registration Page</title>
+        <meta charset="utf-8" />
+        <link href="styles/index.css" rel="stylesheet" type="text/css" />   <!--External .css document implemented-->
+    </head>
+    <body>
+        <section>
+            <form method="post" action="Submit.php">
+                <table>
+                    <colgroup>
+                        <col class="col100"/>
+                        <col class="col300"/>
+                        <col />
+                        <col />
+                    </colgroup>
+                    <tfoot>
+                        <tr>
+                            <td colspan="4" class="center">
+                                <input type="submit" name="submitBtn" value="Submit" />
+                                <input type="reset" name="resetBtn" value="Clear This Form" />
+                            </td>
+                        </tr>
+                    </tfoot>
+                    <tbody>
+                        <tr>
+                            <td>
+                                <label for="nakov">Last Name</label>
+
+                            </td>
+                            <td colspan="3">
+                                <input type="text" name="Nakov" placeholder="Nakov" id="nakov" required="required" />    <!--Some text fields are marked as "required" due to their importance in the registration form-->
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <label for="svetlin">First Name</label>
+                            </td>
+                            <td colspan="3">
+                                <input type="text" name="Svetlin" placeholder="Svetlin" id="svetlin" required="required" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <label for="adrs">Address</label>
+                            </td>
+                            <td colspan="3">
+                                <textarea name="address" class="txtarea" placeholder="17 Hristo Botev Str. 15 G 2" id="adrs"></textarea>
+                            </td>
+                        </tr>
+                        <tr>  
+                            <td>
+                                <label for="city">City</label>
+                            </td>
+                            <td>
+                                <input type="text" name="city" placeholder="Kaspichan" id="city" required="required"/>
+                            </td>
+                            <td>
+                                <label for="state">State</label>
+                            </td>
+                            <td>
+                                <input type="text" placeholder="B21" name="state" id="state" required="required" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <label for="zip">Zip/Postal Code</label>
+                            </td>
+                            <td colspan="3">
+                                <input type="text" name="zip/code" maxlength="4" placeholder="9325" id="zip" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Country</td>
+                            <td colspan="3">
+                                <select name="Country" required="required">
+                                    <option value="1" selected="selected">Bulgaria</option>
+                                    <option value="2">USA</option>
+                                    <option value="3">Russia</option>
+                                    <option value="4">Other</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <label for="phone">Phone (country code, area code, number)</label>
+                            </td>
+                            <td colspan="3">
+                                (+
+                                <input type="text" class="width35" placeholder="359"  maxlength="3" id="phone"/>
+                                )
+                                <input type="text" class="width35" placeholder="88"  maxlength="2"/>
+                                -
+                                <input type="text" class="width100" placeholder="8334343" maxlength="7"/>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <label for="email">E-mail</label>
+                            </td>
+                            <td colspan="3">
+                                <input type="text" placeholder="nakov@kas.org"  id="email" required="required" pattern="^[a-zA-Z0-9.!#$%&’*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$"/>    <!--Inserted attribute "pattern" that follows the pattern: text@text.text-->
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Birth date</td>
+                            <td colspan="3">
+                                <label for="month">Month</label>    <!--Month, Day and Year are all labels refered respectively to their input text fields-->
+                                <input type="text" class="width35" maxlength="2" placeholder="06" id="month" />
+                                <label for="day">Day</label>
+                                <input type="text" class="width35" maxlength="2" placeholder="14" id="day" />
+                                <label for="year">Year(4 digit)</label> 
+                                <input type="text" class="width35" maxlength="4" placeholder="1980" id="year" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Gender</td>
+                            <td colspan="3">
+                                <select name="gender">
+                                    <option value="1" selected="selected">Male</option>
+                                    <option value="2">Female</option>
+                                    <option value="3">Other</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Starting date</td>
+                            <td colspan="3">
+                                <input type="radio" name="date" value="Spring 2006" id="spring" checked="checked"/>
+                                <label for="spring">Spring 2006</label>
+                                <input type="radio" name="date" value="Summer 2006" id="summer"/>
+                                <label for="summer">Summer 2006</label>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <label for="comment">Comments/Questions</label>
+
+                            </td>
+                            <td colspan="3">
+                                <textarea id="comment" class="txtarea" placeholder="Please send me more information about lodging"></textarea>      <!--Inserted attribute "pattern" that follows the pattern: text@text.text-->
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </form>
+        </section>
+    </body>
+</html>

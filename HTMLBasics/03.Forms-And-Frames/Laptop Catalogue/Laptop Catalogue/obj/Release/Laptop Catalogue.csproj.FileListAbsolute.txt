@@ -1,0 +1,15 @@
+D:\workspace\Laptop Catalogue\Laptop Catalogue\bin\Laptop Catalogue.dll
+D:\workspace\Laptop Catalogue\Laptop Catalogue\bin\Laptop Catalogue.pdb
+D:\workspace\Laptop Catalogue\Laptop Catalogue\obj\Release\Laptop Catalogue.dll
+D:\workspace\Laptop Catalogue\Laptop Catalogue\obj\Release\Laptop Catalogue.pdb
+D:\workspace\Laptop Catalogue\Laptop Catalogue\obj\Release\Laptop Catalogue.csprojResolveAssemblyReference.cache
+D:\workspace\Forms and frames HW 3\Laptop Catalogue (RDY)\Laptop Catalogue\bin\Laptop Catalogue.dll
+D:\workspace\Forms and frames HW 3\Laptop Catalogue (RDY)\Laptop Catalogue\bin\Laptop Catalogue.pdb
+D:\workspace\Forms and frames HW 3\Laptop Catalogue (RDY)\Laptop Catalogue\obj\Release\Laptop Catalogue.csprojResolveAssemblyReference.cache
+D:\workspace\Forms and frames HW 3\Laptop Catalogue (RDY)\Laptop Catalogue\obj\Release\Laptop Catalogue.dll
+D:\workspace\Forms and frames HW 3\Laptop Catalogue (RDY)\Laptop Catalogue\obj\Release\Laptop Catalogue.pdb
+D:\workspace\Forms and frames HW 3\Laptop Catalogue\Laptop Catalogue\bin\Laptop Catalogue.dll
+D:\workspace\Forms and frames HW 3\Laptop Catalogue\Laptop Catalogue\bin\Laptop Catalogue.pdb
+D:\workspace\Forms and frames HW 3\Laptop Catalogue\Laptop Catalogue\obj\Release\Laptop Catalogue.csprojResolveAssemblyReference.cache
+D:\workspace\Forms and frames HW 3\Laptop Catalogue\Laptop Catalogue\obj\Release\Laptop Catalogue.dll
+D:\workspace\Forms and frames HW 3\Laptop Catalogue\Laptop Catalogue\obj\Release\Laptop Catalogue.pdb
