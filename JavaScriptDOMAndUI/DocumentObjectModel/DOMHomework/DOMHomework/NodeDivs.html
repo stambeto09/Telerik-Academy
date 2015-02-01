@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <div id="main-div">
+        Main div
+        <div>Nested div 1</div>
+        <div>Nested div 2</div>
+        <div>Nested div 3</div>
+        <div>Nested div 4</div>
+        <div>Nested div 5</div>
+    </div>
+    <input type="button" value="Select by Query" onclick="selectNestedDivsByQuery()"/>
+    <input type="button" value="Select by InnerHTML" onclick="selectNestedDivsByInnerHTML()" />
+    <input type="button" value="Select by OuterHTML" onclick="selectNestedDivsByOuterHTML()" />
+    <input type="button" value="Select by tag name" onclick="selectByTagName()" />
+    <script>
+        function selectNestedDivsByQuery() {
+            console.log('Selected nested divs by Query');
+            var nestedDivs = document.querySelectorAll("div > div");
+            console.log(nestedDivs);
+        }
+
+        function selectNestedDivsByInnerHTML() {
+            console.log('Selected nested divs by innerHTML.');
+            var mainDiv = document.getElementById("main-div");
+            var divContent = mainDiv.innerHTML;
+            console.log(divContent);
+        }
+
+        function selectNestedDivsByOuterHTML() {
+            console.log('Selected nested divs by outerHTML.');
+            var mainDiv = document.getElementById("main-div");
+            var outerContent = mainDiv.outerHTML;
+            console.log(outerContent);
+        }
+
+        function selectByTagName() {
+            console.log('Select by tag name');
+            var mainDiv = document.getElementById("main-div");
+            var nestedDivs = mainDiv.getElementsByTagName("div");
+
+            console.log(nestedDivs);
+
+            for (var i = 0; i < nestedDivs.length; i++) {
+                console.log(nestedDivs[i].textContent);
+            }
+        }
+
+    </script>
+</body>
+</html>

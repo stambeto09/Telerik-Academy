@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+    <script src="jquery-1.10.1.js"></script>
+    <link href="jquery-ui/css/ui-lightness/jquery-ui-1.10.3.custom.css" rel="stylesheet" />
+    <script src="jquery-ui/js/jquery-1.9.1.js"></script>
+    <script src="jquery-ui/js/jquery-ui-1.10.3.custom.js"></script>
+
+</head>
+<body>
+    <select id="dropdown">
+        <option selected="selected" value="1">One</option>
+        <option value="2">Two</option>
+        <option value="3">Three</option>
+        <option value="4">Four</option>
+    </select>
+    <script>
+        $(document).ready(function () {
+            $('#dropdown').dropdown();
+        });
+    </script>
+
+    <script>
+        (function ($) {
+            $.fn.dropdown = function () {
+                var $this;
+                $this = $(this);
+                // this.hide();
+                $("body").append("<div class=\"dropdown-list-container\"></div>");
+                $(".dropdown-list-container").append("<ul class=\"dropdown-list-options\"></ul>");
+                var $length = $("#dropdown option").size();
+
+                for (var i = 0; i < $length; i++) {
+                    var selectedValue = i + 1;
+                    console.log(selectedValue);
+                    var $textContent = $("#dropdown option[value=" + selectedValue + "]").text();
+                    console.log($textContent);
+                    var $liText = "<li class=\"dropdown-list-option\" data-value=" + i.toString() + ">" + $textContent.toString() + "</li>";
+                    $(".dropdown-list-options").append($liText);
+                    console.log($liText);
+                }
+
+                $(".dropdown-list-options").css("list-style-type", "none")
+                    .css("display", "inline-block");
+                $("li").css("border", "1px solid black")
+                    .css("font-size", "18px");
+
+                $(".dropdown-list-option").on("click", function () {
+                    var $this = $(this);
+                    $("li").css("color", "black");
+                    $(this).css("color", "red");
+                    var $dataValue = parseInt($this.attr("data-value")) + 1;
+                    console.log($dataValue);
+                    $("option[value = " + $dataValue + "]").prop('selected', 'selected');
+                });
+
+                return this;
+            }
+        }(jQuery));
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,18 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <input type="text" id="text-box" placeholder="Your text" />
+    <input type="button" onclick="printTheText()" value="Print" />
+    <script>
+        function printTheText() {
+            var textField = document.getElementById("text-box");
+            var textContent = textField.value;
+            console.log(textContent);
+            console.log(typeof textContent);
+        }
+    </script>
+</body>
+</html>

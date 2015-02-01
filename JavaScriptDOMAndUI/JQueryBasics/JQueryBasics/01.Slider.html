@@ -1,0 +1,87 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="jquery-1.11.1.js"></script>
+</head>
+<body>
+    <style>
+        .slide {
+            width: 500px;
+            height: 500px;
+            display: inline-block;
+        }
+
+        .current {
+            border: 5px solid black;
+        }
+    </style>
+    <div class="slide first current">
+        <h1>Ninja Superman slide</h1>
+        <p>Here's some text.</p>
+        <img src="http://blogs.telerik.com/images/default-source/miroslav-miroslav/super_ninja.png?sfvrsn=2" width="300" height="300">
+    </div>
+    <div class="slide">
+        <h1> Ninja Samurai</h1>
+        <p>Here's some text about ninja samurais</p>
+        <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVNH4RuAsomFkrv9tWiz_VBaCbVSWbC7gDXtOag9e7K_JHuC6zZR5Es-Y" width="500" height="300">
+    </div>
+
+    <div class="slide last">
+        <h1>The birth of a ninja</h1>
+        <p>Some text about the birth of a ninja from egg.</p>
+        <img src="http://forums.academy.telerik.com/?qa=blob&qa_blobid=5564423925526764256" width="300" height="300">
+    </div>
+    <div id="controls">
+        <input type="button" id="prev-btn" value="Previous slide" />
+        <input type="button" id="next-btn" value="Next slide" />
+        <input type="button" id="slide-btn" value="Slide show" />
+    </div>
+
+    <script>
+        $("#next-btn").on("click", onNextButtonClick);
+        $("#prev-btn").on("click", onPreviousButtonClick);
+
+        //$("#slide-btn").on("click", setTimeout(function () {
+        //    var $currentSlide = $(".slide.current");
+        //    if ($currentSlide.hasClass("last")) {
+        //        var $nextSlide = $(".slide.first");
+        //    } else if ($currentSlide.hasClass("first")) {
+        //        var $nextSlide = $(".slide.last");
+        //    } else {
+        //        var $nextSlide = $currentSlide.next().filter(".slide");
+        //    }
+
+        //    $nextSlide.addClass("current");
+        //    $currentSlide.removeClass("current");
+        //}, 3000));
+
+        function onNextButtonClick() {
+            var $currentSlide = $(".slide.current");
+            if ($currentSlide.hasClass("last")) {
+                var $nextSlide = $(".slide.first");
+            } else {
+                var $nextSlide = $currentSlide.next().filter(".slide");
+            }
+
+            $nextSlide.addClass("current");
+            $currentSlide.removeClass("current");
+        }
+
+        function onPreviousButtonClick() {
+            var $currentSlide = $(".slide.current");
+            if ($currentSlide.hasClass("first")) {
+                var $prevSlide = $(".slide.last");
+            } else {
+                var $prevSlide = $currentSlide.prev().filter(".slide");
+            }
+            $prevSlide.addClass("current");
+            $currentSlide.removeClass("current");
+        }
+
+
+    </script>
+
+</body>
+
+</html>

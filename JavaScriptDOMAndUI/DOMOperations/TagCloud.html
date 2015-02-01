@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body onload="generateCloud()">
+    <style>
+        #tag-cloud {
+            width: 200px;
+            height: 300px;
+            border: 1px solid black;
+            display: inline-block;
+            word-wrap: break-word;
+        }
+        a{
+            text-decoration:none;
+        }
+    </style>
+    <div id="tag-cloud"></div>
+    <script>
+        function generateCloud(minValue, maxValue) {
+            // TODO: Clear;
+            minValue = 17;
+            maxValue = 42;
+            var tags = ["cms", "javascript", "js", "ASP.NET MVC", ".net", ".net", "css", "wordpress", "xaml", "js", "http", "web", "asp.net", "asp.net MVC", "ASP.NET MVC", "wp", "javascript", "js", "cms", "html", "javascript", "http", "http", "CMS"];
+            var tagCloud = document.getElementById("tag-cloud");
+            var currentWord,
+                counter = 0,
+                fontSizeCalculation = 0;
+
+            while (tags.length != 0) {
+                currentWord = tags[0];
+                for (var i = 0; i < tags.length; i++) {
+
+                    tags[i] = tags[i].toLowerCase();
+                    if (tags[i] == currentWord) {
+                        tags.splice(i, 1);
+                        counter++;
+                    }
+                }
+                fontSizeCalculation = (minValue + maxValue) / 2 * counter / 2;
+                var anchorElement = document.createElement("a");
+                anchorElement.textContent = currentWord + " ";
+                anchorElement.href = "#";
+                anchorElement.style.fontSize = fontSizeCalculation + 'px';
+                tagCloud.appendChild(anchorElement);
+                counter = 0;
+            }
+            // for (var i = 0; i < tags.length; i++) {
+            //     console.log(tags[i]);
+            // }
+            
+        }
+    </script>
+</body>
+</html>

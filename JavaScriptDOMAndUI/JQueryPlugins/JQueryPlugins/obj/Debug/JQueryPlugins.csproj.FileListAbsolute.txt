@@ -1,0 +1,6 @@
+C:\Users\Stanimir\Desktop\JQueryPlugins\JQueryPlugins\JQueryPlugins\bin\JQueryPlugins.dll.config
+C:\Users\Stanimir\Desktop\JQueryPlugins\JQueryPlugins\JQueryPlugins\bin\JQueryPlugins.dll
+C:\Users\Stanimir\Desktop\JQueryPlugins\JQueryPlugins\JQueryPlugins\bin\JQueryPlugins.pdb
+C:\Users\Stanimir\Desktop\JQueryPlugins\JQueryPlugins\JQueryPlugins\obj\Debug\JQueryPlugins.csprojResolveAssemblyReference.cache
+C:\Users\Stanimir\Desktop\JQueryPlugins\JQueryPlugins\JQueryPlugins\obj\Debug\JQueryPlugins.dll
+C:\Users\Stanimir\Desktop\JQueryPlugins\JQueryPlugins\JQueryPlugins\obj\Debug\JQueryPlugins.pdb

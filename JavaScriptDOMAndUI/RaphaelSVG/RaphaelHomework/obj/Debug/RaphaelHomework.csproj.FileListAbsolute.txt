@@ -1,0 +1,6 @@
+C:\Users\Stanimir\Desktop\RaphaelHomework\RaphaelHomework\RaphaelHomework\bin\RaphaelHomework.dll.config
+C:\Users\Stanimir\Desktop\RaphaelHomework\RaphaelHomework\RaphaelHomework\bin\RaphaelHomework.dll
+C:\Users\Stanimir\Desktop\RaphaelHomework\RaphaelHomework\RaphaelHomework\bin\RaphaelHomework.pdb
+C:\Users\Stanimir\Desktop\RaphaelHomework\RaphaelHomework\RaphaelHomework\obj\Debug\RaphaelHomework.csprojResolveAssemblyReference.cache
+C:\Users\Stanimir\Desktop\RaphaelHomework\RaphaelHomework\RaphaelHomework\obj\Debug\RaphaelHomework.dll
+C:\Users\Stanimir\Desktop\RaphaelHomework\RaphaelHomework\RaphaelHomework\obj\Debug\RaphaelHomework.pdb

@@ -1,0 +1,6 @@
+C:\Users\Stanimir\Desktop\JQueryBasics\JQueryBasics\JQueryBasics\bin\JQueryBasics.dll.config
+C:\Users\Stanimir\Desktop\JQueryBasics\JQueryBasics\JQueryBasics\bin\JQueryBasics.dll
+C:\Users\Stanimir\Desktop\JQueryBasics\JQueryBasics\JQueryBasics\bin\JQueryBasics.pdb
+C:\Users\Stanimir\Desktop\JQueryBasics\JQueryBasics\JQueryBasics\obj\Debug\JQueryBasics.csprojResolveAssemblyReference.cache
+C:\Users\Stanimir\Desktop\JQueryBasics\JQueryBasics\JQueryBasics\obj\Debug\JQueryBasics.dll
+C:\Users\Stanimir\Desktop\JQueryBasics\JQueryBasics\JQueryBasics\obj\Debug\JQueryBasics.pdb

@@ -1,0 +1,87 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <style>
+        #controls{
+            display:inline-block;
+            width:300px;
+        }
+        #item-grid{
+            width:300px;
+        }
+        #text-id{
+            display: inline-block;
+        }
+    </style>
+    <fieldset id="controls">
+        <legend>Form Manipulation</legend>
+        <label for="text-id">Event Information</label>
+        <input id="text-id" type="text" />
+        <br />
+        <label for="text-id">Date</label>
+        <input id="date-id" type="text" />
+        <br />
+        <label>Add</label>
+        <input type="button" id="add-btn" value="Add" />
+        <br />
+        <label>Enter the number of items you wish to delete</label>
+        <input type="text" id="del-numb" />
+        <input id="del-but" type="button" value="Delete" />
+        <br />
+        <label>Show items</label>
+        <input type="button" id="show-btn" value="Show" />
+        <br />
+        <label>Hide items</label>
+        <input type="button" id="hide-btn" value="Hide" />
+        <br />
+    </fieldset>
+    <fieldset id="item-grid">
+        <legend>Items</legend>
+
+    </fieldset>
+
+    <script>
+        var showButton = document.getElementById("show-btn");
+        showButton.onclick = function onButtonClick() {
+            var itemsGrid = document.getElementById("item-grid");
+            itemsGrid.style.display = "block";
+        }
+
+        var hideButton = document.getElementById("hide-btn");
+        hideButton.onclick = function onButtonClick() {
+            var itemsGrid = document.getElementById("item-grid");
+            itemsGrid.style.display = "none";
+        }
+        
+        var counter = 0;
+        var addButton = document.getElementById("add-btn");
+        addButton.onclick = function onButtonClick() {
+            counter++;
+            var event = document.createElement("div");
+            event.style.display = "block";
+            event.style.border = "1px solid black";
+            event.id = counter;
+            var text = document.getElementById("text-id").value;
+            var date = document.getElementById("date-id").value;
+
+            event.textContent += "Event: " + counter + "/ " + text + "/" + date;
+            
+            var grid = document.getElementById("item-grid");
+            console.log(counter);
+            grid.appendChild(event);
+        }
+
+        var deleteButton = document.getElementById("del-but");
+
+        deleteButton.onclick = function onButtonClick() {
+            var numberOfItem = document.getElementById("del-numb").value;
+            var itemsGrid = document.getElementById("item-grid");
+            var element = document.getElementById(numberOfItem);
+            itemsGrid.removeChild(element);
+        }
+    </script>
+</body>
+</html>

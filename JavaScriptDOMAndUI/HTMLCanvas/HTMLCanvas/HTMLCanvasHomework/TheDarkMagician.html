@@ -1,0 +1,75 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <style>
+        canvas {
+            border: 1px solid black;
+        }
+    </style>
+    <canvas id="canvas" width="800" height="500"></canvas>
+    <script>
+        var canvas = document.getElementById("canvas"),
+        context = canvas.getContext('2d');
+
+        context.strokeStyle = "#006060";
+        context.lineWidth = 2;
+        context.fillStyle = "#87CEEB";
+        context.save();
+
+        drawElipse(100, 150, 50, 1, 1);
+
+        drawElipse(70, 130, 10, 1, 0.5);
+        context.fillStyle = context.strokeStyle;
+        drawElipse(65, 130, 4, 0.5, 1);
+
+        drawElipse(110, 130, 10, 1, 0.5);
+        context.fillStyle = context.strokeStyle;
+        drawElipse(105, 130, 4, 0.5, 1);
+
+        context.moveTo(90, 130);
+        context.lineTo(75, 155);
+        context.lineTo(90, 155);
+        context.stroke();
+
+        drawElipse(90, 170, 20, 1, 0.3);
+
+        context.strokeStyle = "#000";
+        context.lineWidth = 1;
+        context.fillStyle = "#048";
+        context.save();
+
+        drawElipse(100, 100, 50, 1, 0.3);
+        context.strokeRect(75, 30, 50, 70);
+        context.fillRect(75, 30, 50, 70);
+
+        context.beginPath();
+        context.lineWidth = 1;
+        context.scale(1, 0.3);
+        context.arc(100, 100 / 0.3, 25, 0, Math.PI);
+        context.fill();
+        context.stroke();
+        context.restore();
+
+        context.beginPath();
+        context.lineWidth = 1;
+        context.save();
+        drawElipse(100, 30, 25, 1, 0.3);
+        context.fill();
+        context.stroke();
+
+        function drawElipse(x, y, radius, scaleX, scaleY) {
+            context.beginPath();
+            context.scale(scaleX, scaleY);
+            context.beginPath();
+            context.arc(x / scaleX, y / scaleY, radius, 0, 2 * Math.PI);
+            context.fill();
+            context.stroke();
+            context.restore();
+            context.save();
+        }
+    </script>
+</body>
+</html>

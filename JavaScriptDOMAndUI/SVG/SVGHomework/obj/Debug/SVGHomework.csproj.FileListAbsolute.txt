@@ -1,0 +1,6 @@
+C:\Users\Stanimir\Desktop\SVGHomework\SVGHomework\SVGHomework\bin\SVGHomework.dll.config
+C:\Users\Stanimir\Desktop\SVGHomework\SVGHomework\SVGHomework\bin\SVGHomework.dll
+C:\Users\Stanimir\Desktop\SVGHomework\SVGHomework\SVGHomework\bin\SVGHomework.pdb
+C:\Users\Stanimir\Desktop\SVGHomework\SVGHomework\SVGHomework\obj\Debug\SVGHomework.csprojResolveAssemblyReference.cache
+C:\Users\Stanimir\Desktop\SVGHomework\SVGHomework\SVGHomework\obj\Debug\SVGHomework.dll
+C:\Users\Stanimir\Desktop\SVGHomework\SVGHomework\SVGHomework\obj\Debug\SVGHomework.pdb

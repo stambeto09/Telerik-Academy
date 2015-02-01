@@ -1,0 +1,6 @@
+C:\Users\Stanimir\Desktop\DocumentObjectModel\DOMHomework\DOMHomework\bin\DOMHomework.dll.config
+C:\Users\Stanimir\Desktop\DocumentObjectModel\DOMHomework\DOMHomework\bin\DOMHomework.dll
+C:\Users\Stanimir\Desktop\DocumentObjectModel\DOMHomework\DOMHomework\bin\DOMHomework.pdb
+C:\Users\Stanimir\Desktop\DocumentObjectModel\DOMHomework\DOMHomework\obj\Debug\DOMHomework.csprojResolveAssemblyReference.cache
+C:\Users\Stanimir\Desktop\DocumentObjectModel\DOMHomework\DOMHomework\obj\Debug\DOMHomework.dll
+C:\Users\Stanimir\Desktop\DocumentObjectModel\DOMHomework\DOMHomework\obj\Debug\DOMHomework.pdb

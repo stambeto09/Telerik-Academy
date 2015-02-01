@@ -1,0 +1,6 @@
+C:\Users\Stanimir\Desktop\EventModel\EventModel\EventModel\bin\EventModel.dll.config
+C:\Users\Stanimir\Desktop\EventModel\EventModel\EventModel\bin\EventModel.dll
+C:\Users\Stanimir\Desktop\EventModel\EventModel\EventModel\bin\EventModel.pdb
+C:\Users\Stanimir\Desktop\EventModel\EventModel\EventModel\obj\Debug\EventModel.csprojResolveAssemblyReference.cache
+C:\Users\Stanimir\Desktop\EventModel\EventModel\EventModel\obj\Debug\EventModel.dll
+C:\Users\Stanimir\Desktop\EventModel\EventModel\EventModel\obj\Debug\EventModel.pdb

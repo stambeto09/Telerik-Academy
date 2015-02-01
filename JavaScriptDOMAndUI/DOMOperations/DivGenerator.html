@@ -1,0 +1,96 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <style>
+        div{
+            position: absolute;
+            border: 1px solid black;
+            margin:0;
+            padding:0;
+            display:inline-block;
+            text-align:center;
+        }
+    </style>
+    <input id="content" type="text" placeholder="Number of divs."/>
+    <input type="button" onclick="generateDivs()" value="Generate" />
+    <script>
+        function generateDivs() {
+            var divFragment = document.createDocumentFragment();
+            var count = document.getElementById("content").value;
+            count = parseInt(count);
+
+            for (var i = 0; i < count; i++) {
+                var div = document.createElement("div");
+                div.style.backgroundColor = generateColour();
+                div.style.color = generateColour();
+                div.style.borderColor = generateColour();
+                generateRandomWidthAndHeight(div);
+                generatePosition(div);
+                generateNestedStrong(div);
+                generateBorderRadius(div);
+                generateBorderWidth(div);
+
+                divFragment.appendChild(div);
+            }
+            
+            document.body.appendChild(divFragment);
+            
+            // Generating width and height
+            function generateRandomWidthAndHeight(div) {
+                var minValue = 20,
+                    maxValue = 100;
+                var randomNumber = Math.floor(Math.random() * (maxValue - minValue + 1)) + minValue;
+                div.style.width = randomNumber + 'px';
+
+                randomNumber = Math.floor(Math.random() * (maxValue - minValue + 1)) + minValue;
+                div.style.height = randomNumber + 'px';
+            }    
+
+            // Generate random position
+            function generatePosition(divElement) {
+                var minValue = 0,
+                     maxValue = 1000;
+                var generateTop = Math.floor(Math.random() * (maxValue - minValue + 1)) + minValue;
+                var generateLeft = Math.floor(Math.random() * (maxValue - minValue + 1)) + minValue;
+                divElement.style.top = generateTop + 'px';
+                divElement.style.left = generateLeft + 'px';
+
+                console.log("Random top: "+ divElement.style.top);
+                console.log("Random left: " + divElement.style.left);
+            }
+
+            // Generate nested strong
+            function generateNestedStrong(divElement) {
+                divElement.innerHTML = '<strong>Div</strong>';
+                
+            }
+            
+            // Generate random colour
+            function generateColour() {
+                var randomColour = '#' + (0x1000000 + (Math.random()) * 0xffffff).toString(16).substr(1, 6);
+                
+                return randomColour;
+            }
+            
+            // Generate random border radius
+            function generateBorderRadius(divElement) {
+                var minValue = 0,
+                    maxValue = 30;
+                var generatedRadius = Math.floor(Math.random() * (maxValue - minValue + 1)) + minValue;
+                divElement.style.borderRadius = generatedRadius + 'px';
+            }
+
+            // Generate random border width between 1 and 20px.
+            function generateBorderWidth(divElement) {
+                var minValue = 0,
+                    maxValue = 30;
+                var generatedBorderWidth = Math.floor(Math.random() * (maxValue - minValue + 1)) + minValue;
+                divElement.style.borderWidth = generatedBorderWidth + 'px';
+            }
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,18 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <input type="color" id="color-input"/>
+    <input type="button" onclick="changeColor()" value="Change" />
+    <script>
+        function changeColor() {
+            var colourObj = document.getElementById("color-input");
+            console.log(colourObj);
+            var colour = colourObj.value;
+            document.body.style.background = colour;
+        }
+    </script>
+</body>
+</html>

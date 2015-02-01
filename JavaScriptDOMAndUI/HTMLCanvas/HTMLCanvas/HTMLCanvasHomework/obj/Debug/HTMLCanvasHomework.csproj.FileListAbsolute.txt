@@ -1,0 +1,6 @@
+C:\Users\Stanimir\Desktop\HTMLCanvas\HTMLCanvasHomework\HTMLCanvasHomework\bin\HTMLCanvasHomework.dll.config
+C:\Users\Stanimir\Desktop\HTMLCanvas\HTMLCanvasHomework\HTMLCanvasHomework\bin\HTMLCanvasHomework.dll
+C:\Users\Stanimir\Desktop\HTMLCanvas\HTMLCanvasHomework\HTMLCanvasHomework\bin\HTMLCanvasHomework.pdb
+C:\Users\Stanimir\Desktop\HTMLCanvas\HTMLCanvasHomework\HTMLCanvasHomework\obj\Debug\HTMLCanvasHomework.csprojResolveAssemblyReference.cache
+C:\Users\Stanimir\Desktop\HTMLCanvas\HTMLCanvasHomework\HTMLCanvasHomework\obj\Debug\HTMLCanvasHomework.dll
+C:\Users\Stanimir\Desktop\HTMLCanvas\HTMLCanvasHomework\HTMLCanvasHomework\obj\Debug\HTMLCanvasHomework.pdb

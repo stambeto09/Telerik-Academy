@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="jquery-1.11.1.js"></script>
+</head>
+<body>
+    <style>
+        body{
+            background-color:white;
+        }
+    </style>
+    <input type="color" id="picker"/>
+    <input type="button" id="btn" value="Change color"/>
+    <script>
+        $("#btn").on("click", onClickButton);
+
+        function onClickButton() {
+            $("body").css("background-color", $('#picker').val());
+        }
+
+    </script>
+</body>
+</html>

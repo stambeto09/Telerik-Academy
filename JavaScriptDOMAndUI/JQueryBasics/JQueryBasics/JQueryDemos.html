@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="jquery-1.11.1.js"></script>
+</head>
+<body>
+    <input type="button" id="btn" value="Check" />
+    <ul id="the-ul">
+        <li>1</li>
+        <li>2</li>
+        <li>3</li>
+        <li>4</li>
+    </ul>
+    <script>
+        var $button = $("#btn");
+        var $firstLi = $("ul li").first();
+        console.log($firstLi.text());
+        console.log($firstLi.next().text());
+
+        var $mainUl = $("#the-ul");
+        var $allLis = $mainUl.children();
+        $allLis.addClass("exampleClass");
+        for (var i = 0; i < $allLis.length; i++) {
+            var $currentLi = $allLis[i];
+            console.log($($currentLi).prop("class"));
+        }
+        console.log($allLis);
+
+    </script>
+</body>
+</html>

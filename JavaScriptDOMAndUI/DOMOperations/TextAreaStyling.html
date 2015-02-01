@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <style>
+        textarea{
+            font-weight: bold;
+        }
+    </style>
+    <input id ="font-color" type="color" />
+    <input id="background-color" type="color" />
+    <textarea id="textarea" placeholder="Some random text here"></textarea>
+    <input type="button" value="Proceed"  onclick="changeColors()"/>
+    <script> 
+        function changeColors() {
+            var fontColor = document.getElementById("font-color").value;
+            var backgroundColor = document.getElementById("background-color").value;
+            
+            var textArea = document.getElementById("textarea");
+            textArea.style.backgroundColor = backgroundColor;
+            textArea.style.color = fontColor;
+        }
+    </script>
+</body>
+</html>
