@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30324.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrototypePattern", "DesignPatterns\PrototypePattern.csproj", "{0A3FCFF5-C0C6-4EFB-B187-7F2C24CED768}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyPattern", "StrategyPattern\StrategyPattern.csproj", "{FE210A05-1A68-418A-8161-B4F8AB0539F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterDesign.cs", "AdapterDesign.cs\AdapterDesign.cs.csproj", "{97B6D47A-B792-463D-B0E5-0CC51EF7450B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A3FCFF5-C0C6-4EFB-B187-7F2C24CED768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A3FCFF5-C0C6-4EFB-B187-7F2C24CED768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A3FCFF5-C0C6-4EFB-B187-7F2C24CED768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A3FCFF5-C0C6-4EFB-B187-7F2C24CED768}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE210A05-1A68-418A-8161-B4F8AB0539F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE210A05-1A68-418A-8161-B4F8AB0539F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE210A05-1A68-418A-8161-B4F8AB0539F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE210A05-1A68-418A-8161-B4F8AB0539F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97B6D47A-B792-463D-B0E5-0CC51EF7450B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97B6D47A-B792-463D-B0E5-0CC51EF7450B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97B6D47A-B792-463D-B0E5-0CC51EF7450B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97B6D47A-B792-463D-B0E5-0CC51EF7450B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

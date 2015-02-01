@@ -1,0 +1,5 @@
+C:\Users\Stanimir\Desktop\Refactoring-Homework\bin\Debug\GameFifteen.exe
+C:\Users\Stanimir\Desktop\Refactoring-Homework\bin\Debug\GameFifteen.pdb
+C:\Users\Stanimir\Desktop\Refactoring-Homework\obj\x86\Debug\GameFifteen.exe
+C:\Users\Stanimir\Desktop\Refactoring-Homework\obj\x86\Debug\GameFifteen.pdb
+C:\Users\Stanimir\Desktop\Refactoring-Homework\obj\x86\Debug\RotatingWalk.csprojResolveAssemblyReference.cache

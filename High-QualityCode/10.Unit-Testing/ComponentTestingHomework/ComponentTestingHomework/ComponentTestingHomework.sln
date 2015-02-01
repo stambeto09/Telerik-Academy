@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30324.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComponentTestingHomework", "ComponentTestingHomework\ComponentTestingHomework.csproj", "{FFE2EAAB-A95F-4FD1-8DE9-07F97C3C5792}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComponentTestingHomework.Tests", "ComponentTestingHomework.Tests\ComponentTestingHomework.Tests.csproj", "{944FB561-601B-4713-89D2-B1C693EB4E8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFE2EAAB-A95F-4FD1-8DE9-07F97C3C5792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFE2EAAB-A95F-4FD1-8DE9-07F97C3C5792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFE2EAAB-A95F-4FD1-8DE9-07F97C3C5792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFE2EAAB-A95F-4FD1-8DE9-07F97C3C5792}.Release|Any CPU.Build.0 = Release|Any CPU
+		{944FB561-601B-4713-89D2-B1C693EB4E8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{944FB561-601B-4713-89D2-B1C693EB4E8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{944FB561-601B-4713-89D2-B1C693EB4E8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{944FB561-601B-4713-89D2-B1C693EB4E8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

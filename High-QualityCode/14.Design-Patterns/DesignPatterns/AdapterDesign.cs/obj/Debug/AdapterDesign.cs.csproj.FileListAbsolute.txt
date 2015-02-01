@@ -1,0 +1,5 @@
+C:\Users\Stanimir\Desktop\KPK\14.Design-Patterns\DesignPatterns\AdapterDesign.cs\bin\Debug\AdapterDesign.cs.exe.config
+C:\Users\Stanimir\Desktop\KPK\14.Design-Patterns\DesignPatterns\AdapterDesign.cs\bin\Debug\AdapterDesign.cs.exe
+C:\Users\Stanimir\Desktop\KPK\14.Design-Patterns\DesignPatterns\AdapterDesign.cs\bin\Debug\AdapterDesign.cs.pdb
+C:\Users\Stanimir\Desktop\KPK\14.Design-Patterns\DesignPatterns\AdapterDesign.cs\obj\Debug\AdapterDesign.cs.exe
+C:\Users\Stanimir\Desktop\KPK\14.Design-Patterns\DesignPatterns\AdapterDesign.cs\obj\Debug\AdapterDesign.cs.pdb

@@ -1,0 +1,6 @@
+C:\Users\Stanimir\Desktop\ComponentTestingHomework\ComponentTestingHomework\ComponentTestingHomework\bin\Debug\ComponentTestingHomework.exe.config
+C:\Users\Stanimir\Desktop\ComponentTestingHomework\ComponentTestingHomework\ComponentTestingHomework\bin\Debug\ComponentTestingHomework.exe
+C:\Users\Stanimir\Desktop\ComponentTestingHomework\ComponentTestingHomework\ComponentTestingHomework\bin\Debug\ComponentTestingHomework.pdb
+C:\Users\Stanimir\Desktop\ComponentTestingHomework\ComponentTestingHomework\ComponentTestingHomework\obj\Debug\ComponentTestingHomework.csprojResolveAssemblyReference.cache
+C:\Users\Stanimir\Desktop\ComponentTestingHomework\ComponentTestingHomework\ComponentTestingHomework\obj\Debug\ComponentTestingHomework.exe
+C:\Users\Stanimir\Desktop\ComponentTestingHomework\ComponentTestingHomework\ComponentTestingHomework\obj\Debug\ComponentTestingHomework.pdb

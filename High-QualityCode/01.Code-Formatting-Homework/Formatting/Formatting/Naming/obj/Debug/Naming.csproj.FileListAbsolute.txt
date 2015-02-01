@@ -1,0 +1,16 @@
+C:\Users\Stanimir\Desktop\KPK\Naming\Naming\bin\Debug\Naming.exe.config
+C:\Users\Stanimir\Desktop\KPK\Naming\Naming\obj\Debug\Naming.csprojResolveAssemblyReference.cache
+C:\Users\Stanimir\Desktop\KPK\Naming\Naming\bin\Debug\Naming.exe
+C:\Users\Stanimir\Desktop\KPK\Naming\Naming\bin\Debug\Naming.pdb
+C:\Users\Stanimir\Desktop\KPK\Naming\Naming\bin\Debug\PowerCollections.dll
+C:\Users\Stanimir\Desktop\KPK\Naming\Naming\bin\Debug\PowerCollections.xml
+C:\Users\Stanimir\Desktop\KPK\Naming\Naming\obj\Debug\Naming.exe
+C:\Users\Stanimir\Desktop\KPK\Naming\Naming\obj\Debug\Naming.pdb
+C:\Users\Stanimir\Desktop\KPK\Formating\Naming\bin\Debug\Naming.exe.config
+C:\Users\Stanimir\Desktop\KPK\Formating\Naming\obj\Debug\Naming.exe
+C:\Users\Stanimir\Desktop\KPK\Formating\Naming\obj\Debug\Naming.pdb
+C:\Users\Stanimir\Desktop\KPK\Formating\Naming\bin\Debug\Naming.exe
+C:\Users\Stanimir\Desktop\KPK\Formating\Naming\bin\Debug\Naming.pdb
+C:\Users\Stanimir\Desktop\KPK\Formating\Naming\bin\Debug\PowerCollections.dll
+C:\Users\Stanimir\Desktop\KPK\Formating\Naming\bin\Debug\PowerCollections.xml
+C:\Users\Stanimir\Desktop\KPK\Formating\Naming\obj\Debug\Naming.csprojResolveAssemblyReference.cache

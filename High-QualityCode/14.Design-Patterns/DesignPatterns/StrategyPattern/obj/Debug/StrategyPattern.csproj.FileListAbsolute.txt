@@ -1,0 +1,6 @@
+C:\Users\Stanimir\Desktop\KPK\14.Design-Patterns\DesignPatterns\StrategyPattern\bin\Debug\StrategyPattern.exe.config
+C:\Users\Stanimir\Desktop\KPK\14.Design-Patterns\DesignPatterns\StrategyPattern\bin\Debug\StrategyPattern.exe
+C:\Users\Stanimir\Desktop\KPK\14.Design-Patterns\DesignPatterns\StrategyPattern\bin\Debug\StrategyPattern.pdb
+C:\Users\Stanimir\Desktop\KPK\14.Design-Patterns\DesignPatterns\StrategyPattern\obj\Debug\StrategyPattern.csprojResolveAssemblyReference.cache
+C:\Users\Stanimir\Desktop\KPK\14.Design-Patterns\DesignPatterns\StrategyPattern\obj\Debug\StrategyPattern.exe
+C:\Users\Stanimir\Desktop\KPK\14.Design-Patterns\DesignPatterns\StrategyPattern\obj\Debug\StrategyPattern.pdb

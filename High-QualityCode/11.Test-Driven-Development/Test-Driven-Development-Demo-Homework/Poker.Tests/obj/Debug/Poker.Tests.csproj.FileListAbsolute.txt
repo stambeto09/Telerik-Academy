@@ -1,0 +1,7 @@
+C:\Users\Stanimir\Desktop\Test-Driven-Development-Demo-Homework\Poker.Tests\bin\Debug\Poker.Tests.dll
+C:\Users\Stanimir\Desktop\Test-Driven-Development-Demo-Homework\Poker.Tests\bin\Debug\Poker.Tests.pdb
+C:\Users\Stanimir\Desktop\Test-Driven-Development-Demo-Homework\Poker.Tests\bin\Debug\Poker.exe
+C:\Users\Stanimir\Desktop\Test-Driven-Development-Demo-Homework\Poker.Tests\bin\Debug\Poker.pdb
+C:\Users\Stanimir\Desktop\Test-Driven-Development-Demo-Homework\Poker.Tests\obj\Debug\Poker.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Stanimir\Desktop\Test-Driven-Development-Demo-Homework\Poker.Tests\obj\Debug\Poker.Tests.dll
+C:\Users\Stanimir\Desktop\Test-Driven-Development-Demo-Homework\Poker.Tests\obj\Debug\Poker.Tests.pdb

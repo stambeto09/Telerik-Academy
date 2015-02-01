@@ -1,0 +1,6 @@
+C:\Users\Stanimir\Desktop\KPK\13.Development-Tools\DevelopmentTools\DevelopmentTools\bin\Debug\DevelopmentTools.exe.config
+C:\Users\Stanimir\Desktop\KPK\13.Development-Tools\DevelopmentTools\DevelopmentTools\bin\Debug\DevelopmentTools.exe
+C:\Users\Stanimir\Desktop\KPK\13.Development-Tools\DevelopmentTools\DevelopmentTools\bin\Debug\DevelopmentTools.pdb
+C:\Users\Stanimir\Desktop\KPK\13.Development-Tools\DevelopmentTools\DevelopmentTools\obj\Debug\DevelopmentTools.csprojResolveAssemblyReference.cache
+C:\Users\Stanimir\Desktop\KPK\13.Development-Tools\DevelopmentTools\DevelopmentTools\obj\Debug\DevelopmentTools.exe
+C:\Users\Stanimir\Desktop\KPK\13.Development-Tools\DevelopmentTools\DevelopmentTools\obj\Debug\DevelopmentTools.pdb

@@ -1,0 +1,7 @@
+C:\Users\Stanimir\Desktop\Refactoring-Homework\RotatingWalk.Tests\bin\Debug\RotatingWalk.Tests.dll
+C:\Users\Stanimir\Desktop\Refactoring-Homework\RotatingWalk.Tests\bin\Debug\RotatingWalk.Tests.pdb
+C:\Users\Stanimir\Desktop\Refactoring-Homework\RotatingWalk.Tests\bin\Debug\GameFifteen.exe
+C:\Users\Stanimir\Desktop\Refactoring-Homework\RotatingWalk.Tests\bin\Debug\GameFifteen.pdb
+C:\Users\Stanimir\Desktop\Refactoring-Homework\RotatingWalk.Tests\obj\Debug\RotatingWalk.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Stanimir\Desktop\Refactoring-Homework\RotatingWalk.Tests\obj\Debug\RotatingWalk.Tests.dll
+C:\Users\Stanimir\Desktop\Refactoring-Homework\RotatingWalk.Tests\obj\Debug\RotatingWalk.Tests.pdb

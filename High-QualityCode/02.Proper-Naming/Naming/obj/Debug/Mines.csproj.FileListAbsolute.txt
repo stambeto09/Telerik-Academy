@@ -1,0 +1,7 @@
+C:\Users\Stanimir\Desktop\Naming\obj\Debug\Mines.csprojResolveAssemblyReference.cache
+C:\Users\Stanimir\Desktop\Naming\bin\Debug\Minesweeper.exe
+C:\Users\Stanimir\Desktop\Naming\bin\Debug\Minesweeper.pdb
+C:\Users\Stanimir\Desktop\Naming\obj\Debug\Minesweeper.exe
+C:\Users\Stanimir\Desktop\Naming\obj\Debug\Minesweeper.pdb
+C:\Users\Stanimir\Dropbox\Telerik\KPK\Naming\Naming\obj\Debug\Minesweeper.exe
+C:\Users\Stanimir\Dropbox\Telerik\KPK\Naming\Naming\obj\Debug\Minesweeper.pdb

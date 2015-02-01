@@ -1,0 +1,6 @@
+C:\Users\Stanimir\Desktop\CodeTunningAndOptimization\CodeTunningAndOptimization\03.ComparingFunctions\bin\Debug\03.ComparingFunctions.exe.config
+C:\Users\Stanimir\Desktop\CodeTunningAndOptimization\CodeTunningAndOptimization\03.ComparingFunctions\bin\Debug\03.ComparingFunctions.exe
+C:\Users\Stanimir\Desktop\CodeTunningAndOptimization\CodeTunningAndOptimization\03.ComparingFunctions\bin\Debug\03.ComparingFunctions.pdb
+C:\Users\Stanimir\Desktop\CodeTunningAndOptimization\CodeTunningAndOptimization\03.ComparingFunctions\obj\Debug\03.ComparingFunctions.exe
+C:\Users\Stanimir\Desktop\CodeTunningAndOptimization\CodeTunningAndOptimization\03.ComparingFunctions\obj\Debug\03.ComparingFunctions.pdb
+C:\Users\Stanimir\Desktop\CodeTunningAndOptimization\CodeTunningAndOptimization\03.ComparingFunctions\obj\Debug\03.ComparingFunctions.csprojResolveAssemblyReference.cache

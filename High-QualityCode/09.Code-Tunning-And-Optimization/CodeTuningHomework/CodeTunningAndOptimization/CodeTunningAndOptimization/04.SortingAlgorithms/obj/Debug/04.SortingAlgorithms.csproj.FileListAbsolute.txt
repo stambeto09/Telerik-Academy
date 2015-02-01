@@ -1,0 +1,6 @@
+C:\Users\Stanimir\Desktop\CodeTunningAndOptimization\CodeTunningAndOptimization\04.SortingAlgorithms\bin\Debug\04.SortingAlgorithms.exe.config
+C:\Users\Stanimir\Desktop\CodeTunningAndOptimization\CodeTunningAndOptimization\04.SortingAlgorithms\bin\Debug\04.SortingAlgorithms.exe
+C:\Users\Stanimir\Desktop\CodeTunningAndOptimization\CodeTunningAndOptimization\04.SortingAlgorithms\bin\Debug\04.SortingAlgorithms.pdb
+C:\Users\Stanimir\Desktop\CodeTunningAndOptimization\CodeTunningAndOptimization\04.SortingAlgorithms\obj\Debug\04.SortingAlgorithms.csprojResolveAssemblyReference.cache
+C:\Users\Stanimir\Desktop\CodeTunningAndOptimization\CodeTunningAndOptimization\04.SortingAlgorithms\obj\Debug\04.SortingAlgorithms.exe
+C:\Users\Stanimir\Desktop\CodeTunningAndOptimization\CodeTunningAndOptimization\04.SortingAlgorithms\obj\Debug\04.SortingAlgorithms.pdb

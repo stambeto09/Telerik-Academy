@@ -1,0 +1,6 @@
+C:\Users\Stanimir\Desktop\KPK\Formating\Naming\bin\Debug\Naming.exe.config
+C:\Users\Stanimir\Desktop\KPK\Formating\Naming\obj\Debug\Naming.exe
+C:\Users\Stanimir\Desktop\KPK\Formating\Naming\obj\Debug\Naming.pdb
+C:\Users\Stanimir\Desktop\Formating\Formating\Naming\bin\Debug\Naming.exe.config
+C:\Users\Stanimir\Desktop\Formating\Formating\Naming\obj\Debug\Naming.exe
+C:\Users\Stanimir\Desktop\Formating\Formating\Naming\obj\Debug\Naming.pdb
