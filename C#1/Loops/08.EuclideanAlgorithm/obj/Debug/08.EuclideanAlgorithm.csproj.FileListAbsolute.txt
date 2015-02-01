@@ -1,0 +1,6 @@
+W:\Telerik\C#1\LoopsHomework\LoopsHomework\08.EuclideanAlgorithm\bin\Debug\08.EuclideanAlgorithm.exe.config
+W:\Telerik\C#1\LoopsHomework\LoopsHomework\08.EuclideanAlgorithm\bin\Debug\08.EuclideanAlgorithm.exe
+W:\Telerik\C#1\LoopsHomework\LoopsHomework\08.EuclideanAlgorithm\bin\Debug\08.EuclideanAlgorithm.pdb
+W:\Telerik\C#1\LoopsHomework\LoopsHomework\08.EuclideanAlgorithm\obj\Debug\08.EuclideanAlgorithm.csprojResolveAssemblyReference.cache
+W:\Telerik\C#1\LoopsHomework\LoopsHomework\08.EuclideanAlgorithm\obj\Debug\08.EuclideanAlgorithm.exe
+W:\Telerik\C#1\LoopsHomework\LoopsHomework\08.EuclideanAlgorithm\obj\Debug\08.EuclideanAlgorithm.pdb

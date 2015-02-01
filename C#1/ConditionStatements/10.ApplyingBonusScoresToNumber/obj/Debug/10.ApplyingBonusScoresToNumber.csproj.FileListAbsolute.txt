@@ -1,0 +1,6 @@
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\10.ApplyingBonusScoresToNumber\bin\Debug\10.ApplyingBonusScoresToNumber.exe.config
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\10.ApplyingBonusScoresToNumber\bin\Debug\10.ApplyingBonusScoresToNumber.exe
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\10.ApplyingBonusScoresToNumber\bin\Debug\10.ApplyingBonusScoresToNumber.pdb
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\10.ApplyingBonusScoresToNumber\obj\Debug\10.ApplyingBonusScoresToNumber.csprojResolveAssemblyReference.cache
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\10.ApplyingBonusScoresToNumber\obj\Debug\10.ApplyingBonusScoresToNumber.exe
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\10.ApplyingBonusScoresToNumber\obj\Debug\10.ApplyingBonusScoresToNumber.pdb

@@ -1,0 +1,6 @@
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\09.SignOfThreeRealNumbers\bin\Debug\09.SignOfThreeRealNumbers.exe.config
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\09.SignOfThreeRealNumbers\bin\Debug\09.SignOfThreeRealNumbers.exe
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\09.SignOfThreeRealNumbers\bin\Debug\09.SignOfThreeRealNumbers.pdb
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\09.SignOfThreeRealNumbers\obj\Debug\02.SignOfThreeRealNumbers.csprojResolveAssemblyReference.cache
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\09.SignOfThreeRealNumbers\obj\Debug\09.SignOfThreeRealNumbers.exe
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\09.SignOfThreeRealNumbers\obj\Debug\09.SignOfThreeRealNumbers.pdb

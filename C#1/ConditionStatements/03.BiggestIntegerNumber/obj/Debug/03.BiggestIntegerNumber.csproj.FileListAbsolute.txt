@@ -1,0 +1,6 @@
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\03.BiggestIntegerNumber\bin\Debug\03.BiggestIntegerNumber.exe.config
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\03.BiggestIntegerNumber\bin\Debug\03.BiggestIntegerNumber.exe
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\03.BiggestIntegerNumber\bin\Debug\03.BiggestIntegerNumber.pdb
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\03.BiggestIntegerNumber\obj\Debug\03.BiggestIntegerNumber.csprojResolveAssemblyReference.cache
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\03.BiggestIntegerNumber\obj\Debug\03.BiggestIntegerNumber.exe
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\03.BiggestIntegerNumber\obj\Debug\03.BiggestIntegerNumber.pdb

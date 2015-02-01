@@ -1,0 +1,6 @@
+W:\Telerik\C#1\LoopsHomework\LoopsHomework\11.CardsPrinting\bin\Debug\11.CardsPrinting.exe.config
+W:\Telerik\C#1\LoopsHomework\LoopsHomework\11.CardsPrinting\bin\Debug\11.CardsPrinting.exe
+W:\Telerik\C#1\LoopsHomework\LoopsHomework\11.CardsPrinting\bin\Debug\11.CardsPrinting.pdb
+W:\Telerik\C#1\LoopsHomework\LoopsHomework\11.CardsPrinting\obj\Debug\11.CardsPrinting.csprojResolveAssemblyReference.cache
+W:\Telerik\C#1\LoopsHomework\LoopsHomework\11.CardsPrinting\obj\Debug\11.CardsPrinting.exe
+W:\Telerik\C#1\LoopsHomework\LoopsHomework\11.CardsPrinting\obj\Debug\11.CardsPrinting.pdb

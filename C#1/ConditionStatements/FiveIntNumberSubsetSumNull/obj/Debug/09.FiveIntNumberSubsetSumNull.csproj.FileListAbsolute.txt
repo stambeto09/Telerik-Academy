@@ -1,0 +1,6 @@
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\FiveIntNumberSubsetSumNull\bin\Debug\FiveIntNumberSubsetSumNull.exe.config
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\FiveIntNumberSubsetSumNull\bin\Debug\FiveIntNumberSubsetSumNull.exe
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\FiveIntNumberSubsetSumNull\bin\Debug\FiveIntNumberSubsetSumNull.pdb
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\FiveIntNumberSubsetSumNull\obj\Debug\09.FiveIntNumberSubsetSumNull.csprojResolveAssemblyReference.cache
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\FiveIntNumberSubsetSumNull\obj\Debug\FiveIntNumberSubsetSumNull.exe
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\FiveIntNumberSubsetSumNull\obj\Debug\FiveIntNumberSubsetSumNull.pdb

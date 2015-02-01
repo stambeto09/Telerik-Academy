@@ -1,0 +1,5 @@
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\PrintingNameOfDigit\bin\Debug\PrintingNameOfDigit.exe.config
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\PrintingNameOfDigit\bin\Debug\PrintingNameOfDigit.exe
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\PrintingNameOfDigit\bin\Debug\PrintingNameOfDigit.pdb
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\PrintingNameOfDigit\obj\Debug\PrintingNameOfDigit.exe
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\PrintingNameOfDigit\obj\Debug\PrintingNameOfDigit.pdb

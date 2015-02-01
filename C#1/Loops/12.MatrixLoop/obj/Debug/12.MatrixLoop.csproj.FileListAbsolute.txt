@@ -1,0 +1,6 @@
+W:\Telerik\C#1\LoopsHomework\LoopsHomework\12.MatrixLoop\bin\Debug\12.MatrixLoop.exe.config
+W:\Telerik\C#1\LoopsHomework\LoopsHomework\12.MatrixLoop\bin\Debug\12.MatrixLoop.exe
+W:\Telerik\C#1\LoopsHomework\LoopsHomework\12.MatrixLoop\bin\Debug\12.MatrixLoop.pdb
+W:\Telerik\C#1\LoopsHomework\LoopsHomework\12.MatrixLoop\obj\Debug\12.MatrixLoop.exe
+W:\Telerik\C#1\LoopsHomework\LoopsHomework\12.MatrixLoop\obj\Debug\12.MatrixLoop.pdb
+W:\Telerik\C#1\LoopsHomework\LoopsHomework\12.MatrixLoop\obj\Debug\12.MatrixLoop.csprojResolveAssemblyReference.cache

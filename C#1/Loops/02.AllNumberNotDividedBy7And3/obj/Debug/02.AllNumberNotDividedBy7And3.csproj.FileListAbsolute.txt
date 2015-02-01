@@ -1,0 +1,5 @@
+W:\Telerik\C#1\LoopsHomework\LoopsHomework\02.AllNumberNotDividedBy7And3\bin\Debug\02.AllNumberNotDividedBy7And3.exe.config
+W:\Telerik\C#1\LoopsHomework\LoopsHomework\02.AllNumberNotDividedBy7And3\bin\Debug\02.AllNumberNotDividedBy7And3.exe
+W:\Telerik\C#1\LoopsHomework\LoopsHomework\02.AllNumberNotDividedBy7And3\bin\Debug\02.AllNumberNotDividedBy7And3.pdb
+W:\Telerik\C#1\LoopsHomework\LoopsHomework\02.AllNumberNotDividedBy7And3\obj\Debug\02.AllNumberNotDividedBy7And3.exe
+W:\Telerik\C#1\LoopsHomework\LoopsHomework\02.AllNumberNotDividedBy7And3\obj\Debug\02.AllNumberNotDividedBy7And3.pdb

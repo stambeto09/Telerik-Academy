@@ -1,0 +1,6 @@
+W:\Telerik\C#1\LoopsHomework\LoopsHomework\01.PrintNumbersFromOneToN\bin\Debug\01.PrintNumbersFromOneToN.exe.config
+W:\Telerik\C#1\LoopsHomework\LoopsHomework\01.PrintNumbersFromOneToN\bin\Debug\01.PrintNumbersFromOneToN.exe
+W:\Telerik\C#1\LoopsHomework\LoopsHomework\01.PrintNumbersFromOneToN\bin\Debug\01.PrintNumbersFromOneToN.pdb
+W:\Telerik\C#1\LoopsHomework\LoopsHomework\01.PrintNumbersFromOneToN\obj\Debug\01.PrintNumbersFromOneToN.csprojResolveAssemblyReference.cache
+W:\Telerik\C#1\LoopsHomework\LoopsHomework\01.PrintNumbersFromOneToN\obj\Debug\01.PrintNumbersFromOneToN.exe
+W:\Telerik\C#1\LoopsHomework\LoopsHomework\01.PrintNumbersFromOneToN\obj\Debug\01.PrintNumbersFromOneToN.pdb

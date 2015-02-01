@@ -1,0 +1,6 @@
+W:\Telerik\C#1\LoopsHomework\LoopsHomework\04.TwoFactorielsDividing\bin\Debug\04.TwoFactorielsDividing.exe.config
+W:\Telerik\C#1\LoopsHomework\LoopsHomework\04.TwoFactorielsDividing\bin\Debug\04.TwoFactorielsDividing.exe
+W:\Telerik\C#1\LoopsHomework\LoopsHomework\04.TwoFactorielsDividing\bin\Debug\04.TwoFactorielsDividing.pdb
+W:\Telerik\C#1\LoopsHomework\LoopsHomework\04.TwoFactorielsDividing\obj\Debug\04.TwoFactorielsDividing.csprojResolveAssemblyReference.cache
+W:\Telerik\C#1\LoopsHomework\LoopsHomework\04.TwoFactorielsDividing\obj\Debug\04.TwoFactorielsDividing.exe
+W:\Telerik\C#1\LoopsHomework\LoopsHomework\04.TwoFactorielsDividing\obj\Debug\04.TwoFactorielsDividing.pdb

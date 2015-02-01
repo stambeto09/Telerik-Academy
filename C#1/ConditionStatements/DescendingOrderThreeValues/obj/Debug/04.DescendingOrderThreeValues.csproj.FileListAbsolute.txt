@@ -1,0 +1,6 @@
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\DescendingOrderThreeValues\bin\Debug\DescendingOrderThreeValues.exe.config
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\DescendingOrderThreeValues\bin\Debug\DescendingOrderThreeValues.exe
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\DescendingOrderThreeValues\bin\Debug\DescendingOrderThreeValues.pdb
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\DescendingOrderThreeValues\obj\Debug\04.DescendingOrderThreeValues.csprojResolveAssemblyReference.cache
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\DescendingOrderThreeValues\obj\Debug\DescendingOrderThreeValues.exe
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\DescendingOrderThreeValues\obj\Debug\DescendingOrderThreeValues.pdb

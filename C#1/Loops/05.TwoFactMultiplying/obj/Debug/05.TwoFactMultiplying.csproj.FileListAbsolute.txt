@@ -1,0 +1,6 @@
+W:\Telerik\C#1\LoopsHomework\LoopsHomework\05.TwoFactMultiplying\bin\Debug\05.TwoFactMultiplying.exe.config
+W:\Telerik\C#1\LoopsHomework\LoopsHomework\05.TwoFactMultiplying\bin\Debug\05.TwoFactMultiplying.exe
+W:\Telerik\C#1\LoopsHomework\LoopsHomework\05.TwoFactMultiplying\bin\Debug\05.TwoFactMultiplying.pdb
+W:\Telerik\C#1\LoopsHomework\LoopsHomework\05.TwoFactMultiplying\obj\Debug\05.TwoFactMultiplying.csprojResolveAssemblyReference.cache
+W:\Telerik\C#1\LoopsHomework\LoopsHomework\05.TwoFactMultiplying\obj\Debug\05.TwoFactMultiplying.exe
+W:\Telerik\C#1\LoopsHomework\LoopsHomework\05.TwoFactMultiplying\obj\Debug\05.TwoFactMultiplying.pdb

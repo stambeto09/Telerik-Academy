@@ -1,0 +1,6 @@
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\VariableTypeInput\bin\Debug\VariableTypeInput.exe.config
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\VariableTypeInput\bin\Debug\VariableTypeInput.exe
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\VariableTypeInput\bin\Debug\VariableTypeInput.pdb
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\VariableTypeInput\obj\Debug\08.VariableTypeInput.csprojResolveAssemblyReference.cache
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\VariableTypeInput\obj\Debug\VariableTypeInput.exe
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\VariableTypeInput\obj\Debug\VariableTypeInput.pdb

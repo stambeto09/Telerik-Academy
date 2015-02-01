@@ -1,0 +1,5 @@
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe.config
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.pdb
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.exe
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.pdb

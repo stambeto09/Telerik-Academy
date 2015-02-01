@@ -1,0 +1,6 @@
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\07.GreatestFromFiveVariables\bin\Debug\07.GreatestFromFiveVariables.exe.config
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\07.GreatestFromFiveVariables\bin\Debug\07.GreatestFromFiveVariables.exe
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\07.GreatestFromFiveVariables\bin\Debug\07.GreatestFromFiveVariables.pdb
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\07.GreatestFromFiveVariables\obj\Debug\07.GreatestFromFiveVariables.csprojResolveAssemblyReference.cache
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\07.GreatestFromFiveVariables\obj\Debug\07.GreatestFromFiveVariables.exe
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\07.GreatestFromFiveVariables\obj\Debug\07.GreatestFromFiveVariables.pdb

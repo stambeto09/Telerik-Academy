@@ -1,0 +1,6 @@
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\11.ConvertingNumberToPronounciation\bin\Debug\11.ConvertingNumberToPronounciation.exe.config
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\11.ConvertingNumberToPronounciation\bin\Debug\11.ConvertingNumberToPronounciation.exe
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\11.ConvertingNumberToPronounciation\bin\Debug\11.ConvertingNumberToPronounciation.pdb
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\11.ConvertingNumberToPronounciation\obj\Debug\11.ConvertingNumberToPronounciation.exe
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\11.ConvertingNumberToPronounciation\obj\Debug\11.ConvertingNumberToPronounciation.pdb
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\11.ConvertingNumberToPronounciation\obj\Debug\11.ConvertingNumberToPronounciation.csprojResolveAssemblyReference.cache

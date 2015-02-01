@@ -1,0 +1,5 @@
+W:\Telerik\C#1\LoopsHomework\LoopsHomework\03.MinAndMaxFromLoop\bin\Debug\03.MinAndMaxFromLoop.exe.config
+W:\Telerik\C#1\LoopsHomework\LoopsHomework\03.MinAndMaxFromLoop\bin\Debug\03.MinAndMaxFromLoop.exe
+W:\Telerik\C#1\LoopsHomework\LoopsHomework\03.MinAndMaxFromLoop\bin\Debug\03.MinAndMaxFromLoop.pdb
+W:\Telerik\C#1\LoopsHomework\LoopsHomework\03.MinAndMaxFromLoop\obj\Debug\03.MinAndMaxFromLoop.exe
+W:\Telerik\C#1\LoopsHomework\LoopsHomework\03.MinAndMaxFromLoop\obj\Debug\03.MinAndMaxFromLoop.pdb

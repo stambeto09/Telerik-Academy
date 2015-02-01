@@ -1,0 +1,6 @@
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\01.ExchangingValuesStatement\bin\Debug\01.ExchangingValuesStatement.exe.config
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\01.ExchangingValuesStatement\bin\Debug\01.ExchangingValuesStatement.exe
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\01.ExchangingValuesStatement\bin\Debug\01.ExchangingValuesStatement.pdb
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\01.ExchangingValuesStatement\obj\Debug\01.ExchangingValuesStatement.csprojResolveAssemblyReference.cache
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\01.ExchangingValuesStatement\obj\Debug\01.ExchangingValuesStatement.exe
+F:\Telerik and TY\Telerik\C#1\ConditionStatementsHomework\ConditionStatementsHomework\01.ExchangingValuesStatement\obj\Debug\01.ExchangingValuesStatement.pdb
