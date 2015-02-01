@@ -1,0 +1,6 @@
+F:\Telerik and TY\Telerik\C#1\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\PrimitiveTypesAndVariables\BooleanGenderChecking\bin\Debug\BooleanGenderChecking.exe.config
+F:\Telerik and TY\Telerik\C#1\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\PrimitiveTypesAndVariables\BooleanGenderChecking\bin\Debug\BooleanGenderChecking.exe
+F:\Telerik and TY\Telerik\C#1\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\PrimitiveTypesAndVariables\BooleanGenderChecking\bin\Debug\BooleanGenderChecking.pdb
+F:\Telerik and TY\Telerik\C#1\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\PrimitiveTypesAndVariables\BooleanGenderChecking\obj\Debug\BooleanGenderChecking.csprojResolveAssemblyReference.cache
+F:\Telerik and TY\Telerik\C#1\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\PrimitiveTypesAndVariables\BooleanGenderChecking\obj\Debug\BooleanGenderChecking.exe
+F:\Telerik and TY\Telerik\C#1\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\PrimitiveTypesAndVariables\BooleanGenderChecking\obj\Debug\BooleanGenderChecking.pdb

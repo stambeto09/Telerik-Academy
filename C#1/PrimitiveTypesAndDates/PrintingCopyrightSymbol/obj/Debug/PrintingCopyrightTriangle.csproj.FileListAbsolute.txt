@@ -1,0 +1,5 @@
+F:\Telerik and TY\Telerik\C#1\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\PrimitiveTypesAndVariables\PrintingCopyrightSymbol\bin\Debug\PrintingCopyrightSymbol.exe.config
+F:\Telerik and TY\Telerik\C#1\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\PrimitiveTypesAndVariables\PrintingCopyrightSymbol\bin\Debug\PrintingCopyrightSymbol.exe
+F:\Telerik and TY\Telerik\C#1\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\PrimitiveTypesAndVariables\PrintingCopyrightSymbol\bin\Debug\PrintingCopyrightSymbol.pdb
+F:\Telerik and TY\Telerik\C#1\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\PrimitiveTypesAndVariables\PrintingCopyrightSymbol\obj\Debug\PrintingCopyrightSymbol.exe
+F:\Telerik and TY\Telerik\C#1\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\PrimitiveTypesAndVariables\PrintingCopyrightSymbol\obj\Debug\PrintingCopyrightSymbol.pdb

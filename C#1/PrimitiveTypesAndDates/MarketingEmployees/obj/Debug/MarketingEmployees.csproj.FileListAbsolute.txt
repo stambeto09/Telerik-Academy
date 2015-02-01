@@ -1,0 +1,6 @@
+F:\Telerik and TY\Telerik\C#1\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\PrimitiveTypesAndVariables\MarketingEmployees\bin\Debug\MarketingEmployees.exe.config
+F:\Telerik and TY\Telerik\C#1\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\PrimitiveTypesAndVariables\MarketingEmployees\bin\Debug\MarketingEmployees.exe
+F:\Telerik and TY\Telerik\C#1\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\PrimitiveTypesAndVariables\MarketingEmployees\bin\Debug\MarketingEmployees.pdb
+F:\Telerik and TY\Telerik\C#1\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\PrimitiveTypesAndVariables\MarketingEmployees\obj\Debug\MarketingEmployees.exe
+F:\Telerik and TY\Telerik\C#1\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\PrimitiveTypesAndVariables\MarketingEmployees\obj\Debug\MarketingEmployees.pdb
+F:\Telerik and TY\Telerik\C#1\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\PrimitiveTypesAndVariables\MarketingEmployees\obj\Debug\MarketingEmployees.csprojResolveAssemblyReference.cache

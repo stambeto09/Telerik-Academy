@@ -1,0 +1,6 @@
+F:\Telerik and TY\Telerik\C#1\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\PrimitiveTypesAndVariables\DeclaringVariables\bin\Debug\DeclaringVariables.exe.config
+F:\Telerik and TY\Telerik\C#1\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\PrimitiveTypesAndVariables\DeclaringVariables\bin\Debug\DeclaringVariables.exe
+F:\Telerik and TY\Telerik\C#1\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\PrimitiveTypesAndVariables\DeclaringVariables\bin\Debug\DeclaringVariables.pdb
+F:\Telerik and TY\Telerik\C#1\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\PrimitiveTypesAndVariables\DeclaringVariables\obj\Debug\DeclaringVariables.csprojResolveAssemblyReference.cache
+F:\Telerik and TY\Telerik\C#1\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\PrimitiveTypesAndVariables\DeclaringVariables\obj\Debug\DeclaringVariables.exe
+F:\Telerik and TY\Telerik\C#1\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\PrimitiveTypesAndVariables\DeclaringVariables\obj\Debug\DeclaringVariables.pdb

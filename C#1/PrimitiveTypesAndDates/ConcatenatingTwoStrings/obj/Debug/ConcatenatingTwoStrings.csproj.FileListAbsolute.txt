@@ -1,0 +1,6 @@
+F:\Telerik and TY\Telerik\C#1\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\PrimitiveTypesAndVariables\ConcatenatingTwoStrings\bin\Debug\ConcatenatingTwoStrings.exe.config
+F:\Telerik and TY\Telerik\C#1\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\PrimitiveTypesAndVariables\ConcatenatingTwoStrings\bin\Debug\ConcatenatingTwoStrings.exe
+F:\Telerik and TY\Telerik\C#1\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\PrimitiveTypesAndVariables\ConcatenatingTwoStrings\bin\Debug\ConcatenatingTwoStrings.pdb
+F:\Telerik and TY\Telerik\C#1\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\PrimitiveTypesAndVariables\ConcatenatingTwoStrings\obj\Debug\ConcatenatingTwoStrings.csprojResolveAssemblyReference.cache
+F:\Telerik and TY\Telerik\C#1\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\PrimitiveTypesAndVariables\ConcatenatingTwoStrings\obj\Debug\ConcatenatingTwoStrings.exe
+F:\Telerik and TY\Telerik\C#1\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\PrimitiveTypesAndVariables\ConcatenatingTwoStrings\obj\Debug\ConcatenatingTwoStrings.pdb

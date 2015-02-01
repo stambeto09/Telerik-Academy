@@ -1,0 +1,5 @@
+F:\Telerik and TY\Telerik\C#1\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\PrimitiveTypesAndVariables\HexadecimalIntegerValue\bin\Debug\HexadecimalIntegerValue.exe.config
+F:\Telerik and TY\Telerik\C#1\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\PrimitiveTypesAndVariables\HexadecimalIntegerValue\bin\Debug\HexadecimalIntegerValue.exe
+F:\Telerik and TY\Telerik\C#1\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\PrimitiveTypesAndVariables\HexadecimalIntegerValue\bin\Debug\HexadecimalIntegerValue.pdb
+F:\Telerik and TY\Telerik\C#1\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\PrimitiveTypesAndVariables\HexadecimalIntegerValue\obj\Debug\HexadecimalIntegerValue.exe
+F:\Telerik and TY\Telerik\C#1\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\PrimitiveTypesAndVariables\HexadecimalIntegerValue\obj\Debug\HexadecimalIntegerValue.pdb
