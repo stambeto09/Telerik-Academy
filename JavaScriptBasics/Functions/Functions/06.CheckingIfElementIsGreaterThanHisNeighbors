@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <label for="number-td">Your element's position.</label>
+    <input type="text" id="number-td"/>
+    <label for="arr-td">Enter your numbers separated by ' '</label>
+    <input id="arr-td" type="text"/>
+    <input type="button" onclick="checkTheElement()" value="Check">
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        function checkTheElement() {
+            var position = jsConsole.read("#number-td");
+            position = parseInt(position);
+            var arrContent = jsConsole.read("#arr-td");
+            var array = arrContent.split(' ');
+
+            if (position === 0){
+
+                if (array[position] > array[position + 1]) {
+                    jsConsole.writeLine("The element at given position is greater than his right neighbor.");
+                } else {
+                    jsConsole.writeLine("The element at given position isn't greater than his right neighbor.");
+                }
+            } else if (position === array.length - 1) {
+
+                if (array[position] > array[position-1]) {
+                    jsConsole.writeLine("The element at given position is greater than his left neighbor.");
+                } else {
+                    jsConsole.writeLine("The element at given position isn't greater than his left neighbor.");
+                }
+            } else {
+                if (array[position] > array[position + 1] && 
+                    array[position] > array[position - 1]) {
+
+                    jsConsole.writeLine("The element is greater than his neighbors.");
+                }
+                else {
+
+                    jsConsole.writeLine("The element isn't greater than his neighbors.");
+                }
+            }
+            
+        }
+    </script>
+</body>
+</html>

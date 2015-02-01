@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <label for="first-word" >First word</label>
+    <input type="text" id="first-word"/>
+    <label for="second-word" >Second word</label>
+    <input type="text" id="second-word"/>
+    <input type="button" value="Check" onclick="compareArrays()" /> 
+	<div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        function compareArrays(){
+            var firstWordInString = jsConsole.read("#first-word");
+            var secondWordInString = jsConsole.read("#second-word");
+            console.log(firstWordInString);
+            console.log(secondWordInString);
+
+            var firstArr;
+            firstArr = firstWordInString.split('');
+            console.log(firstArr);
+            var secondArr;
+            secondArr = secondWordInString.split('');
+            console.log(secondArr);
+
+            //The comparing;
+            
+            if (firstArr.length === secondArr.length) {
+                //Same length - different symbols;
+                for (var index = 0; index < firstArr.length; index++) {
+                    if (firstArr[index] < secondArr[index]) {
+                        jsConsole.writeLine("First is before second");
+                        break;
+
+                    } else if (firstArr[index] > secondArr[index]) {
+                        jsConsole.writeLine("Second is before first");
+                        break;
+                    };
+                };
+                //Same length - same symbols;
+                var areEqual = false;
+                for (var index = 0 ; index < firstArr.length; index++) {
+                    if (firstArr[index] === secondArr[index]) {
+                        areEqual = true;
+                    } else {
+                        areEqual = false;
+                        break;
+                    }
+                };
+                if (areEqual) {
+                    jsConsole.writeLine("Both words are equal");
+                };
+            };
+
+            if (firstArr.length != secondArr.length) {
+                //Different lengths - first longer
+                var areEqual = false;
+                if (firstArr.length > secondArr.length) {
+                    for (var index = 0; index < secondArr.length; index++) {
+                        if (firstArr[index] > secondArr[index]) {
+                            jsConsole.writeLine("Second is before first.");
+                            break;
+                        } else if (firstArr[index] < secondArr[index]) {
+                            jsConsole.writeLine("First is before second.");
+                            break;
+                        } else if (firstArr[index] === secondArr[index]) {
+                            areEqual = true;
+                            if (index === secondArr.length-1 && areEqual) {
+                                jsConsole.writeLine("Second is before first.");
+                                break;
+                            };
+                        }
+                    };
+                }
+
+                //Different lengths - second longer
+                if (secondArr.length > firstArr.length) {
+                    for (var index = 0; index < firstArr.length; index++) {
+                        if (secondArr[index] > firstArr[index]) {
+                            jsConsole.writeLine("First is before second.");
+                            break;
+                        } else if (secondArr[index] < firstArr[index]) {
+                            jsConsole.writeLine("Second is before first.");
+                            break;
+                        } else if (secondArr[index] === firstArr[index]) {
+                            areEqual = true;
+                            if (index === firstArr.length - 1 && areEqual) {
+                                jsConsole.writeLine("Frist is before second.");
+                                break;
+                            };
+                        };
+                    };
+                }; 
+            };   
+        };
+   	</script>
+</body>
+</html>

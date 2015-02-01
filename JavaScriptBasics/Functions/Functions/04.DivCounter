@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <label>Create a div</label>
+    <input type="button" onclick="createDiv()" value="Create div"/>
+    <label>Check number of divs</label>
+    <input type="button" onclick="checkNumberOFDivs()" value="Check">
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        function createDiv() {
+            var div = document.createElement("div");
+            document.body.appendChild(div);
+        }
+        function checkNumberOFDivs() {
+            var counter = 0;
+            var divs = document.getElementsByTagName("div");
+            for(var i = 0; i < divs.length; i++){
+                counter++;
+            }
+            jsConsole.writeLine("There are " + counter + " div/s.");
+        }
+        
+    </script>
+</body>
+</html>

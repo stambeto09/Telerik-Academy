@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <label for="first-integer">Frist integer</label>
+    <input type="text" id="first-integer" />
+    <label for="second-integer">Second integer</label>
+    <input type="text" id="second-integer" />
+    <input type="button" onclick="checkTheNumbers()" value="Check" />
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        function checkTheNumbers() {
+            var firstNumber = jsConsole.readInteger("#first-integer");
+            var secondNumber = jsConsole.readInteger("#second-integer");
+
+            if (firstNumber > secondNumber) {
+                var thirdNumber = firstNumber;
+                firstNumber = secondNumber;
+                secondNumber = thirdNumber;
+                jsConsole.writeLine("The first number is now " + firstNumber);
+                jsConsole.writeLine("The second number is now " + secondNumber);
+            }
+            else {
+                jsConsole.writeLine("The first and second number are the same.");
+            }
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <label for="arr-td">Enter your array elements separated by space.</label>
+    <input type="text" id="arr-td"/>
+    <label for="val-index">Your value: </label>
+    <input type = "text" id="val-index"/>
+    <input type="button" value="Check" onclick="binarySearchByIndex()"/>
+	<div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+	    var value = jsConsole.read("#val-index");
+            var textContent = jsConsole.read("#arr-td");
+            var sequence = textContent.split(' ');
+            sequence.sort(function(a, b){return a-b});
+        
+	    function binarySearchByIndex(var sequence, var value) {
+            
+            var low = 0;
+            var high = sequence.length - 1;
+	    var result = 0;
+            while (low <= high) {
+                var mid = Math.floor((low+high)/2);
+                if (sequence[mid] > value){
+                    high = mid - 1;
+
+                } else if (sequence[mid] < value){
+                    low = mid + 1;
+
+                } else {
+                    return mid; 
+
+                }
+            }
+		
+        }
+	jsConsole.writeLine(binarySearchByIndex(sequence, value));
+
+   </script>
+</body>
+</html>

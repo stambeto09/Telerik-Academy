@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <label for="number">Enter your number:</label>
+    <input type="text" id="number" />
+    <input type="button" onclick="checkTheThirdDigit()" value="Check the digit" />
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        function checkTheThirdDigit() {
+            var currentNumber = jsConsole.readInteger("#number");
+            currentNumber /= 100;
+            currentNumber %= 10;
+            var digit = parseInt(currentNumber);
+
+            if (digit==7) {
+                jsConsole.writeLine("The third digit is 7.");
+            }
+            else {
+                jsConsole.writeLine("The third digit is not 7.");
+            }
+        }
+    </script>
+</body>
+</html>

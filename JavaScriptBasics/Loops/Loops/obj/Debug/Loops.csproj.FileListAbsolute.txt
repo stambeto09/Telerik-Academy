@@ -1,0 +1,6 @@
+C:\Users\Stanimir\Desktop\Loops\Loops\Loops\bin\Loops.dll.config
+C:\Users\Stanimir\Desktop\Loops\Loops\Loops\bin\Loops.dll
+C:\Users\Stanimir\Desktop\Loops\Loops\Loops\bin\Loops.pdb
+C:\Users\Stanimir\Desktop\Loops\Loops\Loops\obj\Debug\Loops.csprojResolveAssemblyReference.cache
+C:\Users\Stanimir\Desktop\Loops\Loops\Loops\obj\Debug\Loops.dll
+C:\Users\Stanimir\Desktop\Loops\Loops\Loops\obj\Debug\Loops.pdb

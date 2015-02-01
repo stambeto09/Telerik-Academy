@@ -1,0 +1,68 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <label for="first-integer">Frist integer</label>
+    <input type="text" id="first-integer" />
+    <label for="second-integer">Second integer</label>
+    <input type="text" id="second-integer" />
+    <label for="third-integer">Third integer</label>
+    <input type="text" id="third-integer" />
+    <input type="button" onclick="sortTheValues()" value="Check" />
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        function sortTheValues() {
+            var firstNumber = jsConsole.readInteger("#first-integer");
+            var secondNumber = jsConsole.readInteger("#second-integer");
+            var thirdNumber = jsConsole.readInteger("#third-integer");
+
+            if (firstNumber>secondNumber && firstNumber>thirdNumber) {
+
+                if (secondNumber>thirdNumber) {
+                    jsConsole.writeLine(firstNumber);
+                    jsConsole.writeLine(secondNumber);
+                    jsConsole.writeLine(thirdNumber);
+                }
+
+                else {
+                    jsConsole.writeLine(firstNumber);
+                    jsConsole.writeLine(thirdNumber);
+                    jsConsole.writeLine(secondNumber);
+                }
+            }
+
+            else if (secondNumber>firstNumber && secondNumber>thirdNumber) {
+
+                if (firstNumber > thirdNumber) {
+                    jsConsole.writeLine(secondNumber);
+                    jsConsole.writeLine(firstNumber);
+                    jsConsole.writeLine(thirdNumber);
+                }
+                else {
+                    jsConsole.writeLine(secondNumber);
+                    jsConsole.writeLine(thirdNumber);
+                    jsConsole.writeLine(firstNumber);
+                }
+            }
+
+            else if (thirdNumber>firstNumber && thirdNumber>secondNumber) {
+
+                if (firstNumber > secondNumber) {
+                    jsConsole.writeLine(thirdNumber);
+                    jsConsole.writeLine(firstNumber);
+                    jsConsole.writeLine(secondNumber);
+                }
+                else {
+                    jsConsole.writeLine(thirdNumber);
+                    jsConsole.writeLine(secondNumber);
+                    jsConsole.writeLine(firstNumber);
+                }
+            }
+        }
+    </script>
+</body>
+</html>

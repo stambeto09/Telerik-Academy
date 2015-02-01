@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <label for="first-integer">Frist integer</label>
+    <input type="text" id="first-integer" />
+    <label for="second-integer">Second integer</label>
+    <input type="text" id="second-integer" />
+    <label for="third-integer">Third integer</label>
+    <input type="text" id="third-integer" />
+    <input type="button" onclick="compareTheNumbers()" value="Check" />
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        function compareTheNumbers() {
+            var firstNumber = jsConsole.readInteger("#first-integer");
+            var secondNumber = jsConsole.readInteger("#second-integer");
+            var thirdNumber = jsConsole.readInteger("#third-integer");
+
+            if (firstNumber>secondNumber) {
+                
+                if (firstNumber>thirdNumber) {
+                    jsConsole.writeLine("The first number is the greatest.");
+                }
+                else {
+                    jsConsole.writeLine("The third number is the geatest.");
+                }
+            }
+
+            if (secondNumber>firstNumber) {
+
+                if (secondNumber>thirdNumber) {
+                    jsConsole.writeLine("The second number is the greatest.");
+                }
+                else {
+                    jsConsole.writeLine("The third number is the greatest.");
+                }
+            }
+        }
+    </script>
+</body>
+</html>

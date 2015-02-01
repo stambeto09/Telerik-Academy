@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Is number even or odd</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <label for="number"> Enter your number</label>
+    <input id="number" type="text"/>
+    <input type="button" onclick="checkNumber()" value="Check the number"/>
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        function checkNumber() {
+            var number = jsConsole.readFloat("#number");
+            if (number%2==0) {
+                jsConsole.writeLine("The number is even.");
+            }
+            else {
+                jsConsole.writeLine("The number is odd.");
+            }
+        }
+        //var result = (integerNumber % 2 == 0) ? "The number is even." : "The number is odd.";
+        //jsConsole.writeLine(result);
+    </script>
+</body>
+</html>

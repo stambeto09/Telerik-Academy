@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <label for="arr-td">Enter your array elements separated by space.</label>
+    <input type="tesxt" id="arr-td"/>
+    <input type="button" value="Check" onclick="findMostFrequentNumber()"/>
+	<div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        function findMostFrequentNumber() {
+            var textContent = jsConsole.read("#arr-td");
+            var sequence = textContent.split(' ');
+            sequence.sort(function(a, b){return a-b});
+
+            var currentLength = 1;
+            var currentMaxLength = 1;
+            currentMaxIndex = 0;
+            for (var index = 1; index < sequence.length; index++) {
+
+                if (sequence[index] === sequence[index - 1]) {
+                    currentLength++;
+                    if (index == sequence.length - 1 && currentLength > currentMaxLength) {
+                        currentMaxLength = currentLength;
+                        currentMaxIndex = index - 1;
+                    };
+
+                } else if (sequence[index] != sequence[index-1]) {
+
+                    if (currentLength > currentMaxLength) {
+                        currentMaxIndex = index - 1;
+                        currentMaxLength = currentLength;
+                        currentLength = 1;
+                    };
+
+                };
+
+            };
+
+            jsConsole.writeLine(sequence[currentMaxIndex]);
+            jsConsole.writeLine(currentMaxLength + " times");
+        }
+   </script>
+</body>
+</html>

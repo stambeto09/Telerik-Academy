@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <label for="first">First</label>
+    <input type="text" id="first" />
+    <label for="second">Second</label>
+    <input type="text" id="second" />
+    <label for="third">Thrid</label>
+    <input type="text" id="third" />
+    <label for="fourth">Fourth</label>
+    <input type="text" id="fourth" />
+    <label for="fifth">Fifth</label>
+    <input type="text" id="fifth" />
+    <input type="button" onclick="printTheGreatest()" value="Print" />
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+
+    <script>
+        function printTheGreatest() {
+            var first = jsConsole.readInteger("#first");
+            var second = jsConsole.readInteger("#second");
+            var third = jsConsole.readInteger("#third");
+            var fourth = jsConsole.readInteger("#fourth");
+            var fifth = jsConsole.readInteger("#fifth");
+
+            if (first>second && first>third && first>fourth && first>fifth) {
+                jsConsole.writeLine("The first number is the greatest.");
+            }
+            else if (second>first && second>third && second>fourth && second>fifth) {
+                jsConsole.writeLine("The second number is the greatest.");
+            }
+            else if (third > first && third > second && third > fourth && third > fifth) {
+                jsConsole.writeLine("The third number is the greatest.");
+            }
+            else if (fourth>first && fourth>second && fourth>third && fourth>fifth) {
+                jsConsole.writeLine("The fourth number is the greatest.");
+            }
+            else if (fifth>first && fifth>second && fifth>third && fifth>fourth) {
+                jsConsole.writeLine("The fifth number is the greatest.");
+            }
+            
+            //var number = 123;
+            //var first;
+            //var second;
+            //var third;
+
+            //first = parseInt(number / 100);
+            //second = parseInt((number / 10) % 10);
+            //third = parseInt(number % 10);
+
+            //jsConsole.writeLine(first);
+            //jsConsole.writeLine(second);
+            //jsConsole.writeLine(third);
+
+        }
+    </script>
+</body>
+</html>

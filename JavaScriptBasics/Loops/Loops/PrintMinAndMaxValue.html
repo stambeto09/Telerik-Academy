@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <label for="arr-seq">Enter your sequence separated by space</label>
+    <input type="text" id="arr-seq" />
+    <input type="button" onclick="calculateMinAndMax()" value="Check">
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        
+        function calculateMinAndMax() {
+            var input = document.getElementById("arr-seq").value;
+            var array = input.split(" ");
+            array.sort(function (a, b) { return a - b });
+            
+            jsConsole.writeLine("Min value:" + array[0]);
+            jsConsole.writeLine("Max value:" + array[array.length - 1]);
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <label for="number-td">Enter your number</label>
+    <input id="number-td"/>
+    <input type="button" onclick="reverseDigits()" value="Check">
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        function reverseDigits() {
+            var number = jsConsole.read("#number-td");
+            number = parseInt(number);
+            var digit = 0;
+            while(number>0)
+            {
+                digit = number % 10;
+                jsConsole.write(digit);
+                number = number / 10;
+                number = parseInt(number);
+            }
+        }
+    </script>
+</body>
+</html>

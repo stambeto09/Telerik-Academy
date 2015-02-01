@@ -1,0 +1,6 @@
+C:\Users\Stanimir\Desktop\ConditionalStatements\ConditionalStatements\ConditionalStatements\bin\ConditionalStatements.dll.config
+C:\Users\Stanimir\Desktop\ConditionalStatements\ConditionalStatements\ConditionalStatements\bin\ConditionalStatements.dll
+C:\Users\Stanimir\Desktop\ConditionalStatements\ConditionalStatements\ConditionalStatements\bin\ConditionalStatements.pdb
+C:\Users\Stanimir\Desktop\ConditionalStatements\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.csprojResolveAssemblyReference.cache
+C:\Users\Stanimir\Desktop\ConditionalStatements\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.dll
+C:\Users\Stanimir\Desktop\ConditionalStatements\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.pdb

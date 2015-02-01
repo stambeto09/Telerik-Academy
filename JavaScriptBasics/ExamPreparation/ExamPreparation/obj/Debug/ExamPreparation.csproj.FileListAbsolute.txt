@@ -1,0 +1,6 @@
+C:\Users\Stanimir\Desktop\ExamPreparation\ExamPreparation\ExamPreparation\bin\ExamPreparation.dll.config
+C:\Users\Stanimir\Desktop\ExamPreparation\ExamPreparation\ExamPreparation\bin\ExamPreparation.dll
+C:\Users\Stanimir\Desktop\ExamPreparation\ExamPreparation\ExamPreparation\bin\ExamPreparation.pdb
+C:\Users\Stanimir\Desktop\ExamPreparation\ExamPreparation\ExamPreparation\obj\Debug\ExamPreparation.csprojResolveAssemblyReference.cache
+C:\Users\Stanimir\Desktop\ExamPreparation\ExamPreparation\ExamPreparation\obj\Debug\ExamPreparation.dll
+C:\Users\Stanimir\Desktop\ExamPreparation\ExamPreparation\ExamPreparation\obj\Debug\ExamPreparation.pdb

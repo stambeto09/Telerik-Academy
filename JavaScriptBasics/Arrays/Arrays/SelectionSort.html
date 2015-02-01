@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <label for="arr-td">Enter your array elements separated by space.</label>
+    <input type="tesxt" id="arr-td"/>
+    <input type="button" value="Sort" onclick="sortArray()"/>
+	<div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+    	function sortArray () {
+
+            var arrContent = jsConsole.read("#arr-td");
+            var arr = arrContent.split(' ');
+
+            var i, j, tmp, tmp2;
+            for (i = 0; i < arr.length - 1; i++)
+            {
+                tmp = i;
+                for (j = i + 1; j < arr.length; j++)
+                if (arr[j] < arr[tmp]){
+
+                    tmp = j;
+                }
+ 
+                tmp2 = arr[tmp];
+                arr[tmp] = arr[i];
+                arr[i] = tmp2;
+            }  
+
+            for (var index = 0; index < arr.length; index++) {
+                     jsConsole.writeLine(arr[index]);
+            };     
+        }
+   	</script>
+</body>
+</html>

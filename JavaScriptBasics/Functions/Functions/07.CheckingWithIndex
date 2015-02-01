@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <label for="arr-td">Enter your numbers separated by ' '</label>
+    <input id="arr-td" type="text"/>
+    <input type="button" onclick="checkTheElement()" value="Check">
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        function checkTheElement() {
+            var arrContent = jsConsole.read("#arr-td");
+            var array = arrContent.split(' ');
+            for(var position = 0;positon < array.length;position++)
+            {
+                if (position === 0){
+
+                    if (array[position] > array[position + 1]) {
+                        return position;
+                    } 
+                } else if (position === array.length - 1) {
+
+                    if (array[position] > array[position-1]) {
+                        return position;
+                    } 
+                } else if (array[position] > array[position + 1] && 
+                        array[position] > array[position - 1]){
+                         return position;
+                } else {
+                    return -1;
+                }
+            }
+            jsConsole.writeLine(checkTheElement());
+        }   
+    </script>
+</body>
+</html>

@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <label for="number">Enter your number.</label>
+    <input type="text"  id="number"/>
+    <input type="button" onclick="checkTheNumber()" value="Check"/>
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        function checkTheNumber() {
+            var number = jsConsole.readInteger("#number");
+            var isPrime = (number%2==0) || (number%3==0) || (number%5==0) || (number%7==0);//not prime
+            if (isPrime) {
+                jsConsole.writeLine("The number isn't prime.");
+            }
+            else {
+                jsConsole.writeLine("The number is prime.");
+            }
+        }
+    </script>
+</body>
+</html>

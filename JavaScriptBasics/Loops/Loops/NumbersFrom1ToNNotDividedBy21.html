@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <label for="n">N:</label>
+    <input type="text" id="n" />
+    <input type="button" onclick="printNumbers()" value="Print" />
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+
+        function printNumbers() {
+            var N = jsConsole.readInteger("#n");
+            for (var index = 1; index <= N; index++) {
+                if (index%21 != 0) {
+                    jsConsole.writeLine(index);
+                }
+
+            }
+        }
+    </script>
+</body>
+</html>

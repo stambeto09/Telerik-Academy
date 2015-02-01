@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>JS Console - Example</title>
+<link href="styles/js-console.css" rel="stylesheet" />
+
+</head>
+<body>
+<div id="inputdiv">
+<div class="input">
+<label for="tb-first">Insert text: </label>
+<input type="text" id="tb-first"/>
+</div>	
+<div class="input">
+<label for="tb-second">Insert finding word: </label>
+<input type="text" id="tb-second"/>
+</div>
+<div id="inputbutton">
+<a href="#" onclick="onCountButtonClick()">Count words in text</a>
+</div>
+</div>
+<div id="console">
+</div>
+<script src="scripts/js-console.js">	
+</script>	
+<script>	
+
+function onCountButtonClick() {
+var text = jsConsole.read("#tb-first");
+var word = jsConsole.read("#tb-second");
+var repeatedNumber = countWordsInText(text, word);
+jsConsole.writeLine("Word " + word + " is repeating " + repeatedNumber + " times");
+}	
+function countWordsInText(text, word) {
+        var counter = 0;
+var i;
+var arr = text.split(' ');
+        for (i = 0; i < arr.length; i++)
+        {
+            if (arr[i].trim() == word)
+            {
+                counter++;
+            }
+        }
+        return counter;
+    }
+</script>	
+</body>
+</html>

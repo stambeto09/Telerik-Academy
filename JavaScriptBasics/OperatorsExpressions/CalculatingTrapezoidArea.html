@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <label for="a">Enter a value for a:</label>
+    <input type="text" id="a"/>
+    <label for="b">Enter a value for b:</label>
+    <input type="text" id="b" />
+    <label for="h">Enter a value for h:</label>
+    <input type="text" id="h" />
+    <input type="button" onclick="calculateArea()" value="Calculate" />
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        
+        function calculateArea() {
+            var a = jsConsole.readFloat("#a");
+            var b = jsConsole.readFloat("#b");
+            var h = jsConsole.readFloat("#h");
+            var area = ((a + b) / 2) * h;
+            jsConsole.writeLine("The area is: " + area);
+        }
+    </script>
+</body>
+</html>

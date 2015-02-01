@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <label for="number-td">Enter your number</label>
+    <input id="number-td"/ type="text">
+    <label for="arr-td">Enter your numbers separated by ', '</label>
+    <input id="arr-td" type="text"/>
+    <input type="button" onclick="checkTheNumber()" value="Check">
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        function checkTheNumber() {
+            var arrContent = jsConsole.read("#arr-td");
+            var array = arrContent.split(',');
+            var number = jsConsole.read("#number-td");
+            var counter = 0;
+            for (var index = 0; index < array.length; index++) {
+
+                if (array[index] === number) {
+                    counter++;
+                };
+            };
+
+            if (counter === 1) {
+                jsConsole.writeLine("once");
+            } else {
+                jsConsole.writeLine(counter + " times");    
+            }
+            
+        }
+    </script>
+</body>
+</html>

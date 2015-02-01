@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <label for="a">a</label>
+    <input type="text" id="a" />
+    <label for="b">b</label>
+    <input type="text" id="b" />
+    <label for="c">c</label>
+    <input type="text" id="c" />
+    <input type="button" onclick="calculateTheQuadraticEquation()" value="Calculate"/>
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        function calculateTheQuadraticEquation() {
+            var a = jsConsole.readFloat("#a");
+            var b = jsConsole.readFloat("#b");
+            var c = jsConsole.readFloat("#c");
+            
+            var determinant = (b * b) - (4 * a * c);
+
+            if (determinant>=0) {
+                var x1 = 0;
+                var x2 = 0;
+
+                if (determinant==0) {
+                    x1 = -b / 2 * a;
+                    jsConsole.writeLine("x1=x2=" + x1);
+                }
+                
+                else {
+                    x1 = (-b + Math.sqrt(determinant)) / 2 * a;
+                    x2 = (-b - Math.sqrt(determinant)) / 2 * a;
+                    jsConsole.writeLine("x1=" + x1);
+                    jsConsole.writeLine("x2=" + x2);
+                }
+            }
+            else {
+                jsConsole.writeLine("The equation doesn't have any REAL roots.");
+            }
+        }
+    </script>
+</body>
+</html>

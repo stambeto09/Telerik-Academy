@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <label for="y">Y:</label>
+    <input type="text" id="y" />
+    <label for="x">X:</label>
+    <input type="text" id="x" />
+    <input type="button" onclick="checkTheCondition()" value="Check" />
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+
+        function checkTheCondition() {
+            var x = jsConsole.readFloat("#x");
+            var y = jsConsole.readFloat("#y");
+            if (((x - 1) * (x - 1) + (y - 1) * (y - 1)) <= 9) {
+                jsConsole.writeLine("The point is in the circle");
+                if ((x < (-1)) || (x > 5)) {
+                    jsConsole.writeLine("The point is outside the rectangle");
+                }
+                else
+                    if (y > 1 || y < (-1)) {
+                        jsConsole.writeLine("The point is outside the rectangle");
+                    }
+                    else
+                        if (((x > (-1)) || (x < 5)) && (y < 1 || y > (-1))) {
+                            jsConsole.writeLine("The point is IN the rectangle");
+                        }
+            }
+            else {
+                jsConsole.writeLine("The point is OUT the circle");
+                if ((x < (-1)) || (x > 5)) {
+                    jsConsole.writeLine("The point is outside the rectangle");
+                }
+                else
+                    if (y > 1 || y < (-1)) {
+                        jsConsole.writeLine("The point is outside the rectangle");
+                    }
+                    else
+                        if (((x > (-1)) || (x < 5)) && (y < 1 || y > (-1))) {
+                            jsConsole.writeLine("The point is IN the rectangle");
+                        }
+            }
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <label for="x-cord">X cordinate</label>
+    <input id="x-cord" type="text"/>
+    <label for="y-cord">Y cordinate</label>
+    <input id="y-cord" type="text" />
+    <input type="button" value="Check the point" onclick="checkThePoint()"/>
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        function checkThePoint() {
+            var xCord = jsConsole.readFloat("#x-cord");
+            var yCord = jsConsole.readFloat("#y-cord");
+
+            var resultFromXCord = (xCord>=5) || (xCord<=-5);//it's outside
+            var resultFromYCord = (yCord >= 5) || (yCord <= -5);//it's outside
+
+            if (resultFromXCord || resultFromYCord==true) {
+                jsConsole.writeLine("The point is outside of the circle.");
+            }
+            else {
+                jsConsole.writeLine("The point is inside of the circle.");
+            }
+        }
+
+    </script>
+</body>
+</html>
