@@ -1,0 +1,6 @@
+W:\Telerik\C#2\MethodHomework\MethodHomework\01.NameMethod\bin\Debug\01.NameMethod.exe.config
+W:\Telerik\C#2\MethodHomework\MethodHomework\01.NameMethod\bin\Debug\01.NameMethod.exe
+W:\Telerik\C#2\MethodHomework\MethodHomework\01.NameMethod\bin\Debug\01.NameMethod.pdb
+W:\Telerik\C#2\MethodHomework\MethodHomework\01.NameMethod\obj\Debug\01.NameMethod.csprojResolveAssemblyReference.cache
+W:\Telerik\C#2\MethodHomework\MethodHomework\01.NameMethod\obj\Debug\01.NameMethod.exe
+W:\Telerik\C#2\MethodHomework\MethodHomework\01.NameMethod\obj\Debug\01.NameMethod.pdb

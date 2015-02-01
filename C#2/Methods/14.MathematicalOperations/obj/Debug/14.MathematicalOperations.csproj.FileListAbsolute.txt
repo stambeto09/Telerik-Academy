@@ -1,0 +1,6 @@
+W:\Telerik\C#2\MethodHomework\MethodHomework\14.MathematicalOperations\bin\Debug\14.MathematicalOperations.exe.config
+W:\Telerik\C#2\MethodHomework\MethodHomework\14.MathematicalOperations\bin\Debug\14.MathematicalOperations.exe
+W:\Telerik\C#2\MethodHomework\MethodHomework\14.MathematicalOperations\bin\Debug\14.MathematicalOperations.pdb
+W:\Telerik\C#2\MethodHomework\MethodHomework\14.MathematicalOperations\obj\Debug\14.MathematicalOperations.csprojResolveAssemblyReference.cache
+W:\Telerik\C#2\MethodHomework\MethodHomework\14.MathematicalOperations\obj\Debug\14.MathematicalOperations.exe
+W:\Telerik\C#2\MethodHomework\MethodHomework\14.MathematicalOperations\obj\Debug\14.MathematicalOperations.pdb

@@ -1,0 +1,6 @@
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\BubbleSort\bin\Debug\BubbleSort.exe.config
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\BubbleSort\bin\Debug\BubbleSort.exe
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\BubbleSort\bin\Debug\BubbleSort.pdb
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\BubbleSort\obj\Debug\BubbleSort.csprojResolveAssemblyReference.cache
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\BubbleSort\obj\Debug\BubbleSort.exe
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\BubbleSort\obj\Debug\BubbleSort.pdb

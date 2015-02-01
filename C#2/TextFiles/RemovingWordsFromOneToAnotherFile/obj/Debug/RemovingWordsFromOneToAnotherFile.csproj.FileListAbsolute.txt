@@ -1,0 +1,5 @@
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\RemovingWordsFromOneToAnotherFile\bin\Debug\RemovingWordsFromOneToAnotherFile.exe.config
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\RemovingWordsFromOneToAnotherFile\bin\Debug\RemovingWordsFromOneToAnotherFile.exe
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\RemovingWordsFromOneToAnotherFile\bin\Debug\RemovingWordsFromOneToAnotherFile.pdb
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\RemovingWordsFromOneToAnotherFile\obj\Debug\RemovingWordsFromOneToAnotherFile.exe
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\RemovingWordsFromOneToAnotherFile\obj\Debug\RemovingWordsFromOneToAnotherFile.pdb

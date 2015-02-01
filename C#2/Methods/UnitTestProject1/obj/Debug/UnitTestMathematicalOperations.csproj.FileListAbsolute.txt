@@ -1,0 +1,7 @@
+W:\Telerik\C#2\MethodHomework\MethodHomework\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+W:\Telerik\C#2\MethodHomework\MethodHomework\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+W:\Telerik\C#2\MethodHomework\MethodHomework\UnitTestProject1\bin\Debug\14.MathematicalOperations.exe
+W:\Telerik\C#2\MethodHomework\MethodHomework\UnitTestProject1\bin\Debug\14.MathematicalOperations.pdb
+W:\Telerik\C#2\MethodHomework\MethodHomework\UnitTestProject1\obj\Debug\UnitTestMathematicalOperations.csprojResolveAssemblyReference.cache
+W:\Telerik\C#2\MethodHomework\MethodHomework\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+W:\Telerik\C#2\MethodHomework\MethodHomework\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

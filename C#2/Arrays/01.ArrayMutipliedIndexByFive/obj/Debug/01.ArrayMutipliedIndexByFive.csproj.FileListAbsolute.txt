@@ -1,0 +1,6 @@
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\01.ArrayMutipliedIndexByFive\bin\Debug\01.ArrayMutipliedIndexByFive.exe.config
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\01.ArrayMutipliedIndexByFive\bin\Debug\01.ArrayMutipliedIndexByFive.exe
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\01.ArrayMutipliedIndexByFive\bin\Debug\01.ArrayMutipliedIndexByFive.pdb
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\01.ArrayMutipliedIndexByFive\obj\Debug\01.ArrayMutipliedIndexByFive.csprojResolveAssemblyReference.cache
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\01.ArrayMutipliedIndexByFive\obj\Debug\01.ArrayMutipliedIndexByFive.exe
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\01.ArrayMutipliedIndexByFive\obj\Debug\01.ArrayMutipliedIndexByFive.pdb

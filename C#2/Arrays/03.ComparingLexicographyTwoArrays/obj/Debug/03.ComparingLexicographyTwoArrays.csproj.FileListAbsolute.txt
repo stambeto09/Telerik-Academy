@@ -1,0 +1,6 @@
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\03.ComparingLexicographyTwoArrays\bin\Debug\03.ComparingLexicographyTwoArrays.exe.config
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\03.ComparingLexicographyTwoArrays\bin\Debug\03.ComparingLexicographyTwoArrays.exe
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\03.ComparingLexicographyTwoArrays\bin\Debug\03.ComparingLexicographyTwoArrays.pdb
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\03.ComparingLexicographyTwoArrays\obj\Debug\03.ComparingLexicographyTwoArrays.csprojResolveAssemblyReference.cache
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\03.ComparingLexicographyTwoArrays\obj\Debug\03.ComparingLexicographyTwoArrays.exe
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\03.ComparingLexicographyTwoArrays\obj\Debug\03.ComparingLexicographyTwoArrays.pdb

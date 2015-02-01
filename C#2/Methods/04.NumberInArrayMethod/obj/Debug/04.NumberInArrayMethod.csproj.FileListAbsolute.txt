@@ -1,0 +1,6 @@
+W:\Telerik\C#2\MethodHomework\MethodHomework\04.NumberInArrayMethod\bin\Debug\04.NumberInArrayMethod.exe.config
+W:\Telerik\C#2\MethodHomework\MethodHomework\04.NumberInArrayMethod\bin\Debug\04.NumberInArrayMethod.exe
+W:\Telerik\C#2\MethodHomework\MethodHomework\04.NumberInArrayMethod\bin\Debug\04.NumberInArrayMethod.pdb
+W:\Telerik\C#2\MethodHomework\MethodHomework\04.NumberInArrayMethod\obj\Debug\04.NumberInArrayMethod.csprojResolveAssemblyReference.cache
+W:\Telerik\C#2\MethodHomework\MethodHomework\04.NumberInArrayMethod\obj\Debug\04.NumberInArrayMethod.exe
+W:\Telerik\C#2\MethodHomework\MethodHomework\04.NumberInArrayMethod\obj\Debug\04.NumberInArrayMethod.pdb

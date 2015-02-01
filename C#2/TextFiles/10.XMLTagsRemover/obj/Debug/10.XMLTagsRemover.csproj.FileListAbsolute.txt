@@ -1,0 +1,9 @@
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\10.XMLTagsRemover\bin\Debug\10.XMLTagsRemover.exe.config
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\10.XMLTagsRemover\bin\Debug\10.XMLTagsRemover.exe
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\10.XMLTagsRemover\bin\Debug\10.XMLTagsRemover.pdb
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\10.XMLTagsRemover\obj\Debug\10.XMLTagsRemover.csprojResolveAssemblyReference.cache
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\10.XMLTagsRemover\obj\Debug\10.XMLTagsRemover.exe
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\10.XMLTagsRemover\obj\Debug\10.XMLTagsRemover.pdb
+E:\GitHub\Telerik Academy\C#2\TextFilesHomework\10.XMLTagsRemover\bin\Debug\10.XMLTagsRemover.exe.config
+E:\GitHub\Telerik Academy\C#2\TextFilesHomework\10.XMLTagsRemover\obj\Debug\10.XMLTagsRemover.exe
+E:\GitHub\Telerik Academy\C#2\TextFilesHomework\10.XMLTagsRemover\obj\Debug\10.XMLTagsRemover.pdb

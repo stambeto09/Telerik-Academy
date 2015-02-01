@@ -1,0 +1,5 @@
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\20.VariationsOfKElements\bin\Debug\20.VariationsOfKElements.exe.config
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\20.VariationsOfKElements\bin\Debug\20.VariationsOfKElements.exe
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\20.VariationsOfKElements\bin\Debug\20.VariationsOfKElements.pdb
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\20.VariationsOfKElements\obj\Debug\20.VariationsOfKElements.exe
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\20.VariationsOfKElements\obj\Debug\20.VariationsOfKElements.pdb

@@ -1,0 +1,6 @@
+C:\Users\akastambata\Desktop\StringAndTextsHomework\StringsAndTextsHomeWork\12.ParseLink\bin\Debug\12.ParseLink.exe.config
+C:\Users\akastambata\Desktop\StringAndTextsHomework\StringsAndTextsHomeWork\12.ParseLink\bin\Debug\12.ParseLink.exe
+C:\Users\akastambata\Desktop\StringAndTextsHomework\StringsAndTextsHomeWork\12.ParseLink\bin\Debug\12.ParseLink.pdb
+C:\Users\akastambata\Desktop\StringAndTextsHomework\StringsAndTextsHomeWork\12.ParseLink\obj\Debug\12.ParseLink.csprojResolveAssemblyReference.cache
+C:\Users\akastambata\Desktop\StringAndTextsHomework\StringsAndTextsHomeWork\12.ParseLink\obj\Debug\12.ParseLink.exe
+C:\Users\akastambata\Desktop\StringAndTextsHomework\StringsAndTextsHomeWork\12.ParseLink\obj\Debug\12.ParseLink.pdb

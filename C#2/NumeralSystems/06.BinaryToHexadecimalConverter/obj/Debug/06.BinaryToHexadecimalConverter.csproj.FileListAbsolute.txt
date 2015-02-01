@@ -1,0 +1,1 @@
+W:\Telerik\C#2\NumeralSystemHomework\NumeralSystemsHomework\06.BinaryToHexadecimalConverter\bin\Debug\06.BinaryToHexadecimalConverter.exe.config

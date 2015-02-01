@@ -1,0 +1,19 @@
+<bla bla>(Text1)
+</bla bla><blabla>
+(Text2)</blablablabla>
+<bla bla>(Text3)</bla bla><blablablabla>(Text4)</blabla><blabla>
+(Text5)
+</bla><blabla>
+(Text6)</bla bla>
+<bla bla>
+
+(Text7)
+</blablabla>
+<bla>
+(Text8)</blablablabla>
+<bla>
+(Text9)</bla bla>
+<bla bla>
+
+(Text10)
+</bla>

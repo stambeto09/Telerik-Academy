@@ -1,0 +1,6 @@
+C:\Users\akastambata\Desktop\ExceptionHandlingHomework\ExceptionHandlingHomework\03.FileReaderHandler\bin\Debug\03.FileReaderHandler.exe.config
+C:\Users\akastambata\Desktop\ExceptionHandlingHomework\ExceptionHandlingHomework\03.FileReaderHandler\bin\Debug\03.FileReaderHandler.exe
+C:\Users\akastambata\Desktop\ExceptionHandlingHomework\ExceptionHandlingHomework\03.FileReaderHandler\bin\Debug\03.FileReaderHandler.pdb
+C:\Users\akastambata\Desktop\ExceptionHandlingHomework\ExceptionHandlingHomework\03.FileReaderHandler\obj\Debug\03.FileReaderHandler.exe
+C:\Users\akastambata\Desktop\ExceptionHandlingHomework\ExceptionHandlingHomework\03.FileReaderHandler\obj\Debug\03.FileReaderHandler.pdb
+C:\Users\akastambata\Desktop\ExceptionHandlingHomework\ExceptionHandlingHomework\03.FileReaderHandler\obj\Debug\03.FileReaderHandler.csprojResolveAssemblyReference.cache

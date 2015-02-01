@@ -1,0 +1,6 @@
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\08.MaximalSumSequence\bin\Debug\08.MaximalSumSequence.exe.config
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\08.MaximalSumSequence\bin\Debug\08.MaximalSumSequence.exe
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\08.MaximalSumSequence\bin\Debug\08.MaximalSumSequence.pdb
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\08.MaximalSumSequence\obj\Debug\08.MaximalSumSequence.csprojResolveAssemblyReference.cache
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\08.MaximalSumSequence\obj\Debug\08.MaximalSumSequence.exe
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\08.MaximalSumSequence\obj\Debug\08.MaximalSumSequence.pdb

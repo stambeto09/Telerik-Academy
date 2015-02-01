@@ -1,0 +1,6 @@
+W:\Telerik\C#2\MultidimensionalArraysHomework\MultidimensionalArrayHomework\05.SortingAnArrayByStringLenth\bin\Debug\05.SortingAnArrayByStringLenth.exe.config
+W:\Telerik\C#2\MultidimensionalArraysHomework\MultidimensionalArrayHomework\05.SortingAnArrayByStringLenth\bin\Debug\05.SortingAnArrayByStringLenth.exe
+W:\Telerik\C#2\MultidimensionalArraysHomework\MultidimensionalArrayHomework\05.SortingAnArrayByStringLenth\bin\Debug\05.SortingAnArrayByStringLenth.pdb
+W:\Telerik\C#2\MultidimensionalArraysHomework\MultidimensionalArrayHomework\05.SortingAnArrayByStringLenth\obj\Debug\05.SortingAnArrayByStringLenth.csprojResolveAssemblyReference.cache
+W:\Telerik\C#2\MultidimensionalArraysHomework\MultidimensionalArrayHomework\05.SortingAnArrayByStringLenth\obj\Debug\05.SortingAnArrayByStringLenth.exe
+W:\Telerik\C#2\MultidimensionalArraysHomework\MultidimensionalArrayHomework\05.SortingAnArrayByStringLenth\obj\Debug\05.SortingAnArrayByStringLenth.pdb

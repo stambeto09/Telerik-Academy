@@ -1,0 +1,6 @@
+W:\Telerik\C#2\MethodHomework\MethodHomework\06.GivenIndexOfArrayCheckIfBigger\bin\Debug\06.GivenIndexOfArrayCheckIfBigger.exe.config
+W:\Telerik\C#2\MethodHomework\MethodHomework\06.GivenIndexOfArrayCheckIfBigger\bin\Debug\06.GivenIndexOfArrayCheckIfBigger.exe
+W:\Telerik\C#2\MethodHomework\MethodHomework\06.GivenIndexOfArrayCheckIfBigger\bin\Debug\06.GivenIndexOfArrayCheckIfBigger.pdb
+W:\Telerik\C#2\MethodHomework\MethodHomework\06.GivenIndexOfArrayCheckIfBigger\obj\Debug\06.GivenIndexOfArrayCheckIfBigger.csprojResolveAssemblyReference.cache
+W:\Telerik\C#2\MethodHomework\MethodHomework\06.GivenIndexOfArrayCheckIfBigger\obj\Debug\06.GivenIndexOfArrayCheckIfBigger.exe
+W:\Telerik\C#2\MethodHomework\MethodHomework\06.GivenIndexOfArrayCheckIfBigger\obj\Debug\06.GivenIndexOfArrayCheckIfBigger.pdb

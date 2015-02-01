@@ -1,0 +1,6 @@
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\02.TwoFilesConcatenation\bin\Debug\02.TwoFilesConcatenation.exe.config
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\02.TwoFilesConcatenation\bin\Debug\02.TwoFilesConcatenation.exe
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\02.TwoFilesConcatenation\bin\Debug\02.TwoFilesConcatenation.pdb
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\02.TwoFilesConcatenation\obj\Debug\02.TwoFilesConcatenation.csprojResolveAssemblyReference.cache
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\02.TwoFilesConcatenation\obj\Debug\02.TwoFilesConcatenation.exe
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\02.TwoFilesConcatenation\obj\Debug\02.TwoFilesConcatenation.pdb

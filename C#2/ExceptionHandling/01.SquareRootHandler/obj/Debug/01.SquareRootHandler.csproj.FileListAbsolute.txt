@@ -1,0 +1,6 @@
+C:\Users\akastambata\Desktop\ExceptionHandlingHomework\ExceptionHandlingHomework\01.SquareRootHandler\bin\Debug\01.SquareRootHandler.exe.config
+C:\Users\akastambata\Desktop\ExceptionHandlingHomework\ExceptionHandlingHomework\01.SquareRootHandler\bin\Debug\01.SquareRootHandler.exe
+C:\Users\akastambata\Desktop\ExceptionHandlingHomework\ExceptionHandlingHomework\01.SquareRootHandler\bin\Debug\01.SquareRootHandler.pdb
+C:\Users\akastambata\Desktop\ExceptionHandlingHomework\ExceptionHandlingHomework\01.SquareRootHandler\obj\Debug\01.SquareRootHandler.csprojResolveAssemblyReference.cache
+C:\Users\akastambata\Desktop\ExceptionHandlingHomework\ExceptionHandlingHomework\01.SquareRootHandler\obj\Debug\01.SquareRootHandler.exe
+C:\Users\akastambata\Desktop\ExceptionHandlingHomework\ExceptionHandlingHomework\01.SquareRootHandler\obj\Debug\01.SquareRootHandler.pdb

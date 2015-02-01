@@ -1,0 +1,5 @@
+C:\Users\akastambata\Desktop\StringAndTextsHomework\StringsAndTextsHomeWork\11.ParsingNumber\bin\Debug\11.ParsingNumber.exe.config
+C:\Users\akastambata\Desktop\StringAndTextsHomework\StringsAndTextsHomeWork\11.ParsingNumber\bin\Debug\11.ParsingNumber.exe
+C:\Users\akastambata\Desktop\StringAndTextsHomework\StringsAndTextsHomeWork\11.ParsingNumber\bin\Debug\11.ParsingNumber.pdb
+C:\Users\akastambata\Desktop\StringAndTextsHomework\StringsAndTextsHomeWork\11.ParsingNumber\obj\Debug\11.ParsingNumber.exe
+C:\Users\akastambata\Desktop\StringAndTextsHomework\StringsAndTextsHomeWork\11.ParsingNumber\obj\Debug\11.ParsingNumber.pdb

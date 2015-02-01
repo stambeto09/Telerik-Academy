@@ -1,0 +1,6 @@
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\07.ReplacingStringInTextFile\bin\Debug\07.ReplacingStringInTextFile.exe.config
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\07.ReplacingStringInTextFile\bin\Debug\07.ReplacingStringInTextFile.exe
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\07.ReplacingStringInTextFile\bin\Debug\07.ReplacingStringInTextFile.pdb
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\07.ReplacingStringInTextFile\obj\Debug\07.ReplacingStringInTextFile.csprojResolveAssemblyReference.cache
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\07.ReplacingStringInTextFile\obj\Debug\07.ReplacingStringInTextFile.exe
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\07.ReplacingStringInTextFile\obj\Debug\07.ReplacingStringInTextFile.pdb

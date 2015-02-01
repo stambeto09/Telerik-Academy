@@ -1,0 +1,1 @@
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\14.QuickSort\bin\Debug\14.QuickSort.exe.config

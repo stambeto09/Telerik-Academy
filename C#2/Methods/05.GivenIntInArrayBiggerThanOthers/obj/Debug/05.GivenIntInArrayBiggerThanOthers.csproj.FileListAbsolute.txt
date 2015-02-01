@@ -1,0 +1,6 @@
+W:\Telerik\C#2\MethodHomework\MethodHomework\05.GivenIntInArrayBiggerThanOthers\bin\Debug\05.GivenIntInArrayBiggerThanOthers.exe.config
+W:\Telerik\C#2\MethodHomework\MethodHomework\05.GivenIntInArrayBiggerThanOthers\bin\Debug\05.GivenIntInArrayBiggerThanOthers.exe
+W:\Telerik\C#2\MethodHomework\MethodHomework\05.GivenIntInArrayBiggerThanOthers\bin\Debug\05.GivenIntInArrayBiggerThanOthers.pdb
+W:\Telerik\C#2\MethodHomework\MethodHomework\05.GivenIntInArrayBiggerThanOthers\obj\Debug\05.GivenIntInArrayBiggerThanOthers.csprojResolveAssemblyReference.cache
+W:\Telerik\C#2\MethodHomework\MethodHomework\05.GivenIntInArrayBiggerThanOthers\obj\Debug\05.GivenIntInArrayBiggerThanOthers.exe
+W:\Telerik\C#2\MethodHomework\MethodHomework\05.GivenIntInArrayBiggerThanOthers\obj\Debug\05.GivenIntInArrayBiggerThanOthers.pdb

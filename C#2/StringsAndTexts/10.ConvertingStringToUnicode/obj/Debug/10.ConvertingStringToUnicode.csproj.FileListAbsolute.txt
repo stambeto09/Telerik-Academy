@@ -1,0 +1,6 @@
+C:\Users\akastambata\Desktop\StringAndTextsHomework\StringsAndTextsHomeWork\10.ConvertingStringToUnicode\bin\Debug\10.ConvertingStringToUnicode.exe.config
+C:\Users\akastambata\Desktop\StringAndTextsHomework\StringsAndTextsHomeWork\10.ConvertingStringToUnicode\bin\Debug\10.ConvertingStringToUnicode.exe
+C:\Users\akastambata\Desktop\StringAndTextsHomework\StringsAndTextsHomeWork\10.ConvertingStringToUnicode\bin\Debug\10.ConvertingStringToUnicode.pdb
+C:\Users\akastambata\Desktop\StringAndTextsHomework\StringsAndTextsHomeWork\10.ConvertingStringToUnicode\obj\Debug\10.ConvertingStringToUnicode.exe
+C:\Users\akastambata\Desktop\StringAndTextsHomework\StringsAndTextsHomeWork\10.ConvertingStringToUnicode\obj\Debug\10.ConvertingStringToUnicode.pdb
+C:\Users\akastambata\Desktop\StringAndTextsHomework\StringsAndTextsHomeWork\10.ConvertingStringToUnicode\obj\Debug\10.ConvertingStringToUnicode.csprojResolveAssemblyReference.cache

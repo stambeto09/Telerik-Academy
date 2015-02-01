@@ -1,0 +1,5 @@
+C:\Users\akastambata\Desktop\StringAndTextsHomework\StringsAndTextsHomeWork\14.ParseDictionary\bin\Debug\14.ParseDictionary.exe.config
+C:\Users\akastambata\Desktop\StringAndTextsHomework\StringsAndTextsHomeWork\14.ParseDictionary\bin\Debug\14.ParseDictionary.exe
+C:\Users\akastambata\Desktop\StringAndTextsHomework\StringsAndTextsHomeWork\14.ParseDictionary\bin\Debug\14.ParseDictionary.pdb
+C:\Users\akastambata\Desktop\StringAndTextsHomework\StringsAndTextsHomeWork\14.ParseDictionary\obj\Debug\14.ParseDictionary.exe
+C:\Users\akastambata\Desktop\StringAndTextsHomework\StringsAndTextsHomeWork\14.ParseDictionary\obj\Debug\14.ParseDictionary.pdb

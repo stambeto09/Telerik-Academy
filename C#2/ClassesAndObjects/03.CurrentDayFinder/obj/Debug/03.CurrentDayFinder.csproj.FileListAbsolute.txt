@@ -1,0 +1,5 @@
+W:\Telerik\C#2\ClassesAndObjectsHomework\ClassesAndObjectsHomework\03.CurrentDayFinder\bin\Debug\03.CurrentDayFinder.exe.config
+W:\Telerik\C#2\ClassesAndObjectsHomework\ClassesAndObjectsHomework\03.CurrentDayFinder\bin\Debug\03.CurrentDayFinder.exe
+W:\Telerik\C#2\ClassesAndObjectsHomework\ClassesAndObjectsHomework\03.CurrentDayFinder\bin\Debug\03.CurrentDayFinder.pdb
+W:\Telerik\C#2\ClassesAndObjectsHomework\ClassesAndObjectsHomework\03.CurrentDayFinder\obj\Debug\03.CurrentDayFinder.exe
+W:\Telerik\C#2\ClassesAndObjectsHomework\ClassesAndObjectsHomework\03.CurrentDayFinder\obj\Debug\03.CurrentDayFinder.pdb

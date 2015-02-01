@@ -1,0 +1,8 @@
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\11.StartingPrefixDeleter\bin\Debug\11.StartingPrefixDeleter.exe.config
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\11.StartingPrefixDeleter\bin\Debug\11.StartingPrefixDeleter.exe
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\11.StartingPrefixDeleter\bin\Debug\11.StartingPrefixDeleter.pdb
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\11.StartingPrefixDeleter\obj\Debug\11.StartingPrefixDeleter.exe
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\11.StartingPrefixDeleter\obj\Debug\11.StartingPrefixDeleter.pdb
+E:\GitHub\Telerik Academy\C#2\TextFilesHomework\11.StartingPrefixDeleter\bin\Debug\11.StartingPrefixDeleter.exe.config
+E:\GitHub\Telerik Academy\C#2\TextFilesHomework\11.StartingPrefixDeleter\obj\Debug\11.StartingPrefixDeleter.exe
+E:\GitHub\Telerik Academy\C#2\TextFilesHomework\11.StartingPrefixDeleter\obj\Debug\11.StartingPrefixDeleter.pdb

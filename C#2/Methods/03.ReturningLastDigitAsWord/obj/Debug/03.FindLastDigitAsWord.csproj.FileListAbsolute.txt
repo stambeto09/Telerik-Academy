@@ -1,0 +1,6 @@
+W:\Telerik\C#2\MethodHomework\MethodHomework\03.ReturningLastDigitAsWord\bin\Debug\03.ReturningLastDigitAsWord.exe.config
+W:\Telerik\C#2\MethodHomework\MethodHomework\03.ReturningLastDigitAsWord\bin\Debug\03.ReturningLastDigitAsWord.exe
+W:\Telerik\C#2\MethodHomework\MethodHomework\03.ReturningLastDigitAsWord\bin\Debug\03.ReturningLastDigitAsWord.pdb
+W:\Telerik\C#2\MethodHomework\MethodHomework\03.ReturningLastDigitAsWord\obj\Debug\03.FindLastDigitAsWord.csprojResolveAssemblyReference.cache
+W:\Telerik\C#2\MethodHomework\MethodHomework\03.ReturningLastDigitAsWord\obj\Debug\03.ReturningLastDigitAsWord.exe
+W:\Telerik\C#2\MethodHomework\MethodHomework\03.ReturningLastDigitAsWord\obj\Debug\03.ReturningLastDigitAsWord.pdb

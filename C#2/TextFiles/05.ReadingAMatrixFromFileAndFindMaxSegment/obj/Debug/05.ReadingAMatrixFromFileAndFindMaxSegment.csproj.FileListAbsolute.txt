@@ -1,0 +1,6 @@
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\05.ReadingAMatrixFromFileAndFindMaxSegment\bin\Debug\05.ReadingAMatrixFromFileAndFindMaxSegment.exe.config
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\05.ReadingAMatrixFromFileAndFindMaxSegment\bin\Debug\05.ReadingAMatrixFromFileAndFindMaxSegment.exe
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\05.ReadingAMatrixFromFileAndFindMaxSegment\bin\Debug\05.ReadingAMatrixFromFileAndFindMaxSegment.pdb
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\05.ReadingAMatrixFromFileAndFindMaxSegment\obj\Debug\05.ReadingAMatrixFromFileAndFindMaxSegment.exe
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\05.ReadingAMatrixFromFileAndFindMaxSegment\obj\Debug\05.ReadingAMatrixFromFileAndFindMaxSegment.pdb
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\05.ReadingAMatrixFromFileAndFindMaxSegment\obj\Debug\05.ReadingAMatrixFromFileAndFindMaxSegment.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+W:\Telerik\C#2\MultidimensionalArraysHomework\NumeralSystemHomework\NumeralSystemsHomework\09.ShortConverter\bin\Debug\09.ShortConverter.exe.config
+W:\Telerik\C#2\MultidimensionalArraysHomework\NumeralSystemHomework\NumeralSystemsHomework\09.ShortConverter\bin\Debug\09.ShortConverter.exe
+W:\Telerik\C#2\MultidimensionalArraysHomework\NumeralSystemHomework\NumeralSystemsHomework\09.ShortConverter\bin\Debug\09.ShortConverter.pdb
+W:\Telerik\C#2\MultidimensionalArraysHomework\NumeralSystemHomework\NumeralSystemsHomework\09.ShortConverter\obj\Debug\09.ShortConverter.csprojResolveAssemblyReference.cache
+W:\Telerik\C#2\MultidimensionalArraysHomework\NumeralSystemHomework\NumeralSystemsHomework\09.ShortConverter\obj\Debug\09.ShortConverter.exe
+W:\Telerik\C#2\MultidimensionalArraysHomework\NumeralSystemHomework\NumeralSystemsHomework\09.ShortConverter\obj\Debug\09.ShortConverter.pdb

@@ -1,0 +1,5 @@
+W:\Telerik\C#2\ClassesAndObjectsHomework\ClassesAndObjectsHomework\06.StringValuesCalculation\bin\Debug\06.StringValuesCalculation.exe.config
+W:\Telerik\C#2\ClassesAndObjectsHomework\ClassesAndObjectsHomework\06.StringValuesCalculation\bin\Debug\06.StringValuesCalculation.exe
+W:\Telerik\C#2\ClassesAndObjectsHomework\ClassesAndObjectsHomework\06.StringValuesCalculation\bin\Debug\06.StringValuesCalculation.pdb
+W:\Telerik\C#2\ClassesAndObjectsHomework\ClassesAndObjectsHomework\06.StringValuesCalculation\obj\Debug\06.StringValuesCalculation.exe
+W:\Telerik\C#2\ClassesAndObjectsHomework\ClassesAndObjectsHomework\06.StringValuesCalculation\obj\Debug\06.StringValuesCalculation.pdb

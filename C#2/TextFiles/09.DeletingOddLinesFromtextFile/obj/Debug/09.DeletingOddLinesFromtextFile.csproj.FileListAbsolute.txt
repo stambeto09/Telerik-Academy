@@ -1,0 +1,9 @@
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\09.DeletingOddLinesFromtextFile\bin\Debug\09.DeletingOddLinesFromtextFile.exe.config
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\09.DeletingOddLinesFromtextFile\bin\Debug\09.DeletingOddLinesFromtextFile.exe
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\09.DeletingOddLinesFromtextFile\bin\Debug\09.DeletingOddLinesFromtextFile.pdb
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\09.DeletingOddLinesFromtextFile\obj\Debug\09.DeletingOddLinesFromtextFile.csprojResolveAssemblyReference.cache
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\09.DeletingOddLinesFromtextFile\obj\Debug\09.DeletingOddLinesFromtextFile.exe
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\09.DeletingOddLinesFromtextFile\obj\Debug\09.DeletingOddLinesFromtextFile.pdb
+E:\GitHub\Telerik Academy\C#2\TextFilesHomework\09.DeletingOddLinesFromtextFile\bin\Debug\09.DeletingOddLinesFromtextFile.exe.config
+E:\GitHub\Telerik Academy\C#2\TextFilesHomework\09.DeletingOddLinesFromtextFile\obj\Debug\09.DeletingOddLinesFromtextFile.exe
+E:\GitHub\Telerik Academy\C#2\TextFilesHomework\09.DeletingOddLinesFromtextFile\obj\Debug\09.DeletingOddLinesFromtextFile.pdb

@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01a.PrintingAMultidimensionalMatrix", "01a.PrintingAMultidimensionalMatrix\01a.PrintingAMultidimensionalMatrix.csproj", "{C8A42D6C-E03F-430E-B5F1-313CE7393D63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01b.PrintingMultidimensionalArray", "01b.PrintingMultidimensionalArray\01b.PrintingMultidimensionalArray.csproj", "{A1360EBA-677A-4C26-A73A-595E36035591}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01c.PrintingMultidimensionalMatrixC", "01c.PrintingMultidimensionalMatrixC\01c.PrintingMultidimensionalMatrixC.csproj", "{1CF17B8A-A11B-480C-ABEB-6AC05C029FD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.3x3MaximalSumSegment", "02.3x3MaximalSumSegment\02.3x3MaximalSumSegment.csproj", "{0BB96222-899F-419E-9232-9505BBED798C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.SearchingFirstSmallerElementThanKInArray", "04.SearchingFirstSmallerElementThanKInArray\04.SearchingFirstSmallerElementThanKInArray.csproj", "{0D7A9F04-3779-4FE9-8CF8-E335579A1D84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.SortingAnArrayByStringLenth", "05.SortingAnArrayByStringLenth\05.SortingAnArrayByStringLenth.csproj", "{5E7198E2-9F5B-4788-BA04-D9245568A4FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8A42D6C-E03F-430E-B5F1-313CE7393D63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8A42D6C-E03F-430E-B5F1-313CE7393D63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8A42D6C-E03F-430E-B5F1-313CE7393D63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8A42D6C-E03F-430E-B5F1-313CE7393D63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1360EBA-677A-4C26-A73A-595E36035591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1360EBA-677A-4C26-A73A-595E36035591}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1360EBA-677A-4C26-A73A-595E36035591}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1360EBA-677A-4C26-A73A-595E36035591}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CF17B8A-A11B-480C-ABEB-6AC05C029FD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CF17B8A-A11B-480C-ABEB-6AC05C029FD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CF17B8A-A11B-480C-ABEB-6AC05C029FD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CF17B8A-A11B-480C-ABEB-6AC05C029FD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BB96222-899F-419E-9232-9505BBED798C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BB96222-899F-419E-9232-9505BBED798C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BB96222-899F-419E-9232-9505BBED798C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BB96222-899F-419E-9232-9505BBED798C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D7A9F04-3779-4FE9-8CF8-E335579A1D84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D7A9F04-3779-4FE9-8CF8-E335579A1D84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D7A9F04-3779-4FE9-8CF8-E335579A1D84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D7A9F04-3779-4FE9-8CF8-E335579A1D84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E7198E2-9F5B-4788-BA04-D9245568A4FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E7198E2-9F5B-4788-BA04-D9245568A4FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E7198E2-9F5B-4788-BA04-D9245568A4FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E7198E2-9F5B-4788-BA04-D9245568A4FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

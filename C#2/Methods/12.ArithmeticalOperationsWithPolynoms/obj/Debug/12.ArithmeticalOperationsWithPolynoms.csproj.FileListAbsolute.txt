@@ -1,0 +1,6 @@
+W:\Telerik\C#2\MethodHomework\MethodHomework\12.ArithmeticalOperationsWithPolynoms\bin\Debug\12.ArithmeticalOperationsWithPolynoms.exe.config
+W:\Telerik\C#2\MethodHomework\MethodHomework\12.ArithmeticalOperationsWithPolynoms\bin\Debug\12.ArithmeticalOperationsWithPolynoms.exe
+W:\Telerik\C#2\MethodHomework\MethodHomework\12.ArithmeticalOperationsWithPolynoms\bin\Debug\12.ArithmeticalOperationsWithPolynoms.pdb
+W:\Telerik\C#2\MethodHomework\MethodHomework\12.ArithmeticalOperationsWithPolynoms\obj\Debug\12.ArithmeticalOperationsWithPolynoms.csprojResolveAssemblyReference.cache
+W:\Telerik\C#2\MethodHomework\MethodHomework\12.ArithmeticalOperationsWithPolynoms\obj\Debug\12.ArithmeticalOperationsWithPolynoms.exe
+W:\Telerik\C#2\MethodHomework\MethodHomework\12.ArithmeticalOperationsWithPolynoms\obj\Debug\12.ArithmeticalOperationsWithPolynoms.pdb

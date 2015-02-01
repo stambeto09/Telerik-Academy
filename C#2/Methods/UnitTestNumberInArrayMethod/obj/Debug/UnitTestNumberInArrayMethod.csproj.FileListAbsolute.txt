@@ -1,0 +1,7 @@
+W:\Telerik\C#2\MethodHomework\MethodHomework\UnitTestNumberInArrayMethod\bin\Debug\UnitTestNumberInArrayMethod.dll
+W:\Telerik\C#2\MethodHomework\MethodHomework\UnitTestNumberInArrayMethod\bin\Debug\UnitTestNumberInArrayMethod.pdb
+W:\Telerik\C#2\MethodHomework\MethodHomework\UnitTestNumberInArrayMethod\bin\Debug\04.NumberInArrayMethod.exe
+W:\Telerik\C#2\MethodHomework\MethodHomework\UnitTestNumberInArrayMethod\bin\Debug\04.NumberInArrayMethod.pdb
+W:\Telerik\C#2\MethodHomework\MethodHomework\UnitTestNumberInArrayMethod\obj\Debug\UnitTestNumberInArrayMethod.csprojResolveAssemblyReference.cache
+W:\Telerik\C#2\MethodHomework\MethodHomework\UnitTestNumberInArrayMethod\obj\Debug\UnitTestNumberInArrayMethod.dll
+W:\Telerik\C#2\MethodHomework\MethodHomework\UnitTestNumberInArrayMethod\obj\Debug\UnitTestNumberInArrayMethod.pdb

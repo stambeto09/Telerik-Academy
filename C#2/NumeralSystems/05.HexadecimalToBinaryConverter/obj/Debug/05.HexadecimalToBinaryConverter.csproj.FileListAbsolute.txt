@@ -1,0 +1,9 @@
+W:\Telerik\C#2\MultidimensionalArraysHomework\NumeralSystemHomework\NumeralSystemsHomework\05.HexadecimalToBinaryConverter\bin\Debug\05.HexadecimalToBinaryConverter.exe.config
+W:\Telerik\C#2\MultidimensionalArraysHomework\NumeralSystemHomework\NumeralSystemsHomework\05.HexadecimalToBinaryConverter\bin\Debug\05.HexadecimalToBinaryConverter.exe
+W:\Telerik\C#2\MultidimensionalArraysHomework\NumeralSystemHomework\NumeralSystemsHomework\05.HexadecimalToBinaryConverter\bin\Debug\05.HexadecimalToBinaryConverter.pdb
+W:\Telerik\C#2\MultidimensionalArraysHomework\NumeralSystemHomework\NumeralSystemsHomework\05.HexadecimalToBinaryConverter\obj\Debug\05.HexadecimalToBinaryConverter.csprojResolveAssemblyReference.cache
+W:\Telerik\C#2\MultidimensionalArraysHomework\NumeralSystemHomework\NumeralSystemsHomework\05.HexadecimalToBinaryConverter\obj\Debug\05.HexadecimalToBinaryConverter.exe
+W:\Telerik\C#2\MultidimensionalArraysHomework\NumeralSystemHomework\NumeralSystemsHomework\05.HexadecimalToBinaryConverter\obj\Debug\05.HexadecimalToBinaryConverter.pdb
+W:\Telerik\C#2\NumeralSystemHomework\NumeralSystemsHomework\05.HexadecimalToBinaryConverter\bin\Debug\05.HexadecimalToBinaryConverter.exe.config
+W:\Telerik\C#2\NumeralSystemHomework\NumeralSystemsHomework\05.HexadecimalToBinaryConverter\obj\Debug\05.HexadecimalToBinaryConverter.exe
+W:\Telerik\C#2\NumeralSystemHomework\NumeralSystemsHomework\05.HexadecimalToBinaryConverter\obj\Debug\05.HexadecimalToBinaryConverter.pdb

@@ -1,0 +1,6 @@
+W:\Telerik\C#2\MethodHomework\MethodHomework\08.IntegerArraysSum\bin\Debug\08.IntegerArraysSum.exe.config
+W:\Telerik\C#2\MethodHomework\MethodHomework\08.IntegerArraysSum\bin\Debug\08.IntegerArraysSum.exe
+W:\Telerik\C#2\MethodHomework\MethodHomework\08.IntegerArraysSum\bin\Debug\08.IntegerArraysSum.pdb
+W:\Telerik\C#2\MethodHomework\MethodHomework\08.IntegerArraysSum\obj\Debug\08.IntegerArraysSum.exe
+W:\Telerik\C#2\MethodHomework\MethodHomework\08.IntegerArraysSum\obj\Debug\08.IntegerArraysSum.pdb
+W:\Telerik\C#2\MethodHomework\MethodHomework\08.IntegerArraysSum\obj\Debug\08.IntegerArraysSum.csprojResolveAssemblyReference.cache

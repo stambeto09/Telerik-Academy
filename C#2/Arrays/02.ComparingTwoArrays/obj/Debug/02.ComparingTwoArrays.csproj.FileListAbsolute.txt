@@ -1,0 +1,6 @@
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\02.ComparingTwoArrays\bin\Debug\02.ComparingTwoArrays.exe.config
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\02.ComparingTwoArrays\bin\Debug\02.ComparingTwoArrays.exe
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\02.ComparingTwoArrays\bin\Debug\02.ComparingTwoArrays.pdb
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\02.ComparingTwoArrays\obj\Debug\02.ComparingTwoArrays.csprojResolveAssemblyReference.cache
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\02.ComparingTwoArrays\obj\Debug\02.ComparingTwoArrays.exe
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\02.ComparingTwoArrays\obj\Debug\02.ComparingTwoArrays.pdb

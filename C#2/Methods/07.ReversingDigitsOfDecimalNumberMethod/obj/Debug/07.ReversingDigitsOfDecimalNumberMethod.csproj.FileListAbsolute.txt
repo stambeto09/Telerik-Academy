@@ -1,0 +1,6 @@
+W:\Telerik\C#2\MethodHomework\MethodHomework\07.ReversingDigitsOfDecimalNumberMethod\bin\Debug\07.ReversingDigitsOfDecimalNumberMethod.exe.config
+W:\Telerik\C#2\MethodHomework\MethodHomework\07.ReversingDigitsOfDecimalNumberMethod\bin\Debug\07.ReversingDigitsOfDecimalNumberMethod.exe
+W:\Telerik\C#2\MethodHomework\MethodHomework\07.ReversingDigitsOfDecimalNumberMethod\bin\Debug\07.ReversingDigitsOfDecimalNumberMethod.pdb
+W:\Telerik\C#2\MethodHomework\MethodHomework\07.ReversingDigitsOfDecimalNumberMethod\obj\Debug\07.ReversingDigitsOfDecimalNumberMethod.csprojResolveAssemblyReference.cache
+W:\Telerik\C#2\MethodHomework\MethodHomework\07.ReversingDigitsOfDecimalNumberMethod\obj\Debug\07.ReversingDigitsOfDecimalNumberMethod.exe
+W:\Telerik\C#2\MethodHomework\MethodHomework\07.ReversingDigitsOfDecimalNumberMethod\obj\Debug\07.ReversingDigitsOfDecimalNumberMethod.pdb

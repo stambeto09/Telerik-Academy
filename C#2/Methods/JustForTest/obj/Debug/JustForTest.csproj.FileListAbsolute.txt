@@ -1,0 +1,6 @@
+W:\Telerik\C#2\MethodHomework\MethodHomework\JustForTest\bin\Debug\JustForTest.exe.config
+W:\Telerik\C#2\MethodHomework\MethodHomework\JustForTest\bin\Debug\JustForTest.exe
+W:\Telerik\C#2\MethodHomework\MethodHomework\JustForTest\bin\Debug\JustForTest.pdb
+W:\Telerik\C#2\MethodHomework\MethodHomework\JustForTest\obj\Debug\JustForTest.csprojResolveAssemblyReference.cache
+W:\Telerik\C#2\MethodHomework\MethodHomework\JustForTest\obj\Debug\JustForTest.exe
+W:\Telerik\C#2\MethodHomework\MethodHomework\JustForTest\obj\Debug\JustForTest.pdb

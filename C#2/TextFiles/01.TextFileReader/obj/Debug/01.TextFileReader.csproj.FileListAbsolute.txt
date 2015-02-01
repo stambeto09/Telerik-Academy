@@ -1,0 +1,9 @@
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\01.TextFileReader\bin\Debug\01.TextFileReader.exe.config
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\01.TextFileReader\bin\Debug\01.TextFileReader.exe
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\01.TextFileReader\bin\Debug\01.TextFileReader.pdb
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\01.TextFileReader\obj\Debug\01.TextFileReader.csprojResolveAssemblyReference.cache
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\01.TextFileReader\obj\Debug\01.TextFileReader.exe
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\01.TextFileReader\obj\Debug\01.TextFileReader.pdb
+E:\GitHub\Telerik Academy\C#2\TextFilesHomework\01.TextFileReader\bin\Debug\01.TextFileReader.exe.config
+E:\GitHub\Telerik Academy\C#2\TextFilesHomework\01.TextFileReader\obj\Debug\01.TextFileReader.exe
+E:\GitHub\Telerik Academy\C#2\TextFilesHomework\01.TextFileReader\obj\Debug\01.TextFileReader.pdb

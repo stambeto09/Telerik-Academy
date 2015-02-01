@@ -1,0 +1,6 @@
+C:\Users\akastambata\Desktop\StringAndTextsHomework\StringsAndTextsHomeWork\06.StringPaddingByRight\bin\Debug\06.StringPaddingByRight.exe.config
+C:\Users\akastambata\Desktop\StringAndTextsHomework\StringsAndTextsHomeWork\06.StringPaddingByRight\bin\Debug\06.StringPaddingByRight.exe
+C:\Users\akastambata\Desktop\StringAndTextsHomework\StringsAndTextsHomeWork\06.StringPaddingByRight\bin\Debug\06.StringPaddingByRight.pdb
+C:\Users\akastambata\Desktop\StringAndTextsHomework\StringsAndTextsHomeWork\06.StringPaddingByRight\obj\Debug\06.StringPaddingByRight.csprojResolveAssemblyReference.cache
+C:\Users\akastambata\Desktop\StringAndTextsHomework\StringsAndTextsHomeWork\06.StringPaddingByRight\obj\Debug\06.StringPaddingByRight.exe
+C:\Users\akastambata\Desktop\StringAndTextsHomework\StringsAndTextsHomeWork\06.StringPaddingByRight\obj\Debug\06.StringPaddingByRight.pdb

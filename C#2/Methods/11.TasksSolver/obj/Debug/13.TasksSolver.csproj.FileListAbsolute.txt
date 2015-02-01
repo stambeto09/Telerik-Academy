@@ -1,0 +1,6 @@
+W:\Telerik\C#2\MethodHomework\MethodHomework\11.TasksSolver\bin\Debug\11.TasksSolver.exe.config
+W:\Telerik\C#2\MethodHomework\MethodHomework\11.TasksSolver\obj\Debug\11.TasksSolver.exe
+W:\Telerik\C#2\MethodHomework\MethodHomework\11.TasksSolver\obj\Debug\11.TasksSolver.pdb
+W:\Telerik\C#2\MethodHomework\MethodHomework\11.TasksSolver\bin\Debug\11.TasksSolver.exe
+W:\Telerik\C#2\MethodHomework\MethodHomework\11.TasksSolver\bin\Debug\11.TasksSolver.pdb
+W:\Telerik\C#2\MethodHomework\MethodHomework\11.TasksSolver\obj\Debug\13.TasksSolver.csprojResolveAssemblyReference.cache

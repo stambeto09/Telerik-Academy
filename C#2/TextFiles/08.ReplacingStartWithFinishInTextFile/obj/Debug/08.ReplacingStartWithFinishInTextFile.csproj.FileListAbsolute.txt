@@ -1,0 +1,6 @@
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\08.ReplacingStartWithFinishInTextFile\bin\Debug\08.ReplacingStartWithFinishInTextFile.exe.config
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\08.ReplacingStartWithFinishInTextFile\bin\Debug\08.ReplacingStartWithFinishInTextFile.exe
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\08.ReplacingStartWithFinishInTextFile\bin\Debug\08.ReplacingStartWithFinishInTextFile.pdb
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\08.ReplacingStartWithFinishInTextFile\obj\Debug\08.ReplacingStartWithFinishInTextFile.csprojResolveAssemblyReference.cache
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\08.ReplacingStartWithFinishInTextFile\obj\Debug\08.ReplacingStartWithFinishInTextFile.exe
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\08.ReplacingStartWithFinishInTextFile\obj\Debug\08.ReplacingStartWithFinishInTextFile.pdb

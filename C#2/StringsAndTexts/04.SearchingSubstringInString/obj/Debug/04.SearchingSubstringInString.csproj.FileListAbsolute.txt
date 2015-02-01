@@ -1,0 +1,5 @@
+C:\Users\akastambata\Desktop\StringAndTextsHomework\StringsAndTextsHomeWork\04.SearchingSubstringInString\bin\Debug\04.SearchingSubstringInString.exe.config
+C:\Users\akastambata\Desktop\StringAndTextsHomework\StringsAndTextsHomeWork\04.SearchingSubstringInString\bin\Debug\04.SearchingSubstringInString.exe
+C:\Users\akastambata\Desktop\StringAndTextsHomework\StringsAndTextsHomeWork\04.SearchingSubstringInString\bin\Debug\04.SearchingSubstringInString.pdb
+C:\Users\akastambata\Desktop\StringAndTextsHomework\StringsAndTextsHomeWork\04.SearchingSubstringInString\obj\Debug\04.SearchingSubstringInString.exe
+C:\Users\akastambata\Desktop\StringAndTextsHomework\StringsAndTextsHomeWork\04.SearchingSubstringInString\obj\Debug\04.SearchingSubstringInString.pdb

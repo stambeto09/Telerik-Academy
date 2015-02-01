@@ -1,0 +1,5 @@
+C:\Users\akastambata\Desktop\StringAndTextsHomework\StringsAndTextsHomeWork\07.ConvertingStringToUnicode\bin\Debug\07.ConvertingStringToUnicode.exe.config
+C:\Users\akastambata\Desktop\StringAndTextsHomework\StringsAndTextsHomeWork\07.ConvertingStringToUnicode\bin\Debug\07.ConvertingStringToUnicode.exe
+C:\Users\akastambata\Desktop\StringAndTextsHomework\StringsAndTextsHomeWork\07.ConvertingStringToUnicode\bin\Debug\07.ConvertingStringToUnicode.pdb
+C:\Users\akastambata\Desktop\StringAndTextsHomework\StringsAndTextsHomeWork\07.ConvertingStringToUnicode\obj\Debug\07.ConvertingStringToUnicode.exe
+C:\Users\akastambata\Desktop\StringAndTextsHomework\StringsAndTextsHomeWork\07.ConvertingStringToUnicode\obj\Debug\07.ConvertingStringToUnicode.pdb

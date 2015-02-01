@@ -1,0 +1,6 @@
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\03. InsertingNumbersInLines\bin\Debug\_03.InsertingNumbersInLines.exe.config
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\03. InsertingNumbersInLines\bin\Debug\_03.InsertingNumbersInLines.exe
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\03. InsertingNumbersInLines\bin\Debug\_03.InsertingNumbersInLines.pdb
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\03. InsertingNumbersInLines\obj\Debug\_03.InsertingNumbersInLines.exe
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\03. InsertingNumbersInLines\obj\Debug\_03.InsertingNumbersInLines.pdb
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\03. InsertingNumbersInLines\obj\Debug\03. InsertingNumbersInLines.csprojResolveAssemblyReference.cache

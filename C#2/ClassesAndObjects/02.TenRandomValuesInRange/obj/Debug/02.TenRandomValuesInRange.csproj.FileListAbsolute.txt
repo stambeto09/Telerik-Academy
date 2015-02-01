@@ -1,0 +1,5 @@
+W:\Telerik\C#2\ClassesAndObjectsHomework\ClassesAndObjectsHomework\02.TenRandomValuesInRange\bin\Debug\02.TenRandomValuesInRange.exe.config
+W:\Telerik\C#2\ClassesAndObjectsHomework\ClassesAndObjectsHomework\02.TenRandomValuesInRange\bin\Debug\02.TenRandomValuesInRange.exe
+W:\Telerik\C#2\ClassesAndObjectsHomework\ClassesAndObjectsHomework\02.TenRandomValuesInRange\bin\Debug\02.TenRandomValuesInRange.pdb
+W:\Telerik\C#2\ClassesAndObjectsHomework\ClassesAndObjectsHomework\02.TenRandomValuesInRange\obj\Debug\02.TenRandomValuesInRange.exe
+W:\Telerik\C#2\ClassesAndObjectsHomework\ClassesAndObjectsHomework\02.TenRandomValuesInRange\obj\Debug\02.TenRandomValuesInRange.pdb

@@ -1,0 +1,6 @@
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\04.ComparingLinesFromTwoTextFiles\bin\Debug\04.ComparingLinesFromTwoTextFiles.exe.config
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\04.ComparingLinesFromTwoTextFiles\bin\Debug\04.ComparingLinesFromTwoTextFiles.exe
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\04.ComparingLinesFromTwoTextFiles\bin\Debug\04.ComparingLinesFromTwoTextFiles.pdb
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\04.ComparingLinesFromTwoTextFiles\obj\Debug\04.ComparingLinesFromTwoTextFiles.exe
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\04.ComparingLinesFromTwoTextFiles\obj\Debug\04.ComparingLinesFromTwoTextFiles.pdb
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\04.ComparingLinesFromTwoTextFiles\obj\Debug\04.ComparingLinesFromTwoTextFiles.csprojResolveAssemblyReference.cache

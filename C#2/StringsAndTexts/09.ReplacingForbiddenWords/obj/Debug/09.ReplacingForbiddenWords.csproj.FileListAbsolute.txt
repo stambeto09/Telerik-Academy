@@ -1,0 +1,6 @@
+C:\Users\akastambata\Desktop\StringAndTextsHomework\StringsAndTextsHomeWork\09.ReplacingForbiddenWords\bin\Debug\09.ReplacingForbiddenWords.exe.config
+C:\Users\akastambata\Desktop\StringAndTextsHomework\StringsAndTextsHomeWork\09.ReplacingForbiddenWords\bin\Debug\09.ReplacingForbiddenWords.exe
+C:\Users\akastambata\Desktop\StringAndTextsHomework\StringsAndTextsHomeWork\09.ReplacingForbiddenWords\bin\Debug\09.ReplacingForbiddenWords.pdb
+C:\Users\akastambata\Desktop\StringAndTextsHomework\StringsAndTextsHomeWork\09.ReplacingForbiddenWords\obj\Debug\09.ReplacingForbiddenWords.exe
+C:\Users\akastambata\Desktop\StringAndTextsHomework\StringsAndTextsHomeWork\09.ReplacingForbiddenWords\obj\Debug\09.ReplacingForbiddenWords.pdb
+C:\Users\akastambata\Desktop\StringAndTextsHomework\StringsAndTextsHomeWork\09.ReplacingForbiddenWords\obj\Debug\09.ReplacingForbiddenWords.csprojResolveAssemblyReference.cache

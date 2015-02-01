@@ -1,0 +1,5 @@
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\06.ArrayNElementsKMaxSum\bin\Debug\06.ArrayNElementsKMaxSum.exe.config
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\06.ArrayNElementsKMaxSum\bin\Debug\06.ArrayNElementsKMaxSum.exe
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\06.ArrayNElementsKMaxSum\bin\Debug\06.ArrayNElementsKMaxSum.pdb
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\06.ArrayNElementsKMaxSum\obj\Debug\06.ArrayNElementsKMaxSum.exe
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\06.ArrayNElementsKMaxSum\obj\Debug\06.ArrayNElementsKMaxSum.pdb

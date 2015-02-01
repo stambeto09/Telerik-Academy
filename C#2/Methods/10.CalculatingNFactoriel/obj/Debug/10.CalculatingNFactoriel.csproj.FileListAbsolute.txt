@@ -1,0 +1,6 @@
+W:\Telerik\C#2\MethodHomework\MethodHomework\10.CalculatingNFactoriel\bin\Debug\10.CalculatingNFactoriel.exe.config
+W:\Telerik\C#2\MethodHomework\MethodHomework\10.CalculatingNFactoriel\bin\Debug\10.CalculatingNFactoriel.exe
+W:\Telerik\C#2\MethodHomework\MethodHomework\10.CalculatingNFactoriel\bin\Debug\10.CalculatingNFactoriel.pdb
+W:\Telerik\C#2\MethodHomework\MethodHomework\10.CalculatingNFactoriel\obj\Debug\10.CalculatingNFactoriel.csprojResolveAssemblyReference.cache
+W:\Telerik\C#2\MethodHomework\MethodHomework\10.CalculatingNFactoriel\obj\Debug\10.CalculatingNFactoriel.exe
+W:\Telerik\C#2\MethodHomework\MethodHomework\10.CalculatingNFactoriel\obj\Debug\10.CalculatingNFactoriel.pdb

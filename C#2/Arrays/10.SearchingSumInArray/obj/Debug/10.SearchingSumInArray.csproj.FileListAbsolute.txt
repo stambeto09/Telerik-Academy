@@ -1,0 +1,6 @@
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\10.SearchingSumInArray\bin\Debug\10.SearchingSumInArray.exe.config
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\10.SearchingSumInArray\bin\Debug\10.SearchingSumInArray.exe
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\10.SearchingSumInArray\bin\Debug\10.SearchingSumInArray.pdb
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\10.SearchingSumInArray\obj\Debug\10.SearchingSumInArray.csprojResolveAssemblyReference.cache
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\10.SearchingSumInArray\obj\Debug\10.SearchingSumInArray.exe
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\10.SearchingSumInArray\obj\Debug\10.SearchingSumInArray.pdb

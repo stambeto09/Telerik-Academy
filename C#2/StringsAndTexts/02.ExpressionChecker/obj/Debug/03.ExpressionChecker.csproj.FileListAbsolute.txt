@@ -1,0 +1,6 @@
+C:\Users\akastambata\Desktop\StringAndTextsHomework\StringsAndTextsHomeWork\02.ExpressionChecker\bin\Debug\02.ExpressionChecker.exe.config
+C:\Users\akastambata\Desktop\StringAndTextsHomework\StringsAndTextsHomeWork\02.ExpressionChecker\bin\Debug\02.ExpressionChecker.exe
+C:\Users\akastambata\Desktop\StringAndTextsHomework\StringsAndTextsHomeWork\02.ExpressionChecker\bin\Debug\02.ExpressionChecker.pdb
+C:\Users\akastambata\Desktop\StringAndTextsHomework\StringsAndTextsHomeWork\02.ExpressionChecker\obj\Debug\03.ExpressionChecker.csprojResolveAssemblyReference.cache
+C:\Users\akastambata\Desktop\StringAndTextsHomework\StringsAndTextsHomeWork\02.ExpressionChecker\obj\Debug\02.ExpressionChecker.exe
+C:\Users\akastambata\Desktop\StringAndTextsHomework\StringsAndTextsHomeWork\02.ExpressionChecker\obj\Debug\02.ExpressionChecker.pdb

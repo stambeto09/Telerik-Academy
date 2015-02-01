@@ -1,0 +1,7 @@
+W:\Telerik\C#2\MethodHomework\MethodHomework\UnitTestNameMethod\bin\Debug\UnitTestNameMethod.dll
+W:\Telerik\C#2\MethodHomework\MethodHomework\UnitTestNameMethod\bin\Debug\UnitTestNameMethod.pdb
+W:\Telerik\C#2\MethodHomework\MethodHomework\UnitTestNameMethod\bin\Debug\01.NameMethod.exe
+W:\Telerik\C#2\MethodHomework\MethodHomework\UnitTestNameMethod\bin\Debug\01.NameMethod.pdb
+W:\Telerik\C#2\MethodHomework\MethodHomework\UnitTestNameMethod\obj\Debug\UnitTestNameMethod.csprojResolveAssemblyReference.cache
+W:\Telerik\C#2\MethodHomework\MethodHomework\UnitTestNameMethod\obj\Debug\UnitTestNameMethod.dll
+W:\Telerik\C#2\MethodHomework\MethodHomework\UnitTestNameMethod\obj\Debug\UnitTestNameMethod.pdb

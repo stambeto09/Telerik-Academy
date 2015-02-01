@@ -1,0 +1,9 @@
+W:\Telerik\C#2\MultidimensionalArraysHomework\NumeralSystemHomework\NumeralSystemsHomework\01.DecimalToBinaryConverter\bin\Debug\01.DecimalToBinaryConverter.exe.config
+W:\Telerik\C#2\MultidimensionalArraysHomework\NumeralSystemHomework\NumeralSystemsHomework\01.DecimalToBinaryConverter\bin\Debug\01.DecimalToBinaryConverter.exe
+W:\Telerik\C#2\MultidimensionalArraysHomework\NumeralSystemHomework\NumeralSystemsHomework\01.DecimalToBinaryConverter\bin\Debug\01.DecimalToBinaryConverter.pdb
+W:\Telerik\C#2\MultidimensionalArraysHomework\NumeralSystemHomework\NumeralSystemsHomework\01.DecimalToBinaryConverter\obj\Debug\01.DecimalToBinaryConverter.csprojResolveAssemblyReference.cache
+W:\Telerik\C#2\MultidimensionalArraysHomework\NumeralSystemHomework\NumeralSystemsHomework\01.DecimalToBinaryConverter\obj\Debug\01.DecimalToBinaryConverter.exe
+W:\Telerik\C#2\MultidimensionalArraysHomework\NumeralSystemHomework\NumeralSystemsHomework\01.DecimalToBinaryConverter\obj\Debug\01.DecimalToBinaryConverter.pdb
+W:\Telerik\C#2\NumeralSystemHomework\NumeralSystemsHomework\01.DecimalToBinaryConverter\bin\Debug\01.DecimalToBinaryConverter.exe.config
+W:\Telerik\C#2\NumeralSystemHomework\NumeralSystemsHomework\01.DecimalToBinaryConverter\obj\Debug\01.DecimalToBinaryConverter.exe
+W:\Telerik\C#2\NumeralSystemHomework\NumeralSystemsHomework\01.DecimalToBinaryConverter\obj\Debug\01.DecimalToBinaryConverter.pdb

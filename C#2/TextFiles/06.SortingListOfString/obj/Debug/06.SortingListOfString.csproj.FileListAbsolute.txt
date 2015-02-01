@@ -1,0 +1,6 @@
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\06.SortingListOfString\bin\Debug\06.SortingListOfString.exe.config
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\06.SortingListOfString\bin\Debug\06.SortingListOfString.exe
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\06.SortingListOfString\bin\Debug\06.SortingListOfString.pdb
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\06.SortingListOfString\obj\Debug\06.SortingListOfString.csprojResolveAssemblyReference.cache
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\06.SortingListOfString\obj\Debug\06.SortingListOfString.exe
+W:\Telerik\C#2\TextFilesHomework\TextFilesHomework\06.SortingListOfString\obj\Debug\06.SortingListOfString.pdb

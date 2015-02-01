@@ -1,0 +1,6 @@
+W:\Telerik\C#2\MethodHomework\MethodHomework\09.MaximalElementInPortion\bin\Debug\09.MaximalElementInPortion.exe.config
+W:\Telerik\C#2\MethodHomework\MethodHomework\09.MaximalElementInPortion\bin\Debug\09.MaximalElementInPortion.exe
+W:\Telerik\C#2\MethodHomework\MethodHomework\09.MaximalElementInPortion\bin\Debug\09.MaximalElementInPortion.pdb
+W:\Telerik\C#2\MethodHomework\MethodHomework\09.MaximalElementInPortion\obj\Debug\09.MaximalElementInPortion.exe
+W:\Telerik\C#2\MethodHomework\MethodHomework\09.MaximalElementInPortion\obj\Debug\09.MaximalElementInPortion.pdb
+W:\Telerik\C#2\MethodHomework\MethodHomework\09.MaximalElementInPortion\obj\Debug\09.MaximalElementInPortion.csprojResolveAssemblyReference.cache

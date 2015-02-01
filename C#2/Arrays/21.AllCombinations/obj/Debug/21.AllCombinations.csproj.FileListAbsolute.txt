@@ -1,0 +1,1 @@
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\21.AllCombinations\bin\Debug\21.AllCombinations.exe.config

@@ -1,0 +1,6 @@
+W:\Telerik\C#2\MultidimensionalArraysHomework\MultidimensionalArrayHomework\02.3x3MaximalSumSegment\bin\Debug\02.3x3MaximalSumSegment.exe.config
+W:\Telerik\C#2\MultidimensionalArraysHomework\MultidimensionalArrayHomework\02.3x3MaximalSumSegment\bin\Debug\02.3x3MaximalSumSegment.exe
+W:\Telerik\C#2\MultidimensionalArraysHomework\MultidimensionalArrayHomework\02.3x3MaximalSumSegment\bin\Debug\02.3x3MaximalSumSegment.pdb
+W:\Telerik\C#2\MultidimensionalArraysHomework\MultidimensionalArrayHomework\02.3x3MaximalSumSegment\obj\Debug\02.3x3MaximalSumSegment.csprojResolveAssemblyReference.cache
+W:\Telerik\C#2\MultidimensionalArraysHomework\MultidimensionalArrayHomework\02.3x3MaximalSumSegment\obj\Debug\02.3x3MaximalSumSegment.exe
+W:\Telerik\C#2\MultidimensionalArraysHomework\MultidimensionalArrayHomework\02.3x3MaximalSumSegment\obj\Debug\02.3x3MaximalSumSegment.pdb

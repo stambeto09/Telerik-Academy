@@ -1,0 +1,8 @@
+W:\Telerik\C#2\MultidimensionalArraysHomework\NumeralSystemHomework\NumeralSystemsHomework\03.DecimalToHexadecimalConverter\bin\Debug\03.DecimalToHexadecimalConverter.exe.config
+W:\Telerik\C#2\MultidimensionalArraysHomework\NumeralSystemHomework\NumeralSystemsHomework\03.DecimalToHexadecimalConverter\bin\Debug\03.DecimalToHexadecimalConverter.exe
+W:\Telerik\C#2\MultidimensionalArraysHomework\NumeralSystemHomework\NumeralSystemsHomework\03.DecimalToHexadecimalConverter\bin\Debug\03.DecimalToHexadecimalConverter.pdb
+W:\Telerik\C#2\MultidimensionalArraysHomework\NumeralSystemHomework\NumeralSystemsHomework\03.DecimalToHexadecimalConverter\obj\Debug\03.DecimalToHexadecimalConverter.exe
+W:\Telerik\C#2\MultidimensionalArraysHomework\NumeralSystemHomework\NumeralSystemsHomework\03.DecimalToHexadecimalConverter\obj\Debug\03.DecimalToHexadecimalConverter.pdb
+W:\Telerik\C#2\NumeralSystemHomework\NumeralSystemsHomework\03.DecimalToHexadecimalConverter\bin\Debug\03.DecimalToHexadecimalConverter.exe.config
+W:\Telerik\C#2\NumeralSystemHomework\NumeralSystemsHomework\03.DecimalToHexadecimalConverter\obj\Debug\03.DecimalToHexadecimalConverter.exe
+W:\Telerik\C#2\NumeralSystemHomework\NumeralSystemsHomework\03.DecimalToHexadecimalConverter\obj\Debug\03.DecimalToHexadecimalConverter.pdb

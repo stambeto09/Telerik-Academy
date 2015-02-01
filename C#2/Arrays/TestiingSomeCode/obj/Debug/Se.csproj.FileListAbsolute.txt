@@ -1,0 +1,6 @@
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\TestiingSomeCode\bin\Debug\TestiingSomeCode.exe.config
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\TestiingSomeCode\obj\Debug\TestiingSomeCode.exe
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\TestiingSomeCode\obj\Debug\TestiingSomeCode.pdb
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\TestiingSomeCode\obj\Debug\Se.csprojResolveAssemblyReference.cache
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\TestiingSomeCode\bin\Debug\TestiingSomeCode.exe
+W:\Telerik\C#2\ArrayHomework\ArrayHomework\TestiingSomeCode\bin\Debug\TestiingSomeCode.pdb
