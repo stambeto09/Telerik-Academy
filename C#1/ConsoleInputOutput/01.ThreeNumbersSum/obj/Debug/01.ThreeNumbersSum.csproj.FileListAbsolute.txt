@@ -1,0 +1,11 @@
+F:\Telerik and TY\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\ThreeNumbersSum\bin\Debug\ThreeNumbersSum.exe.config
+F:\Telerik and TY\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\ThreeNumbersSum\bin\Debug\ThreeNumbersSum.exe
+F:\Telerik and TY\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\ThreeNumbersSum\bin\Debug\ThreeNumbersSum.pdb
+F:\Telerik and TY\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\ThreeNumbersSum\obj\Debug\ThreeNumbersSum.exe
+F:\Telerik and TY\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\ThreeNumbersSum\obj\Debug\ThreeNumbersSum.pdb
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\ThreeNumbersSum\bin\Debug\ThreeNumbersSum.exe.config
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\ThreeNumbersSum\obj\Debug\ThreeNumbersSum.exe
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\ThreeNumbersSum\obj\Debug\ThreeNumbersSum.pdb
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\01.ThreeNumbersSum\bin\Debug\ThreeNumbersSum.exe.config
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\01.ThreeNumbersSum\obj\Debug\ThreeNumbersSum.exe
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\01.ThreeNumbersSum\obj\Debug\ThreeNumbersSum.pdb

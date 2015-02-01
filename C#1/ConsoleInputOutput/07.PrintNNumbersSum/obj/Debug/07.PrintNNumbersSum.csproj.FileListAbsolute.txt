@@ -1,0 +1,9 @@
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\PrintNNumbersSum\bin\Debug\PrintNNumbersSum.exe.config
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\PrintNNumbersSum\bin\Debug\PrintNNumbersSum.exe
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\PrintNNumbersSum\bin\Debug\PrintNNumbersSum.pdb
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\PrintNNumbersSum\obj\Debug\07.PrintNNumbersSum.csprojResolveAssemblyReference.cache
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\PrintNNumbersSum\obj\Debug\PrintNNumbersSum.exe
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\PrintNNumbersSum\obj\Debug\PrintNNumbersSum.pdb
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\07.PrintNNumbersSum\bin\Debug\PrintNNumbersSum.exe.config
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\07.PrintNNumbersSum\obj\Debug\PrintNNumbersSum.exe
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\07.PrintNNumbersSum\obj\Debug\PrintNNumbersSum.pdb

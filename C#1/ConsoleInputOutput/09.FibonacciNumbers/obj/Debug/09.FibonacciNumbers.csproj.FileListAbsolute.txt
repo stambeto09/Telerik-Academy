@@ -1,0 +1,6 @@
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\09.FibonacciNumbers\bin\Debug\09.FibonacciNumbers.exe.config
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\09.FibonacciNumbers\bin\Debug\09.FibonacciNumbers.exe
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\09.FibonacciNumbers\bin\Debug\09.FibonacciNumbers.pdb
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\09.FibonacciNumbers\obj\Debug\09.FibonacciNumbers.csprojResolveAssemblyReference.cache
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\09.FibonacciNumbers\obj\Debug\09.FibonacciNumbers.exe
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\09.FibonacciNumbers\obj\Debug\09.FibonacciNumbers.pdb

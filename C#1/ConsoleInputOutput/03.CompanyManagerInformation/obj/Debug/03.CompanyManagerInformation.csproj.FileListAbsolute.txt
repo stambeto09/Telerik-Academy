@@ -1,0 +1,9 @@
+F:\Telerik and TY\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\03.CompanyManagerInformation\bin\Debug\03.CompanyManagerInformation.exe.config
+F:\Telerik and TY\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\03.CompanyManagerInformation\bin\Debug\03.CompanyManagerInformation.exe
+F:\Telerik and TY\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\03.CompanyManagerInformation\bin\Debug\03.CompanyManagerInformation.pdb
+F:\Telerik and TY\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\03.CompanyManagerInformation\obj\Debug\03.CompanyManagerInformation.csprojResolveAssemblyReference.cache
+F:\Telerik and TY\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\03.CompanyManagerInformation\obj\Debug\03.CompanyManagerInformation.exe
+F:\Telerik and TY\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\03.CompanyManagerInformation\obj\Debug\03.CompanyManagerInformation.pdb
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\03.CompanyManagerInformation\bin\Debug\03.CompanyManagerInformation.exe.config
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\03.CompanyManagerInformation\obj\Debug\03.CompanyManagerInformation.exe
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\03.CompanyManagerInformation\obj\Debug\03.CompanyManagerInformation.pdb

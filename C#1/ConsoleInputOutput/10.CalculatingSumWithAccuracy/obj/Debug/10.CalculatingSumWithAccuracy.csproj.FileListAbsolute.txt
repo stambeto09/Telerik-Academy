@@ -1,0 +1,6 @@
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\10.CalculatingSumWithAccuracy\bin\Debug\10.CalculatingSumWithAccuracy.exe.config
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\10.CalculatingSumWithAccuracy\bin\Debug\10.CalculatingSumWithAccuracy.exe
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\10.CalculatingSumWithAccuracy\bin\Debug\10.CalculatingSumWithAccuracy.pdb
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\10.CalculatingSumWithAccuracy\obj\Debug\10.CalculatingSumWithAccuracy.csprojResolveAssemblyReference.cache
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\10.CalculatingSumWithAccuracy\obj\Debug\10.CalculatingSumWithAccuracy.exe
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\10.CalculatingSumWithAccuracy\obj\Debug\10.CalculatingSumWithAccuracy.pdb

@@ -1,0 +1,12 @@
+F:\Telerik and TY\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\CirclePerimeterAndArea\bin\Debug\CirclePerimeterAndArea.exe.config
+F:\Telerik and TY\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\CirclePerimeterAndArea\bin\Debug\CirclePerimeterAndArea.exe
+F:\Telerik and TY\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\CirclePerimeterAndArea\bin\Debug\CirclePerimeterAndArea.pdb
+F:\Telerik and TY\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\CirclePerimeterAndArea\obj\Debug\02.CirclePerimeterAndArea.csprojResolveAssemblyReference.cache
+F:\Telerik and TY\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\CirclePerimeterAndArea\obj\Debug\CirclePerimeterAndArea.exe
+F:\Telerik and TY\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\CirclePerimeterAndArea\obj\Debug\CirclePerimeterAndArea.pdb
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\02.CirclePerimeterAndArea\bin\Debug\CirclePerimeterAndArea.exe.config
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\02.CirclePerimeterAndArea\obj\Debug\CirclePerimeterAndArea.exe
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\02.CirclePerimeterAndArea\obj\Debug\CirclePerimeterAndArea.pdb
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\02.CirclePerimeterAndArea\bin\Debug\CirclePerimeterAndArea.exe
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\02.CirclePerimeterAndArea\bin\Debug\CirclePerimeterAndArea.pdb
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\02.CirclePerimeterAndArea\obj\Debug\02.CirclePerimeterAndArea.csprojResolveAssemblyReference.cache

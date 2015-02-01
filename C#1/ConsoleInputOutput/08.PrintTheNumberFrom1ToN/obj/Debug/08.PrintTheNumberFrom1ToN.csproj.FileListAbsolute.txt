@@ -1,0 +1,6 @@
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\08.PrintTheNumberFrom1ToN\bin\Debug\08.PrintTheNumberFrom1ToN.exe.config
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\08.PrintTheNumberFrom1ToN\bin\Debug\08.PrintTheNumberFrom1ToN.exe
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\08.PrintTheNumberFrom1ToN\bin\Debug\08.PrintTheNumberFrom1ToN.pdb
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\08.PrintTheNumberFrom1ToN\obj\Debug\08.PrintTheNumberFrom1ToN.exe
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\08.PrintTheNumberFrom1ToN\obj\Debug\08.PrintTheNumberFrom1ToN.pdb
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\08.PrintTheNumberFrom1ToN\obj\Debug\08.PrintTheNumberFrom1ToN.csprojResolveAssemblyReference.cache

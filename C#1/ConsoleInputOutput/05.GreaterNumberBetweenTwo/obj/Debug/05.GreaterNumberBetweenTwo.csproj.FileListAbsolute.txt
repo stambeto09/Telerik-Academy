@@ -1,0 +1,3 @@
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\05.GreaterNumberBetweenTwo\bin\Debug\GreaterNumberBetweenTwo.exe.config
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\05.GreaterNumberBetweenTwo\obj\Debug\GreaterNumberBetweenTwo.exe
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\05.GreaterNumberBetweenTwo\obj\Debug\GreaterNumberBetweenTwo.pdb

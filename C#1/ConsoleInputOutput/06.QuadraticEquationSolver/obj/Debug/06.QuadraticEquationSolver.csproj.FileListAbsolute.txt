@@ -1,0 +1,15 @@
+F:\Telerik and TY\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\QuadraticEquationSolver\bin\Debug\QuadraticEquationSolver.exe.config
+F:\Telerik and TY\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\QuadraticEquationSolver\bin\Debug\QuadraticEquationSolver.exe
+F:\Telerik and TY\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\QuadraticEquationSolver\bin\Debug\QuadraticEquationSolver.pdb
+F:\Telerik and TY\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\QuadraticEquationSolver\obj\Debug\06.QuadraticEquationSolver.csprojResolveAssemblyReference.cache
+F:\Telerik and TY\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\QuadraticEquationSolver\obj\Debug\QuadraticEquationSolver.exe
+F:\Telerik and TY\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\QuadraticEquationSolver\obj\Debug\QuadraticEquationSolver.pdb
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\QuadraticEquationSolver\bin\Debug\QuadraticEquationSolver.exe.config
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\QuadraticEquationSolver\obj\Debug\QuadraticEquationSolver.exe
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\QuadraticEquationSolver\obj\Debug\QuadraticEquationSolver.pdb
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\QuadraticEquationSolver\bin\Debug\QuadraticEquationSolver.exe
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\QuadraticEquationSolver\bin\Debug\QuadraticEquationSolver.pdb
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\QuadraticEquationSolver\obj\Debug\06.QuadraticEquationSolver.csprojResolveAssemblyReference.cache
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\06.QuadraticEquationSolver\bin\Debug\QuadraticEquationSolver.exe.config
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\06.QuadraticEquationSolver\obj\Debug\QuadraticEquationSolver.exe
+W:\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\06.QuadraticEquationSolver\obj\Debug\QuadraticEquationSolver.pdb

@@ -1,0 +1,1 @@
+F:\Telerik and TY\Telerik\C#1\ConsoleInputOutputHomework\ConsoleInputOutputHomework\TwoIntegerIntervalNumbers\bin\Debug\TwoIntegerIntervalNumbers.exe.config
