@@ -1,0 +1,137 @@
+﻿body {
+  background-color: green;
+  background: #d091fb;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #d091fb 0%, #9215f2 24%);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #d091fb), color-stop(24%, #9215f2));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, #d091fb 0%, #9215f2 24%);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, #d091fb 0%, #9215f2 24%);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, #d091fb 0%, #9215f2 24%);
+  /* IE10+ */
+  background: linear-gradient(to bottom, #d091fb 0%, #9215f2 24%);
+  /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#d091fb', endColorstr='#9215f2', GradientType=0);
+  /* IE6-9 */
+  /*Mixin for gradient*/
+  /*Main content styles*/
+}
+body #reg-form-container {
+  display: inline;
+  position: absolute;
+  left: 1100px;
+  top: 30px;
+}
+body #reg-form-container #tb-username,
+body #reg-form-container #tb-password {
+  background-color: #B35EF3;
+  border: 1px solid black;
+  border-radius: 7px;
+}
+body header #reg-form-container {
+  color: white;
+}
+body header #reg-form-container #btn-register {
+  color: white;
+  background-color: #B35EF3;
+  padding: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-weight: bold;
+  border-radius: 7px;
+  border-bottom: 1px solid black;
+  border-right: 1px solid black;
+  border-left: 1px solid white;
+  border-top: 1px solid white;
+}
+body #main-nav-list {
+  border: 1px solid black;
+  /*white color*/
+  border-radius: 10px;
+  padding: 10px;
+  position: relative;
+  width: 1030px;
+}
+body #main-nav-list li {
+  display: inline;
+  padding-left: 10px;
+}
+body #main-nav-list li a {
+  text-decoration: none;
+  color: white;
+}
+body #main-nav-list li .sub-nav-list {
+  display: none;
+}
+body article {
+  border: 1px solid black;
+  border-radius: 10px;
+  position: relative;
+  display: inline-block;
+  width: 990px;
+  margin-top: 15px;
+  padding: 15px;
+  text-align: left;
+  color: white;
+}
+body article a {
+  text-decoration: none;
+  color: #D0A3F8;
+}
+body article h1 {
+  /*margin*/
+}
+body article footer p {
+  position: relative;
+  text-align: right;
+  top: 500px;
+}
+body aside {
+  position: relative;
+  display: inline-block;
+  width: 360px;
+  left: 1000px;
+  bottom: 680px;
+}
+body aside ul {
+  list-style-type: none;
+}
+body aside ul li {
+  border: 1px solid black;
+  border-radius: 3px;
+  color: white;
+  /*white*/
+  margin-top: 15px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+}
+body aside ul li a,
+body aside ul li strong,
+body aside ul li em {
+  text-decoration: none;
+  color: #A496AF;
+}
+body aside ul li h2 {
+  color: white;
+  /*white*/
+}
+body aside ul li ul li {
+  border: none;
+  list-style: disc;
+  list-style-image: url('images/li-dot.png');
+  margin: -3px;
+}
+body footer {
+  display: inline;
+  position: relative;
+  bottom: 500px;
+}
+body footer p {
+  top: 150px;
+  text-align: center;
+  color: white;
+}
+/*# sourceMappingURL=PageLess.css.map */

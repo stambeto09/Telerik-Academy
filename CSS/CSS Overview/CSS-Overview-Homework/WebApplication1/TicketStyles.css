@@ -1,0 +1,26 @@
+﻿body{
+    background-color: #595959;
+}
+#ticket-id{
+    color: #A6AD9B;
+}
+.status-params{
+    color: #B7C2C1;
+    font-style: italic;
+}
+#active-support{
+    color: #F60D21;
+}
+.user-info{
+    color:#CDCB8A;
+}
+a{
+    color:#CDCB8A;
+    text-decoration: none;
+}
+#phone-status{
+    color:#D46735;
+}
+.action-values{
+    color:#7D919C;
+}

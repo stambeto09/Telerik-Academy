@@ -1,0 +1,32 @@
+body{
+background-color:#978287;font-family:Arial, sans-serif;
+}
+th {
+color:#5D3C45 ; font-size: 1.5em;
+}
+.parker {
+
+color:#EEE8E1
+}
+#support{
+color:red   
+}
+#notanswered {
+color:#DD7C1B
+}
+.important {
+color:#CCC7C2
+}
+.other {
+color:#5D3C45
+}
+td {
+    padding: 10px;
+}
+table {
+text-align:left;
+}
+
+td {
+vertical-align:top;
+}
