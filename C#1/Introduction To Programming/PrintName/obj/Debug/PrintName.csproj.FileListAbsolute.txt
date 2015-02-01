@@ -1,0 +1,12 @@
+F:\Telerik and TY\Telerik\C#1\Solution1\PrintName\bin\Debug\PrintName.exe.config
+F:\Telerik and TY\Telerik\C#1\Solution1\PrintName\bin\Debug\PrintName.exe
+F:\Telerik and TY\Telerik\C#1\Solution1\PrintName\bin\Debug\PrintName.pdb
+F:\Telerik and TY\Telerik\C#1\Solution1\PrintName\obj\Debug\PrintName.csprojResolveAssemblyReference.cache
+F:\Telerik and TY\Telerik\C#1\Solution1\PrintName\obj\Debug\PrintName.exe
+F:\Telerik and TY\Telerik\C#1\Solution1\PrintName\obj\Debug\PrintName.pdb
+F:\Telerik and TY\Telerik\C#1\a\PrintName\bin\Debug\PrintName.exe.config
+F:\Telerik and TY\Telerik\C#1\a\PrintName\obj\Debug\PrintName.exe
+F:\Telerik and TY\Telerik\C#1\a\PrintName\obj\Debug\PrintName.pdb
+F:\Telerik and TY\Telerik\C#1\IntroProgrammingHomework\PrintName\bin\Debug\PrintName.exe.config
+F:\Telerik and TY\Telerik\C#1\IntroProgrammingHomework\PrintName\obj\Debug\PrintName.exe
+F:\Telerik and TY\Telerik\C#1\IntroProgrammingHomework\PrintName\obj\Debug\PrintName.pdb

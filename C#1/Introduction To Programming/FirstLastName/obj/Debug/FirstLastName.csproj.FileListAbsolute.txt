@@ -1,0 +1,11 @@
+F:\Telerik and TY\Telerik\C#1\Solution1\FirstLastName\bin\Debug\FirstLastName.exe.config
+F:\Telerik and TY\Telerik\C#1\Solution1\FirstLastName\bin\Debug\FirstLastName.exe
+F:\Telerik and TY\Telerik\C#1\Solution1\FirstLastName\bin\Debug\FirstLastName.pdb
+F:\Telerik and TY\Telerik\C#1\Solution1\FirstLastName\obj\Debug\FirstLastName.exe
+F:\Telerik and TY\Telerik\C#1\Solution1\FirstLastName\obj\Debug\FirstLastName.pdb
+F:\Telerik and TY\Telerik\C#1\a\FirstLastName\bin\Debug\FirstLastName.exe.config
+F:\Telerik and TY\Telerik\C#1\a\FirstLastName\obj\Debug\FirstLastName.exe
+F:\Telerik and TY\Telerik\C#1\a\FirstLastName\obj\Debug\FirstLastName.pdb
+F:\Telerik and TY\Telerik\C#1\IntroProgrammingHomework\FirstLastName\bin\Debug\FirstLastName.exe.config
+F:\Telerik and TY\Telerik\C#1\IntroProgrammingHomework\FirstLastName\obj\Debug\FirstLastName.exe
+F:\Telerik and TY\Telerik\C#1\IntroProgrammingHomework\FirstLastName\obj\Debug\FirstLastName.pdb

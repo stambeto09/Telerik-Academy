@@ -1,0 +1,14 @@
+F:\Telerik and TY\Telerik\C#1\Solution1\FirstTenNumbers\bin\Debug\FirstTenNumbers.exe.config
+F:\Telerik and TY\Telerik\C#1\Solution1\FirstTenNumbers\bin\Debug\FirstTenNumbers.exe
+F:\Telerik and TY\Telerik\C#1\Solution1\FirstTenNumbers\bin\Debug\FirstTenNumbers.pdb
+F:\Telerik and TY\Telerik\C#1\Solution1\FirstTenNumbers\obj\Debug\FirstTenNumbers.exe
+F:\Telerik and TY\Telerik\C#1\Solution1\FirstTenNumbers\obj\Debug\FirstTenNumbers.pdb
+F:\Telerik and TY\Telerik\C#1\a\FirstTenNumbers\bin\Debug\FirstTenNumbers.exe.config
+F:\Telerik and TY\Telerik\C#1\a\FirstTenNumbers\obj\Debug\FirstTenNumbers.exe
+F:\Telerik and TY\Telerik\C#1\a\FirstTenNumbers\obj\Debug\FirstTenNumbers.pdb
+F:\Telerik and TY\Telerik\C#1\a\FirstTenNumbers\bin\Debug\FirstTenNumbers.exe
+F:\Telerik and TY\Telerik\C#1\a\FirstTenNumbers\bin\Debug\FirstTenNumbers.pdb
+F:\Telerik and TY\Telerik\C#1\a\FirstTenNumbers\obj\Debug\FirstTenNumbers.csprojResolveAssemblyReference.cache
+F:\Telerik and TY\Telerik\C#1\IntroProgrammingHomework\FirstTenNumbers\bin\Debug\FirstTenNumbers.exe.config
+F:\Telerik and TY\Telerik\C#1\IntroProgrammingHomework\FirstTenNumbers\obj\Debug\FirstTenNumbers.exe
+F:\Telerik and TY\Telerik\C#1\IntroProgrammingHomework\FirstTenNumbers\obj\Debug\FirstTenNumbers.pdb

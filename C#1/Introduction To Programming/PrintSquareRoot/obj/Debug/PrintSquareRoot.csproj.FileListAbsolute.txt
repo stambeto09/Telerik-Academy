@@ -1,0 +1,8 @@
+F:\Telerik and TY\Telerik\C#1\Solution1\PrintSquareRoot\bin\Debug\PrintSquareRoot.exe.config
+F:\Telerik and TY\Telerik\C#1\Solution1\PrintSquareRoot\bin\Debug\PrintSquareRoot.exe
+F:\Telerik and TY\Telerik\C#1\Solution1\PrintSquareRoot\bin\Debug\PrintSquareRoot.pdb
+F:\Telerik and TY\Telerik\C#1\Solution1\PrintSquareRoot\obj\Debug\PrintSquareRoot.exe
+F:\Telerik and TY\Telerik\C#1\Solution1\PrintSquareRoot\obj\Debug\PrintSquareRoot.pdb
+F:\Telerik and TY\Telerik\C#1\a\PrintSquareRoot\bin\Debug\PrintSquareRoot.exe.config
+F:\Telerik and TY\Telerik\C#1\a\PrintSquareRoot\obj\Debug\PrintSquareRoot.exe
+F:\Telerik and TY\Telerik\C#1\a\PrintSquareRoot\obj\Debug\PrintSquareRoot.pdb

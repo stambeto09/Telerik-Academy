@@ -1,0 +1,8 @@
+F:\Telerik and TY\Telerik\C#1\Solution1\PrintDateTime\bin\Debug\PrintDateTime.exe.config
+F:\Telerik and TY\Telerik\C#1\Solution1\PrintDateTime\bin\Debug\PrintDateTime.exe
+F:\Telerik and TY\Telerik\C#1\Solution1\PrintDateTime\bin\Debug\PrintDateTime.pdb
+F:\Telerik and TY\Telerik\C#1\Solution1\PrintDateTime\obj\Debug\PrintDateTime.exe
+F:\Telerik and TY\Telerik\C#1\Solution1\PrintDateTime\obj\Debug\PrintDateTime.pdb
+F:\Telerik and TY\Telerik\C#1\IntroProgrammingHomework\PrintDateTime\bin\Debug\PrintDateTime.exe.config
+F:\Telerik and TY\Telerik\C#1\IntroProgrammingHomework\PrintDateTime\obj\Debug\PrintDateTime.exe
+F:\Telerik and TY\Telerik\C#1\IntroProgrammingHomework\PrintDateTime\obj\Debug\PrintDateTime.pdb

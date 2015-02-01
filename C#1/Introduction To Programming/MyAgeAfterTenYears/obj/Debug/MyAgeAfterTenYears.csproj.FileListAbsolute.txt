@@ -1,0 +1,8 @@
+F:\Telerik and TY\Telerik\C#1\Solution1\MyAgeAfterTenYears\bin\Debug\MyAgeAfterTenYears.exe.config
+F:\Telerik and TY\Telerik\C#1\Solution1\MyAgeAfterTenYears\bin\Debug\MyAgeAfterTenYears.exe
+F:\Telerik and TY\Telerik\C#1\Solution1\MyAgeAfterTenYears\bin\Debug\MyAgeAfterTenYears.pdb
+F:\Telerik and TY\Telerik\C#1\Solution1\MyAgeAfterTenYears\obj\Debug\MyAgeAfterTenYears.exe
+F:\Telerik and TY\Telerik\C#1\Solution1\MyAgeAfterTenYears\obj\Debug\MyAgeAfterTenYears.pdb
+F:\Telerik and TY\Telerik\C#1\IntroProgrammingHomework\MyAgeAfterTenYears\bin\Debug\MyAgeAfterTenYears.exe.config
+F:\Telerik and TY\Telerik\C#1\IntroProgrammingHomework\MyAgeAfterTenYears\obj\Debug\MyAgeAfterTenYears.exe
+F:\Telerik and TY\Telerik\C#1\IntroProgrammingHomework\MyAgeAfterTenYears\obj\Debug\MyAgeAfterTenYears.pdb

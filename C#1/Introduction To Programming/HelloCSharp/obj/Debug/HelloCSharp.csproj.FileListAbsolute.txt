@@ -1,0 +1,8 @@
+F:\Telerik and TY\Telerik\C#1\Solution1\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+F:\Telerik and TY\Telerik\C#1\Solution1\HelloCSharp\bin\Debug\HelloCSharp.exe
+F:\Telerik and TY\Telerik\C#1\Solution1\HelloCSharp\bin\Debug\HelloCSharp.pdb
+F:\Telerik and TY\Telerik\C#1\Solution1\HelloCSharp\obj\Debug\HelloCSharp.exe
+F:\Telerik and TY\Telerik\C#1\Solution1\HelloCSharp\obj\Debug\HelloCSharp.pdb
+F:\Telerik and TY\Telerik\C#1\IntroProgrammingHomework\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+F:\Telerik and TY\Telerik\C#1\IntroProgrammingHomework\HelloCSharp\obj\Debug\HelloCSharp.exe
+F:\Telerik and TY\Telerik\C#1\IntroProgrammingHomework\HelloCSharp\obj\Debug\HelloCSharp.pdb
